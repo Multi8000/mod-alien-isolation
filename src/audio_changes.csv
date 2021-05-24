@@ -22,9 +22,7 @@
 3.mkv;13:43;Medio.;;A1_M0401_RIP_9611;Que diabo foi aquilo? Por que você foi tão agressivo?;Dialogo;Normal;
 3.mkv;14:02;Medio.;;A1_M0401_AXE_7316;Espero que essa nave sua seja de verdade.;Dialogo;Normal;
 3.mkv;14:02;Medio.;;A1_M0401_AXE_0320;Escute, querida, quando chegarmos à nave, aí a gente pode relaxar, fazer tranças no cabelo um do outro e bater papo o quanto você quiser.;Dialogo;Normal;
-3.mkv;14:55;Medio.;;A1_M0401_RIP_0330;"Tá, quando chegarmos à minha nave.
-(subitamente agressivo)
-Preciso saber o que está acontecendo. Agora mesmo, caralho.";Dialogo;Normal;
+3.mkv;14:55;Medio.;;A1_M0401_RIP_0330;Tá, quando chegarmos à minha nave.\n(subitamente agressivo)\nPreciso saber o que está acontecendo. Agora mesmo, caralho.;Dialogo;Normal;
 3.mkv;15:02;Medio.;;A1_M0401_RIP_8765;Um assassino? O que isso quer dizer?;Dialogo;Normal;
 3.mkv;16:25;Medio.;;A1_M0401_RIP_2020;Amigos seus?;Dialogo;Normal;
 3.mkv;16:28;Medio.;;A1_M0401_RIP_9759;Que surpresa.;Dialogo;Normal;
@@ -83,9 +81,7 @@ Preciso saber o que está acontecendo. Agora mesmo, caralho.";Dialogo;Normal;
 7.mkv;1:08;Medio.;;A1_M0901_RIP_8401;Como ela está?;Dialogo;Normal;
 7.mkv;1:10;Medio.;;A1_M0901_SAM_3585;Ela precisa de cuidados. A área médica é perto, mas não quis deixá-la.;Dialogo;Normal;
 7.mkv;1:14;Medio.;;A1_M0901_RIP_9212;Eu vou investigar. Verei o que encontro. Fique com ela.;Dialogo;Normal;
-7.mkv;1:19;Medio.;;A1_M0901_SAM_4671;"Vou tentar consertar o amplificador de rádio.
-(pausa)
-E se essa... ""criatura"" aparecer?";Dialogo;Normal;
+7.mkv;1:19;Medio.;;A1_M0901_SAM_4671;"Vou tentar consertar o amplificador de rádio.\n(pausa)\nE se essa... ""criatura"" aparecer?";Dialogo;Normal;
 7.mkv;1:26;Medio.;;A1_M0901_RIP_8577;Se esconda.;Dialogo;Normal;
 7.mkv;1:48;Medio.;;A1_M0901_SAM_6494;Não há tempo a perder, Ripley.;Dialogo;Normal;
 7.mkv;2:04;Medio.;;A1_M0901_SAM_9773;Fique comigo, Taylor. Ripley foi buscar ajuda.;Dialogo;Normal;
@@ -360,9 +356,7 @@ E se essa... ""criatura"" aparecer?";Dialogo;Normal;
 16.mkv;3:13;Medio.;;A1_M1602_RIP_2489;Eles não tão aqui. Acho que podem ter escapado. Ricardo? Ricardo!;Dialogo;Normal;
 16.mkv;3:22;Medio.;;A1_M1602_RIP_5148;Se eu for atrás do Samuels, você pode cuidar desse lugar? Preciso de olhos e ouvidos.;Dialogo;Normal;
 16.mkv;3:26;Medio.;;A1_M1602_RIC_3745;Eu não vou ficar aqui nem ferrando.;Dialogo;Normal;
-16.mkv;3:32;Medio.;;A1_M1602_RIP_9669;"Ricardo, preciso que faça isso. Você pode operar a estação e me manter informada?
-(pausa)
-Ricardo?";Dialogo;Normal;
+16.mkv;3:32;Medio.;;A1_M1602_RIP_9669;Ricardo, preciso que faça isso. Você pode operar a estação e me manter informada?\n(pausa)\nRicardo?;Dialogo;Normal;
 16.mkv;3:33;Medio.;;A1_M1602_RIC_6440;Sim, claro. Com certeza.;Dialogo;Normal;
 16.mkv;3:35;Medio.;;A1_M1602_RIP_3442;Aguenta firme. Feche as portas e não deixe ninguém entrar. Cuide de mim. Vou voltar pra te buscar.;Dialogo;Normal;
 16.mkv;13:03;Medio.;;A1_M2101_RIP_6978;Claro.;Dialogo;Normal;
