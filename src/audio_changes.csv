@@ -1,430 +1,438 @@
-﻿video_file_name;video_time;audio_loudness;obs;audio_filename;audio_legend;type;voice_tone;desired_lufs
-1.mkv;7:38;Medio.;;A1_M0101_SAM_2554;Ah, Ripley.;Dialogo;Normal;
-1.mkv;8:24;Medio.;;A1_M0101_RIP_6891;Parece que chegou a hora.;Dialogo;Normal;
-2.mkv;5:47;Baixo.;;A1_M0401_RIP_0006;Droga.;Fala instrospectiva;Normal;
-2.mkv;7:04;Baixo.;;A1_M0401_RIP_4228;Ah! Que droga...;Fala instrospectiva;Raiva;
-2.mkv;7:08;Baixo.;;A1_M0401_RIP_3010;Isto vai ajudar.;Fala instrospectiva;Normal;
-2.mkv;9:23;Baixo.;;A1_M0401_RIP_6996;Olá? Tem alguém aqui?;Fala instrospectiva;Sussurro;
-3.mkv;0:31;Baixo.;;A1_M0401_RIP_1454;Mas o que aconteceu aqui?;Fala instrospectiva;Sussurro;
-3.mkv;0:53;Baixo.;;A1_M0401_RIP_0170;A Torrens!;Fala instrospectiva;Sussurro;
-3.mkv;1:00;Baixo.;;A1_M0401_RIP_9312;Estou aqui! Estou bem aqui! Verlaine!;Fala instrospectiva;Normal;
-3.mkv;1:09;Baixo.;;A1_M0401_RIP_2001;Mas que droga!;Fala instrospectiva;Sussurro;
-3.mkv;4:04;Medio.;;A1_M0401_RIP_7231;Esse lugar inteiro tá se desintegrando.;Fala instrospectiva;Sussurro;
-3.mkv;5:52;Medio.;M04_WELCOMETOSEVASTOPOL.BNK (186431336);SPOT_Cat_RunAway_BB_B_01;-;Efeito sonoro;Normal;
-3.mkv;5:52;Medio.;DYNAMICLOAD_HAB_AIRPORT.BNK (245322062);SPOT_Cat_Pur_BB_A_04;-;Efeito sonoro;Normal;
-3.mkv;5:52;Medio.;DYNAMICLOAD_HAB_AIRPORT.BNK (70653539);SPOT_Cat_Pur_BB_A_03;-;Efeito sonoro;Normal;
-3.mkv;5:52;Medio.;DYNAMICLOAD_HAB_AIRPORT.BNK (388451914);SPOT_Cat_Pur_BB_A_01;-;Efeito sonoro;Normal;
-3.mkv;5:52;Medio.;DYNAMICLOAD_HAB_AIRPORT.BNK (482093851);SPOT_Cat_Pur_BB_A_02;-;Efeito sonoro;Normal;
-3.mkv;7:42;Baixo.;;A1_M0401_RIP_0198;Oh. Merda.;Fala instrospectiva;Sussurro;
-3.mkv;8:35;Baixo.;;A1_M0401_RIP_0230;Acho que preciso disso mais do que você.;Fala instrospectiva;Normal;
-3.mkv;12:32;Medio.;;A1_M0401_RIP_0250;Era você que estava me seguindo lá trás?;Dialogo;Normal;
-3.mkv;12:33;Alto.;;A1_M0401_AXE_0260;Eu tinha que manter distância, não dá para arriscar.;Dialogo;Normal;
-3.mkv;13:43;Medio.;;A1_M0401_RIP_9611;Que diabo foi aquilo? Por que você foi tão agressivo?;Dialogo;Normal;
-3.mkv;14:02;Medio.;;A1_M0401_AXE_7316;Espero que essa nave sua seja de verdade.;Dialogo;Normal;
-3.mkv;14:02;Medio.;;A1_M0401_AXE_0320;Escute, querida, quando chegarmos à nave, aí a gente pode relaxar, fazer tranças no cabelo um do outro e bater papo o quanto você quiser.;Dialogo;Normal;
-3.mkv;14:55;Medio.;;A1_M0401_RIP_0330;Tá, quando chegarmos à minha nave.\n(subitamente agressivo)\nPreciso saber o que está acontecendo. Agora mesmo, caralho.;Dialogo;Normal;
-3.mkv;15:02;Medio.;;A1_M0401_RIP_8765;Um assassino? O que isso quer dizer?;Dialogo;Normal;
-3.mkv;16:25;Medio.;;A1_M0401_RIP_2020;Amigos seus?;Dialogo;Normal;
-3.mkv;16:28;Medio.;;A1_M0401_RIP_9759;Que surpresa.;Dialogo;Normal;
-3.mkv;16:32;Medio.;;A1_M0401_AXE_9102, A1_M0401_AXE_7610;Não estou mentindo, querida. Você quer ir lá e dizer olá, o funeral é seu. Essas armas não são de mentira.;Dialogo;Normal;
-3.mkv;16:36;Medio.;;A1_M0401_RIP_2964;Alguém devia fazer alguma coisa.;Dialogo;Normal;
-3.mkv;16:51;Baixo.;;A1_M0401_RIP_0350;Eu percebi.;Dialogo;Normal;
-3.mkv;17:00;Baixo.;;A1_M0401_RIP_0500;Você tá... morando aqui?;Dialogo;Normal;
-4.mkv;0:21;Baixo.;;A1_M0401_RIP_8878;E agora?;Dialogo;Normal;
-4.mkv;1:31;Alto.;;A1_M0401_AXE_7116;Não é esperto ficar muito tempo por aqui.;Dialogo;Sussurro;
-4.mkv;1:43;Baixo.;;A1_M0401_RIP_0550;É assim que todo mundo viaja por aqui?;Dialogo;Sussurro;
-4.mkv;1:45;Alto.;;A1_M0401_AXE_0560;Só aqueles que querem continuar vivos, meu amor.;Dialogo;Sussurro;
-4.mkv;1:52;Alto.;;A1_M0401_AXE_1406;Torrens é o nome da sua nave, hein?;Dialogo;Sussurro;
-4.mkv;3:20;Baixo.;;A1_M0401_AXE_0740;Eles estão armados. E são muitos para enfrentar.;Dialogo;Sussurro;
-4.mkv;3:25;Baixo.;;A1_M0401_RIP_0750;Enfrentar?;Dialogo;Sussurro;
-4.mkv;3:30;Baixo.;;A1_M0401_RIP_1050;Como?;Dialogo;Sussurro;
-4.mkv;3:38;Medio.;;A1_M0401_AXE_3707;Você é menor do que eu, vai fazer menos barulho.;Dialogo;Sussurro;
-4.mkv;3:40;Baixo.;;A1_M0401_RIP_6352;Ótimo.;Dialogo;Sussurro;
-4.mkv;6:17;Medio.;;A1_M0401_RIP_4560;Falta muito?;Dialogo;Normal;
-4.mkv;7:35;Medio.;;A1_M0401_RIP_7740;Axel! Atrás de você!;Dialogo;Normal;
-4.mkv;8:59;Baixo.;;A1_M0401_RIP_0970;O que... o que que era aquela coisa?;Fala instrospectiva;Normal;
-4.mkv;9:08;Baixo.;;A1_M0401_RIP_0980;Não posso parar.;Fala instrospectiva;Normal;
-4.mkv;12:45;Baixo.;Aumentar o começo do audio;A1_M0601_CV6_0050;O que há de errado com essa coisa? Funciona, droga!;Dialogo;Normal;
-4.mkv;12:51;Baixo.;;A1_M0601_RIP_1100;Droga!;Fala instrospectiva;Normal;
-4.mkv;13:43;Baixo.;;A1_M0601_RIP_0260;Um sintonizador de acesso. Ela estava tentando invadir a segurança do elevador.;Fala instrospectiva;Normal;
-4.mkv;13:45;Baixo.;;A1_M0601_RIP_0280;Circuitos queimados. Fácil de consertar.;Fala instrospectiva;Normal;
-4.mkv;13:50;Baixo.;;A1_M0601_RIP_2864;Só preciso encontrar uma nova célula de dados.;Fala instrospectiva;Normal;
-4.mkv;13:58;Medio.;;A1_M0601_CV1_0670;E se ela só estava vasculhando o local, como a gente?;Dialogo;Normal;
-5.mkv;0:54;Medio.;;A1_M0601_RIP_8269;Oh, Deus. A caixa-preta.;Fala instrospectiva;Sussurro;
-5.mkv;1:01;Baixo.;;A1_M0601_RIP_2675;O quê? O quê?;Fala instrospectiva;Normal;
-5.mkv;1:10;Baixo.;;A1_M0601_RIP_9825;Não! Que droga!;Fala instrospectiva;Normal;
-5.mkv;1:18;Baixo.;;A1_M0601_RIP_4561;Certo... Certo...;Fala instrospectiva;Normal;
-5.mkv;1:22;Medio.;;A1_M0601_RIP_4822;Concentre-se.;Fala instrospectiva;Sussurro;
-5.mkv;1:52;Baixo.;;A1_M0601_RIP_0310;Certo. Um sintonizador de acesso funcionando.;Fala instrospectiva;Normal;
-5.mkv;2:00;Baixo.;;A1_M0601_RIP_0320;Vamos tentar este aqui.;Fala instrospectiva;Normal;
-5.mkv;2:28;Baixo.;;A1_G0000_RIP_0080A;Oh, Deus.;Fala instrospectiva;Normal;
-5.mkv;3:44;Baixo.;;A1_G0000_RIP_0530D;Dá um tempo.;Fala instrospectiva;Normal;
-6.mkv;0:20;Medio.;;A1_M0701_RIP_0050;Oi? Meu nome é Ripley. Amanda Ripley. Preciso da sua ajuda.;Dialogo;Normal;
-6.mkv;0:28;Baixo.;;A1_M0701_RIP_0100;Por isso que a Seegson tá atrás na corrida tecnológica.;Fala instrospectiva;Sussurro;
-6.mkv;1:45;Medio.;;A1_M0701_RIP_0150;Preciso ir ao Controle de Comunicações. É urgente.;Dialogo;Normal;
-6.mkv;1:49;Medio.;;A1_M0701_RIP_0170;É uma emergência! Você não vê o que tá acontecendo?;Dialogo;Raiva;
-6.mkv;1:57;Medio.;;A1_M0701_RIP_0190;Esqueça, eu vou sem ajuda.;Dialogo;Normal;
-6.mkv;2:49;Baixo.;;A1_M0701_RIP_0950;Um tipo de sensor.;Fala instrospectiva;Normal;
-6.mkv;2:51;Baixo.;;A1_M0701_RIP_0955;Foi modificado.;Fala instrospectiva;Normal;
-6.mkv;5:21;Medio.;;A1_M0701_RIP_0280;Me deixe entrar, preciso contatar minha nave!;Dialogo;Normal;
-6.mkv;5:34;Medio.;;A1_M0701_RIP_0320;Deve ter outro jeito de entrar.;Fala instrospectiva;Normal;
-6.mkv;7:19;Baixo.;;A1_M0701_RIP_0440;Oh, meu deus.;Fala instrospectiva;Sussurro;
-6.mkv;7:29;Medio.;;A1_M0701_AN1_0980;Bom dia.;Dialogo;Normal;
-6.mkv;10:29;-;Trocar pelo arquivo AI_UI_VER_6814;A1_M0701_VER_5927;Aqui é Verlaine, da Torrens. Que diabos aconteceu? Sevastopol? Alguém da nossa equipe em trajes espaciais chegou a bordo? Por favor, responda. Sofremos danos com a explosão e vamos sair do espaço da Sevastopol. Os sistemas cairão durante os reparos. Não sei dizer por quanto... (estática);Gravação de áudio;Normal;
-6.mkv;11:05;Baixo.;;A1_M0701_RIP_0805;Oh, mas que ótimo...;Fala instrospectiva;Sussurro;
-6.mkv;11:11;Baixo.;;A1_M0701_RIP_2890;Tem que ter alguém na estação com quem eu possa falar.;Fala instrospectiva;Sussurro;
-6.mkv;21:26;Medio.;;AI_UI_TAY_1115;Sevastopol, aqui é Nina Taylor, Administradora Executiva da Weyland-Yutani, confirmando o recebimento da sua transmissão. Sou membro da equipe designada para coletar a caixa-preta da Nostromo. A caixa-preta em suas mãos é de importância primária para a Weyland Yutani. Pelos acordos corporativos existente, devemos lembrá-los que vocês não devem ler seu conteúdo, nem revelar sua presença a terceiros. Estaremos com vocês em breve. Uma mensagem privada para o Delegado Federal Waits virá em seguida.;Gravação de áudio;Normal;
-6.mkv;27:25;Medio.;;AI_UI_RAN_5231;Hughes, é o Ransome. Acabei de receber sua pergunta. Sim, eu estive no nosso arquivo do retransmissor e estou decodificando uma parte. Estou procurando antigos registros de tripulações que passaram por Sevastopol há algum tempo. Sei que você está preocupado, mas isso é passado. Só tem uma coisa que eu preciso saber: um pacote de transmissão de rotina da Companhia, enviado da borda de Thedus antes de uma nave iniciar seu retorno. Não é nada que vá violar alguma coisa.;Gravação de áudio;Normal;
-6.mkv;27:58;Medio.;;AI_UI_DAL_0010;Aqui é o Capitão Dallas, registrando relatório inicial na viagem de volta da nossa jornada a Thedus. Quando chegarmos em casa, quero uma reunião com um coordenador de expedição. Meu Oficial de Ciências habitual foi substituído sem nenhuma explicação. O substituto é mais que capaz, tenho certeza, mas receber apenas dois dias de aviso prévio para esse tipo de coisa é loucura. Eu só gostaria de uma explicação. Estaremos prontos para a nossa carga quando recebermos a comunicação. Dallas, Capitão da Nostromo, desligando.;Gravação de áudio;Normal;
-7.mkv;0:56;Medio.;;A1_M0901_SAM_1661;Ripley, a Taylor está aqui.;Dialogo;Normal;
-7.mkv;1:08;Medio.;;A1_M0901_SAM_9451;Tente descansar, Taylor.;Dialogo;Normal;
-7.mkv;1:08;Medio.;;A1_M0901_RIP_8401;Como ela está?;Dialogo;Normal;
-7.mkv;1:10;Medio.;;A1_M0901_SAM_3585;Ela precisa de cuidados. A área médica é perto, mas não quis deixá-la.;Dialogo;Normal;
-7.mkv;1:14;Medio.;;A1_M0901_RIP_9212;Eu vou investigar. Verei o que encontro. Fique com ela.;Dialogo;Normal;
-7.mkv;1:19;Medio.;;A1_M0901_SAM_4671;Vou tentar consertar o amplificador de rádio.\n(pausa)\nE se essa... 'criatura' aparecer?;Dialogo;Normal;
-7.mkv;1:26;Medio.;;A1_M0901_RIP_8577;Se esconda.;Dialogo;Normal;
-7.mkv;1:48;Medio.;;A1_M0901_SAM_6494;Não há tempo a perder, Ripley.;Dialogo;Normal;
-7.mkv;2:04;Medio.;;A1_M0901_SAM_9773;Fique comigo, Taylor. Ripley foi buscar ajuda.;Dialogo;Normal;
-7.mkv;3:25;Medio.;;A1_M0901_RIP_9900;Preciso de um médico. Olá? Preciso de-;Dialogo;Normal;
-7.mkv;4:54;Medio.;;A1_M0902_KUH_3674;Relaxa. Vou fechar a ventilação atrás de você. Só para garantir.;Dialogo;Normal;
-7.mkv;5:48;Baixo.;;A1_M0902_RIP_7714;Certo.;Dialogo;Normal;
-7.mkv;6:12;Baixo.;;A1_M0902_RIP_0070;Ripley. Preciso achar um médico.;Dialogo;Normal;
-7.mkv;6:15;Baixo.;;A1_M0902_RIP_8665;Minha amiga precisa de ajuda. Suprimentos médicos.;Dialogo;Normal;
-7.mkv;6:24;Baixo.;;A1_M0902_RIP_0120;Como chegamos lá?;Dialogo;Normal;
-7.mkv;6:34;Baixo.;;A1_M0902_RIP_3970;Senha?;Dialogo;Normal;
-7.mkv;9:45;Baixo.;;A1_M0902_RIP_3483;Só me diga pra onde ir, Kuhlman.;Dialogo;Sussurro;
-7.mkv;14:00;Baixo.;;A1_M0902_RIP_0240;Droga!;Fala instrospectiva;Sussurro;
-7.mkv;15:56;Baixo.;;A1_M0902_RIP_9980;Morley... Morley...;Fala instrospectiva;Sussurro;
-7.mkv;18:25;Medio.;;A1_M0902_RIP_3624;Kuhlman, seu desgraçado! Sabia que aquela coisa estava aqui!;Dialogo;Raiva;
-7.mkv;18:30;Medio.;;A1_M0902_RIP_0520;1702! Tá bom? Agora vamos descer até a farmácia!;Dialogo;Raiva;
-7.mkv;19:25;Baixo.;;A1_M0902_RIP_4381;Oh, Deus.;Fala instrospectiva;Sussurro;
-8.mkv;2:55;Baixo.;;A1_M1001_RIP_0120;Samuels? Tem uma Dra. Lingard, oficial médica sênior. Podemos descobrir onde guardam tudo no escritório dela.;Dialogo;Normal;
-8.mkv;6:30;Medio.;;A1_M1001_RIP_4238;Samuels, peguei os medicamentos.;Dialogo;Sussurro;
-8.mkv;11:27;Medio.;;A1_M1001_RIP_7132;A recepção médica é muito perigosa. Não consigo sair.;Dialogo;Sussurro;
-9.mkv;2:01;Medio.;;A1_M1001_SAM_5091;Ripley, você está bem? Ripley?;Dialogo;Normal;
-9.mkv;2:03;Baixo.;;A1_M1001_RIP_7697;Não agora.;Dialogo;Sussurro;
-9.mkv;9:05;Baixo.;;A1_M1101_RIP_9416;Tá faltando uma peça.;Fala instrospectiva;Sussurro;
-9.mkv;9:05;Baixo.;;A1_M1101_RIP_7239;Preciso consertar isso.;Fala instrospectiva;Sussurro;
-9.mkv;17:13;Medio.;;A1_M1101_CV1_0260;Francis? Responda, Francis. Tá aí?;Dialogo;Normal;
-9.mkv;17:13;Medio.;;A1_M1101_CV1_3679;Merda. Acho que estão mortos. Porra, acho que estão mortos! Veja o vídeo das câmeras!;Dialogo;Normal;
-9.mkv;20:33;Medio.;;AI_UI_SPE_6793;Smythe, aqui é Spedding. Você sabia muito bem que esses caras eram os últimos licitantes para o sistema APOLLO de Sevastopol e arruinou completamente a apresentação dos androides. Eles não estão interessados. Então, eu fico sem bônus, você fica sem a sua metade e só Deus sabe o que isso significa para os executivos do andar de cima. Isso me deixou irritado, mas sabe o que está me irritando ainda mais? Eu tenho que ficar em Sevastopol para supervisionar a desativação dos sintéticos enquanto você volta para casa. Não tenha pesadelos na viagem de volta, imbecil.;Gravação de áudio;Normal;
-9.mkv;21:25;Medio.;;A1_M1101_SGF_0736;Energia dos androides de requisições online e aguardando ativação.;Efeito sonoro;Normal;
-9.mkv;22:00;Baixo.;;A1_M1101_RIP_0300;Agora, comporte-se.;Dialogo;Sussurro;
-9.mkv;22:15;Baixo.;;A1_M1101_RIP_0320;Preciso de um cilindro de compressão.;Dialogo;Sussurro;
-9.mkv;22:22;Baixo.;;A1_M1101_RIP_0000;Não faça muito barulho, tá bom?;Dialogo;Sussurro;
-10.mkv;3:14;Medio.;;A1_M1201_WAI_4998;Precisamos do transporte para chegar ao QG, mas está fechado. O controle de transporte fica lá em cima. Samuels diz que você é engenheira. Vá fazer algo de útil. Você estragou a armadilha.;Dialogo;Normal;
-10.mkv;3:40;Medio.;;A1_M1201_SAM_0110;Você está bem, Ripley?;Dialogo;Normal;
-10.mkv;3:43;Medio.;;A1_M1201_RIP_0120;Tó ótima;Dialogo;Normal;
-10.mkv;3:45;Medio.;;A1_M1201_SAM_3640;Temos que nos apressar. Taylor...;Dialogo;Normal;
-10.mkv;3:45;Medio.;;A1_M1201_RIP_3540;Não se preocupe, Samuels. Vamos tirar ela daqui.;Dialogo;Normal;
-10.mkv;3:57;Medio.;;A1_M1201_RIP_0050;Eu não chamaria a recepção de amigável.;Dialogo;Normal;
-10.mkv;6:58;Baixo.;;A1_M1201_RIP_8540;Alguém desligou tudo aqui.;Fala instrospectiva;Normal;
-10.mkv;7:20;Medio.;;A1_M1201_CV1_0000f;Não! O que você fez?;Dialogo;Normal;
-10.mkv;8:27;Baixo.;;A1_M1201_RIP_0150;Pode ir. Tive problemas e vai demorar um pouco pra eu voltar.;Dialogo;Normal;
-10.mkv;8:34;Medio.;;A1_M1201_RIP_0152;Taylor não pode. Eu posso pegar o próximo.;Dialogo;Normal;
-10.mkv;15:52;Medio.;;A1_M1202_RIP_0010;Sem comitê de boas-vindas?;Dialogo;Normal;
-10.mkv;18:43;Medio.;;A1_M1202_RIP_3597;Como tá a Taylor?;Dialogo;Normal;
-10.mkv;18:46;Medio.;;A1_M1202_WAI_0026;Estável. Logo ela estará caminhando. Samuels está com ela agora.;Dialogo;Normal;
-10.mkv;18:53;Medio.;;A1_M1202_WAI_5747;Você fez o transporte funcionar de novo, então, estamos quites.;Dialogo;Normal;
-10.mkv;18:57;Medio.;;A1_M1202_RIP_8491;Cadê o Ricardo?;Dialogo;Normal;
-10.mkv;18:57;Medio.;;A1_M1202_WAI_6741;Preparando nosso próximo passo.;Dialogo;Normal;
-10.mkv;18:59;Medio.;;A1_M1202_WAI_7958;Olhe, estou ocupado. Prendi Marlow nas celas - o vagabundo que apareceu com a sua caixa-preta.;Dialogo;Normal;
-10.mkv;19:07;Medio.;;A1_M1202_RIP_6980;Onde tá a nave do Marlow? A Anesidora?;Dialogo;Normal;
-10.mkv;19:08;Medio.;;A1_M1202_WAI_2810;Ele pôs em órbita estacionária perto do Gigante Gasoso. O filho da puta não quer dar os códigos de comando para a gente trazê-la no automático. Talvez você consiga algo com esse desgraçado. Fale com ele.;Dialogo;Normal;
-10.mkv;19:27;Medio.;;A1_M1202_RIP_1583;Marlow?;Dialogo;Normal;
-10.mkv;19:28;Medio.;;A1_M1202_RIP_9239;Meu nome é Ripley. Trabalho pra Companhia.;Dialogo;Normal;
-10.mkv;19:34;Medio.;;A1_M1202_MAR_2425;Está aqui pela sua caixa vazia. Tenho que admitir que vocês são espertos.;Dialogo;Normal;
-10.mkv;19:36;Medio.;;A1_M1202_RIP_1203;Tó aqui por motivos pessoais. Minha mãe tava na Nostromo quando desapareceu há quinze anos.;Dialogo;Normal;
-10.mkv;19:49;Medio.;;A1_M1202_MAR_9878;Está falando sério? Merda. Bem... Merda. (se recompõe) Nunca encontramos a nave dela, Ripley. Só a caixa-preta.;Dialogo;Normal;
-10.mkv;19:51;Medio.;;A1_M1202_RIP_1746;Mas você encontrou outra coisa. O que aconteceu lá?;Dialogo;Normal;
-10.mkv;19:57;Medio.;;A1_M1202_MAR_7223;Preciso sair daqui, Ripley. Talvez possamos fazer um acordo?;Dialogo;Normal;
-10.mkv;19:59;Medio.;;A1_M1202_RIP_6481;Comece a falar. Quero saber tudo.;Dialogo;Normal;
-10.mkv;20:17;Medio.;;A1_M1301_LEW_5840;Tem um pouco de estática, Marlow, mas estou recebendo.;Dialogo;Normal;
-10.mkv;20:17;Medio.;;A1_M1301_LEW_2065;Tem um pouco de estática, Marlow, mas estou recebendo.;Dialogo;Normal;
-10.mkv;20:18;Medio.;;A1_M1301_FOS_0050;Vamos devagar. Quero chegar ao sinal em um só pedaço.;Dialogo;Normal;
-10.mkv;20:26;Medio.;;A1_M1301_HEY_6078;Se você quer um pedaço, Foster, eu tenho um negócio pra você bem aqui.;Dialogo;Normal;
-10.mkv;20:29;Medio.;;A1_M1301_FOS_7222;Só com microscópio para achar isso, Heyst.;Dialogo;Normal;
-10.mkv;20:57;Medio.;;A1_M1301_MEE_9689;Entendido.;Dialogo;Normal;
-10.mkv;21:42;Medio.;;A1_M1301_MAR_6918;O sinal está ficando mais forte aqui.;Dialogo;Normal;
-10.mkv;21:42;Medio.;;A1_M1301_HEY_3312;Você acha que pode ser o grande? Chega de porcarias de salvamento?;Dialogo;Normal;
-10.mkv;21:50;Medio.;;A1_M1301_MAR_4212;O seu palpite vale tanto quanto o meu. E eu achei que você adorava esse tipo de coisa?;Dialogo;Normal;
-10.mkv;21:52;Medio.;;A1_M1301_HEY_0430;O que, você nunca pensou no futuro?;Dialogo;Normal;
-10.mkv;21:56;Medio.;;A1_M1301_MAR_0440;Eu só me preocupo com o que está na minha frente.;Dialogo;Normal;
-10.mkv;22:11;Medio.;;A1_M1301_HEY_0650;Olha só essas formações rochosas. Bizarro.;Dialogo;Normal;
-10.mkv;22:12;Medio.;;A1_M1301_FOS_8821;Foram desgastadas pelas condições climáticas. É apenas seu estado natural.;Dialogo;Normal;
-10.mkv;22:16;Medio.;;A1_M1301_HEY_0670;Não tem nada de natural nesse lugar.;Dialogo;Normal;
-10.mkv;22:23;Medio.;;A1_M1301_HEY_1955;Marlow? Os explosivos não vão destruir isso.;Dialogo;Normal;
-10.mkv;22:23;Medio.;;A1_M1301_MAR_0910;Eu vou dar uma olhada, ver se acho um ponto fraco. Espere aqui.;Dialogo;Normal;
-10.mkv;22:25;Medio.;;A1_M1301_MAR_4038;Vou precisar de uma carona.;Dialogo;Normal;
-10.mkv;22:27;Medio.;;A1_M1301_MAR_2510;Heyst, por aqui.;Dialogo;Normal;
-10.mkv;22:27;Medio.;;A1_M1301_MAR_4013;Me dê um impulso.;Dialogo;Normal;
-10.mkv;22:50;Medio.;;A1_M1301_MAR_1548;Encontrei uma passagem. Estou verificando.;Dialogo;Normal;
-10.mkv;22:50;Medio.;;A1_M1301_MEE_0920;E se você não voltar?;Dialogo;Normal;
-10.mkv;22:50;Medio.;;A1_M1301_MAR_0925;Aí você espera mais.;Dialogo;Normal;
-10.mkv;23:03;Medio.;;A1_M1301_MAR_0930;Merda!;Fala instrospectiva;Normal;
-10.mkv;23:13;Medio.;;A1_M1301_FOS_9420;Marlow? Marlow, tudo bem?;Dialogo;Normal;
-10.mkv;23:19;Medio.;;A1_M1301_MAR_0945;Sim, estou bem. Mas essa foi por pouco. Acho que não dá para voltar pelo caminho que vim.;Dialogo;Normal;
-10.mkv;23:20;Medio.;;A1_M1301_FOS_0950;Só tenha cuidado, está ouvindo?;Dialogo;Normal;
-10.mkv;23:49;Medio.;;A1_M1301_FOS_4251;Marlow, nós te vemos!;Dialogo;Normal;
-10.mkv;23:49;Medio.;;A1_M1301_MAR_4999;Fiquem aí. Acho que encontrei algo.;Dialogo;Normal;
-10.mkv;24:05;Medio.;;A1_M1301_MAR_0955;Achei uma fenda na rocha. Esperem. Vou explodi-la.;Dialogo;Normal;
-10.mkv;24:42;Medio.;;A1_M1301_FOS_8938;Não faça isso comigo de novo.;Dialogo;Normal;
-10.mkv;24:42;Medio.;;A1_M1301_MAR_0980;Vamos em frente. Sigam-me.;Dialogo;Normal;
-10.mkv;27:20;Medio.;;A1_M1302_HEY_0060;Que diabos você acha que vai achar aqui, Marlow?;Dialogo;Normal;
-10.mkv;27:20;Medio.;;A1_M1302_MAR_0070;Algo grande.;Dialogo;Normal;
-10.mkv;27:48;Medio.;;A1_M1302_MEE_0080;Tem uma abertura em frente.;Dialogo;Normal;
-10.mkv;27:50;Medio.;;A1_M1302_FOS_9078;Oh, meu Deus.;Dialogo;Normal;
-10.mkv;27:50;Medio.;;A1_M1302_HEY_0100;Puta merda.;Dialogo;Normal;
-10.mkv;27:53;Medio.;;A1_M1302_MAR_0110;Cuidado com o que toca. Não quero danificar nada.;Dialogo;Normal;
-10.mkv;27:56;Medio.;;A1_M1302_FOS_2990;Quantos anos você acha que isso tem?;Dialogo;Normal;
-10.mkv;28:00;Medio.;;A1_M1302_HEY_0130;O que é isto, uma cabine?;Dialogo;Normal;
-10.mkv;28:02;Medio.;;A1_M1302_MEE_0140;Então, isto seria uma nave.;Dialogo;Normal;
-10.mkv;28:03;Medio.;;A1_M1302_HEY_2453;Ah-ah, acho que encontramos o nosso prêmio!;Dialogo;Normal;
-10.mkv;28:06;Medio.;;A1_M1302_MEE_3659;Ei, silêncio!;Dialogo;Normal;
-10.mkv;28:10;Medio.;;A1_M1302_HEY_9692;Que foi, você acha que vamos acordá-lo?;Dialogo;Normal;
-10.mkv;28:10;Medio.;;A1_M1302_HEY_9324;Desculpa aí, colega!;Dialogo;Normal;
-10.mkv;28:13;Medio.;;A1_M1302_MAR_0190;Chega! Estamos perdendo tempo. Vasculhe o local.;Dialogo;Normal;
-10.mkv;28:16;Medio.;;A1_M1302_FOS_6173;Marlow, é... é uma forma de vida.;Dialogo;Normal;
-10.mkv;28:19;Medio.;;A1_M1302_MAR_0210;Era uma forma de vida. Agora, é propriedade nossa. Direitos de salvamento.;Dialogo;Normal;
-10.mkv;28:23;Medio.;;A1_M1302_MEE_0220;Temos que fazer a reivindicação antes de qualquer um.;Dialogo;Normal;
-10.mkv;28:24;Medio.;;A1_M1302_HEY_0230;A Anesidora não está preparada para algo tão grande.;Dialogo;Normal;
-10.mkv;28:29;Medio.;;A1_M1302_MAR_0240;Então, vamos levar o que der e voltar depois. Vasculhe o local, veja o que mais tem aqui.;Dialogo;Normal;
-10.mkv;28:33;Medio.;;A1_M1302_FOS_7584;Marlow? Encontramos algo. Rastros.;Dialogo;Normal;
-10.mkv;28:36;Medio.;;A1_M1302_FOS_8914;Parece que algo foi arrastado. Mas isso não é tudo. Você não vai gostar disso.;Dialogo;Normal;
-10.mkv;28:40;Medio.;;A1_M1302_FOS_7916;Os rastros levam até aqui.;Dialogo;Normal;
-10.mkv;28:41;Medio.;;A1_M1302_MEE_5872;O mesmo nome que está na caixa-preta.;Dialogo;Normal;
-10.mkv;28:42;Medio.;;A1_M1302_HEY_0300;Nostromo. Alguém já esteve aqui.;Dialogo;Normal;
-10.mkv;28:47;Medio.;;A1_M1302_FOS_0370;Talvez tenham abandonado a nave e pousado aqui.;Dialogo;Normal;
-10.mkv;28:49;Medio.;;A1_M1302_MAR_0320;Estou vendo. Droga.;Dialogo;Normal;
-10.mkv;28:53;Medio.;;A1_M1302_FOS_6310;Se eles estiveram aqui antes de nós, por que não há registros deste lugar?;Dialogo;Normal;
-10.mkv;28:56;Medio.;;A1_M1302_HEY_0380;Bem, se ainda estão vivos, já era o nosso salvamento.;Dialogo;Normal;
-10.mkv;28:56;Medio.;;A1_M1302_MAR_0400;Vamos descobrir. Vou encontrar o sinal e desligá-lo. Não quero que ninguém mais ache esse lugar. Foster? Heyst? Verifiquem a caverna ali embaixo.;Dialogo;Normal;
-10.mkv;29:14;Medio.;;A1_M1302_HEY_0010;O que é isto? Nunca vi nada igual a isso.;Dialogo;Normal;
-10.mkv;29:17;Medio.;;A1_M1302_FOS_7522;Não é humano, isso eu posso dizer.;Dialogo;Normal;
-10.mkv;30:14;Medio.;;A1_M1302_MAR_0440;Meeks? Encontrei o sinal. Vou verificar.;Dialogo;Normal;
-10.mkv;30:47;Medio.;;A1_M1302_MAR_0505;Não sei o que aconteceu, mas o sinal parou de transmitir.;Dialogo;Normal;
-10.mkv;30:49;Medio.;;A1_M1302_FOS_9829;Marlow, você tem que ver isto, é incrível!;Dialogo;Normal;
-10.mkv;30:49;Medio.;;A1_M1302_MAR_0520;Estou indo.;Dialogo;Normal;
-10.mkv;31:50;Medio.;;A1_M1302_MEE_3547;Se segure.;Dialogo;Normal;
-10.mkv;32:35;Medio.;;A1_M1302_MAR_0550;Oh! Meu Deus!;Dialogo;Normal;
-10.mkv;32:36;Medio.;;A1_M1302_FOS_6978;Aqui!;Dialogo;Normal;
-10.mkv;32:42;Medio.;;A1_M1302_HEY_8616;Cuidado com a descida.;Dialogo;Normal;
-10.mkv;32:58;Medio.;;A1_M1302_FOS_7849;Vamos!;Dialogo;Normal;
-10.mkv;32:58;Medio.;;A1_M1302_HEY_3901;Espera aí!;Dialogo;Normal;
-10.mkv;33:34;Medio.;;A1_M1401_RIP_1931;Quero saber tudo. Onde está sua nave? Se rompermos o bloqueio da comunicação, quais são os códigos para trazê-la no automático?;Dialogo;Normal;
-10.mkv;33:40;Medio.;;A1_M1401_RIP_2742;Sem chance, Marlow.;Dialogo;Normal;
-10.mkv;33:42;Medio.;;A1_M1401_MAR_3338;É mesmo? Bem, você sabe onde estou.;Dialogo;Normal;
-10.mkv;33:47;Medio.;;A1_M1401_RIC_1344;Waits, meu console na Torre SysTech acendeu como árvore de Natal. Ele tá aqui.;Dialogo;Normal;
-10.mkv;33:48;Medio.;;A1_M1401_WAI_1324;Prepare o plano B.;Dialogo;Normal;
-10.mkv;33:50;Medio.;;A1_M1401_RIP_3314;Seja o que o for, quero ir junto.;Dialogo;Normal;
-10.mkv;33:51;Medio.;;A1_M1401_WAI_6740;Certo, por aqui. Tem algo aqui que você vai precisar.;Dialogo;Normal;
-10.mkv;34:50;Medio.;;AI_UI_LIN_5458;Waits, aqui é a Dra. Lingard. Acabei de examinar um paciente com - bom, nunca vi nada igual. É um tipo de parasita desconhecido. Fiz uma busca rápida do nome que me deram e não tem ninguém registrado com esse nome em Sevastopol. Eu acho que ela chegou a bordo recentemente. Você sabe de alguma coisa sobre isso? Não faço ideia do que o Sinclair e os homens dele estavam fazendo, mas isto deveria ter aparecido durante a quarentena. Quem sabe o que mais eles deixaram passar? A paciente e o capitão dela estão me esperando na sala de exames. Venha pra cá, agora.;Gravação de áudio;Normal;
-10.mkv;35:20;Medio.;;AI_UI_RAN_3315;Waits, precisamos falar sobre o que aconteceu em San Cristobal. Foi um negócio complicado e eu entendo que você queira lidar com isso o mais rápido e com o menos de escândalo possível, mas eu queria ter certeza de que você não ia fazer nada precipitado. Estou falando em capturar o espécime sem matá-lo. Se formos espertos, podemos ficar feitos pro resto da vida. Eu tenho as conexões, Waits. Eu posso arrumar as coisas. Você está ficando velho, Waits, não pode fazer isso para sempre. O que vai fazer quando Sevastopol for fechada? Você tem o meu número. Ransome desligando.;Gravação de áudio;Normal;
-10.mkv;37:04;Medio.;;A1_G0000_RIP_0520D;Vamos torcer para que isto funcione.;Fala instrospectiva;Normal;
-10.mkv;37:07;Medio.;;A1_M1401_WAI_8851;Aquilo é um animal. Animais têm medo de fogo.;Dialogo;Normal;
-10.mkv;37:08;Medio.;;A1_M1401_RIP_8201;Espero que esteja certo.;Dialogo;Normal;
-10.mkv;32:18;Medio.;;A1_M1401_WAI_1362;Tenho um plano para prendê-lo. Pegue um vagão de transporte e encontre Ricardo na Torre SysTech. Eu vou coordenar daqui.;Dialogo;Normal;
-11.mkv;0:35;Medio.;;A1_M1401_WAI_6869;Ripley? Você está indo?;Dialogo;Normal;
-11.mkv;0:36;Medio.;;A1_M1401_RIP_4754;Sim.;Dialogo;Normal;
-11.mkv;0:40;Medio.;;A1_M1401_WAI_7815;Ricardo está indo na sua frente. Enviei seu amigo Samuels para o Processamento de Androides. Assim que essa coisa morrer, vou fazê-lo acessar Apollo e suspender o confinamento.;Dialogo;Normal;
-11.mkv;0:50;Medio.;;A1_M1401_RIP_3421;Samuels concorda com isso?;Dialogo;Normal;
-11.mkv;0:54;Medio.;;A1_M1401_WAI_8428;Ele disse que queria ajudar e estou muito ocupado aqui. Além disso, ele é um sintético. Deve ser fácil para ele chegar lá.;Dialogo;Normal;
-11.mkv;0:58;Medio.;;A1_M1401_RIP_8368;Acho que sim.;Dialogo;Normal;
-11.mkv;1:01;Medio.;;A1_M1401_WAI_3758;Olha, Ripley, somos os únicos entre Sevastopol e a catástrofe total.;Dialogo;Normal;
-11.mkv;1:05;Medio.;;A1_M1401_RIP_1352;A catástrofe total já aconteceu, Waits. Tudo o que podemos fazer é matar o safado.;Dialogo;Normal;
-11.mkv;2:56;Medio.;;A1_M1402_RIP_4746;Estou na Torre Systech.;Dialogo;Normal;
-11.mkv;2:58;Medio.;;A1_M1402_WAI_8280;Ripley, atenção. Estou detectando vários sistemas com defeito na sua área.;Dialogo;Normal;
-11.mkv;3:50;Medio.;;AI_UI_ASH_0010;Registro inicial do Oficial de Ciências. Fui estabelecido a bordo da Nostromo. Toda a papelada relevante foi assinada e eu tenho acesso ao mainframe MU-TH-UR 6000 da nave. O Capitão Dallas e o Imediato parecem... incomodados com a minha presença, mas isso talvez já fosse esperado. Tudo que resta é torcer por uma jornada produtiva. Ash desligando.;Gravação de áudio;Normal;
-11.mkv;6:38;Medio.;;A1_M1402_AN2_8900;Por favor, reúnam-se no Ponto de Grupamento de Incêndio mais próximo. Isso não é um treino. Não entrem em pânico.;Dialogo;Normal;
-11.mkv;8:40;Medio.;;A1_M1402_RIP_4978;Waits? O que há de errado com essa estação?;Dialogo;Normal;
-11.mkv;8:40;Medio.;;A1_M1402_WAI_3116;Está sempre caindo aos pedaços, mas por causa da desativação vários sistemas foram desligados. Some a isso o fato de que todos estão ocupados demais tentando sobreviver para manter algo e você terá o caos.;Dialogo;Normal;
-11.mkv;9:14;Medio.;;A1_M1402_CV1_5264;Explodiu alguma coisa aí atrás?;Dialogo;Normal;
-11.mkv;9:14;Medio.;;A1_M1402_RIP_5179;Esse é o menor dos problemas. A criatura tá por perto.;Dialogo;Sussurro;
-11.mkv;9:17;Medio.;;A1_M1402_CV2_6774;Vocês ouviram a moça. Vamos.;Dialogo;Normal;
-11.mkv;9:37;Medio.;;A1_M1402_RIP_7618;A criatura tá aqui. Preciso ir.;Dialogo;Sussurro;
-11.mkv;9:37;Medio.;;A1_M1402_CV5_6586;Não tem pra onde ir!;Dialogo;Normal;
-11.mkv;9:37;Medio.;;A1_M1402_RIP_3311;O shopping perto da Agência Federal é o lugar mais seguro.;Dialogo;Sussurro;
-11.mkv;9:37;Medio.;;A1_M1402_CV5_6648;Certo. Certo. Obrigada.;Dialogo;Sussurro;
-11.mkv;10:02;Medio.;;A1_M1402_RIP_9608;Waits, a criatura - como vamos prendê-la?;Dialogo;Sussurro;
-11.mkv;10:02;Medio.;;A1_M1402_WAI_8720;A torre foi construída para processar compostos de alto valor extraídos do gigante gasoso. Medidas contra a pirataria ainda estão em vigor. A torre pode ser desligada - ventilação, portas, tudo. Você constrói uma jaula ao redor da criatura e o Ricardo a bloqueia.;Walk Talk;Normal;
-11.mkv;11:06;Medio.;;A1_M1402_WAI_4172;A entrada em frente está sem energia. Use o terminal na recepção para abrir a porta.;Dialogo;Normal;
-11.mkv;11:39;Medio.;;A1_M1402_RIP_1322;Não faça barulho. Não corra. Vá até a Agência Federal.;Dialogo;Sussurro;
-11.mkv;11:39;Medio.;;A1_M1402_CV5_5324;Certo. Obrigada.;Dialogo;Sussurro;
-11.mkv;11:39;Medio.;;A1_M1402_CV5_7874;A senha para a sala de transporte é 0482, se precisar de suprimentos.;Dialogo;Sussurro;
-11.mkv;14:14;Medio.;;AI_UI_CHI_0001;Aqui é o Chefe. Como solicitado, reenviarei o meu relatório para a remoção do sistema de transporte para outro uso depois que Sevastopol for fechada. Eu ainda não sei como isso é possível. Sei que a Seegson quer recuperar o máximo do investimento que fizeram neste lugar, mas o negócio está acabado. As junções estão enferrujadas. Importantes protocolos de segurança foram ignorados por anos... está em ruínas. Apenas um milagre impediu que o sistema matasse metade da população.;Gravação de áudio;Normal;
-12.mkv;0:32;Medio.;;A1_M1402_WAI_1145;Ricardo está finalizando o bloqueio. Você precisa fechar as portas de segurança perto da escadaria. E depois o Armazém de Suprimentos, o Acesso de Manutenção e a Recepção da Central de Servidores. Mantenha-me informado.;Walk Talk;Normal;
-12.mkv;2:32;Medio.;;AI_UI_WIN_3275;Estou gravando isto pra quem não estava aqui quando aconteceu. Não sei dizer quem escapou, tem alguns corpos, mas... os outros foram levados pela ventilação. Um por um. As portas estavam trancadas, mas as ventilações do teto estavam abertas. Não havia pra onde fugir, e ninguém para abrir a porta. Foi como soltar uma raposa no galinheiro. Você e eu, nós temos duas opções: tem um campo com aliados que ainda confiam nos Federais no Shopping, e tem o Sinclair e seus soldados idiotas com armas, em algum lugar na Habitação. Duvido que alguém sobreviva uma semana.;Gravação de áudio;Normal;
-12.mkv;4:02;Medio.;;A1_M1402_RIP_6245;Acesso de manutenção fechado.;Dialogo;Sussurro;
-12.mkv;4:02;Medio.;;A1_M1402_WAI_4836;Afirmativo, Ripley.;Walk Talk;Normal;
-12.mkv;5:23;Medio.;;A1_M1402_RIP_6084;Armazém de suprimentos fechado.;Dialogo;Sussurro;
-12.mkv;5:23;Medio.;;A1_M1402_WAI_3581;Certo.;Walk Talk;Normal;
-12.mkv;6:04;Medio.;;A1_M1402_WAI_6994;Você já está conectado.;Walk Talk;Normal;
-12.mkv;6:07;Medio.;;A1_M1402_RIC_2952;Ripley, tem um comando manual que te permite iniciar o bloqueio de emergência. Tá no terminal atrás da mesa da recepção.;Walk Talk;Normal;
-12.mkv;6:40;Medio.;;AI_UI_RAN_4885;Hughes, é o Ransome. Acabei de receber sua dúvida. Sim, eu estive no nosso arquivo do retransmissor e estou decodificando uma parte. Estou procurando antigos registros de tripulações que passaram por Sevastopol há algum tempo. Sei que você está preocupado, mas isso é passado. Só tem uma coisa que eu preciso saber: um pacote de transmissão de rotina da Companhia, enviado da borda de Thedus antes de uma nave iniciar seu retorno. Não é nada que vá violar alguma coisa. Ainda assim, ninguém mais precisa saber sobre isso, certo? Se você falar... bem, vai haver consequências. Quer dizer, tem muita coisa que a Marie não sabe, não é? Deixe os arquivos decodificando e me avise quando terminarem. Sejamos sensatos.;Gravação de áudio;Normal;
-12.mkv;6:59;Medio.;;A1_M1402_RIP_6752;Ricardo? A Recepção da Central de Servidores tá fechada.;Dialogo;Sussurro;
-12.mkv;6:59;Medio.;;A1_M1402_RIC_4963;Bom trabalho. Venha pelos servidores. Em silêncio.;Walk Talk;Normal;
-12.mkv;9:08;Medio.;;A1_M1402_RIC_4837;Configurei um bloqueio de emergência no terminal dentro dos servidores. Você precisa ativar de lá e depois sair. Vou manter a saída aberta até você passar, depois fecho a armadilha.;Walk Talk;Normal;
-12.mkv;16:56;Medio.;;A1_M1402_RIC_6564;É isso aí. Você conseguiu.;Walk Talk;Normal;
-12.mkv;16:56;Medio.;;A1_M1402_RIP_5982;A minha saída tá aberta, Ricardo?;Dialogo;Sussurro;
-12.mkv;16:59;Medio.;;A1_M1402_RIC_4180;Espere um minuto.;Walk Talk;Normal;
-12.mkv;17:01;Medio.;;A1_M1402_RIP_9120;Ricardo, a minha saída tá livre?;Dialogo;Sussurro;
-12.mkv;17:01;Medio.;;A1_M1402_RIC_4135;Deus. Tá fechada! Não funciona!;Walk Talk;Normal;
-12.mkv;17:06;Medio.;;A1_M1402_WAI_9268;O que acha que está fazendo, Ricardo? Conserte!;Walk Talk;Normal;
-12.mkv;17:09;Baixo.;;A1_M1402_RIP_9274;Oh, Deus...;Dialogo;Sussurro;
-12.mkv;17:11;Medio.;;A1_M1402_RIC_5230;Desculpa, Ripley. Tó dando um jeito!;Walk Talk;Normal;
-12.mkv;17:39;Medio.;;A1_M1402_RIP_5936;Ricardo? Alguma notícia?;Dialogo;Sussurro;
-12.mkv;17:41;Medio.;;A1_M1402_RIC_6119;Preciso de mais tempo.;Walk Talk;Normal;
-12.mkv;17:41;Medio.;;A1_M1402_RIP_5215;Não tenho mais tempo.;Dialogo;Sussurro;
-12.mkv;18:03;Medio.;;A1_M1402_RIC_6077;Certo! Certo! Consegui! Sai daí, Ripley, agora!;Walk Talk;Normal;
-12.mkv;19:47;Medio.;;A1_M1402_WAI_1901;Como você conseguiu abrir de novo, Ricardo?;Walk Talk;Normal;
-12.mkv;19:51;Medio.;;A1_M1402_RIC_8658;Tive que anular o alerta. Era o único jeito da Ripley sair.;Walk Talk;Normal;
-12.mkv;19:57;Medio.;;A1_M1402_WAI_6604;Você deixou ele sair? A gente tinha ele preso e você deixou sair?;Walk Talk;Normal;
-12.mkv;20:00;Medio.;;A1_M1402_WAI_7601;Ripley, ele ainda está atrás de você.;Walk Talk;Normal;
-12.mkv;20:01;Medio.;;A1_M1402_RIP_7059;Pra onde devo ir?;Dialogo;Sussurro;
-12.mkv;20:05;Medio.;;A1_M1402_WAI_2002;Pegue o elevador até os laboratórios Gemini. Se ele te seguir, ainda podemos prendê-lo lá.;Walk Talk;Normal;
-12.mkv;20:13;Medio.;;A1_M1402_WAI_9074;Ripley, Ricardo? Não podemos deixar a criatura escapar de novo, haja o que houver.;Walk Talk;Normal;
-12.mkv;22:40;Medio.;;A1_M1403_WAI_9595;Precisamos de energia em toda a instalação. Você vai precisar pegar um elevador de carga, mas desde que a Seegson cortou a verba da Gemini, ele está fora de uso.;Walk Talk;Normal;
-13.mkv;0:18;Baixo.;;A1_CV5_S_PO_B;Parece que você já sofreu muito.;Dialogo;Normal;
-13.mkv;0:35;Baixo.;;A1_CV5_S_PO_A;Que bom ver um rosto amigo.;Dialogo;Normal;
-13.mkv;1:27;Medio.;;A1_M1403_WAI_6956;Encontre o terminal de controle que deixaram para o zelador sintético. Está em um depósito logo em frente. E, pelo amor de Deus, faça isso em silêncio.;Walk Talk;Normal;
-13.mkv;2:03;Medio.;;A1_M1403_WAI_9832;A Seegson tem tentado vender todo o equipamento há anos, junto com Sevastopol. Ninguém nunca quis, mas isso significa que a segurança ainda está online.;Walk Talk;Normal;
-13.mkv;2:10;Medio.;;A1_M1403_RIP_1475;Certo. Chega de conversa, Waits.;Dialogo;Sussurro;
-13.mkv;7:06;Medio.;;A1_M1403_SGF_6233;Solicitação de teste de manutenção no setor C12 recebida e confirmada. Um zelador de serviço está a caminho.;Efeito sonoro;Normal;
-13.mkv;8:54;Medio.;;A1_M1403_AN2_1735;Essa instalação não está aberta para visitantes, a menos que façam parte do tour de vendas de Sevastopol.;Androide;Normal;
-13.mkv;8:57;Baixo.;;A1_M1403_RIP_7275;Onde acho os interruptores de energia, Waits?;Dialogo;Sussurro;
-13.mkv;8:57;Medio.;;A1_M1403_WAI_2262;Tem um nos Laboratórios de Análise. O outro está na Sala de Descontaminação.;Walk Talk;Normal;
-13.mkv;15:40;Baixo.;;A1_M1403_RIP_5042;Um já foi.;Dialogo;Sussurro;
-13.mkv;15:40;Medio.;;A1_M1403_WAI_9404;O próximo está nos Laboratórios de Análise, Ripley.;Walk Talk;Normal;
-14.mkv;0:57;Medio.;;A1_M1403_WAI_1110;É isso aí. O elevador está online, Ripley.;Walk Talk;Normal;
-14.mkv;0:57;Baixo.;;A1_M1403_RIP_2454;Certo.;Dialogo;Sussurro;
-14.mkv;0:57;Medio.;;A1_M1403_WAI_1173;Você está indo para um lugar chamado Projeto KG348. Me avise quando chegar lá.;Walk Talk;Normal;
-14.mkv;4:07;Medio.;;A1_M1404_RIP_7106;Waits, consegui.;Dialogo;Sussurro;
-14.mkv;4:07;Medio.;;A1_M1404_WAI_9190;Ele ainda está atrás de você?;Walk Talk;Normal;
-14.mkv;4:07;Baixo.;;A1_M1404_RIP_1010;Acho que sim.;Dialogo;Sussurro;
-14.mkv;4:12;Medio.;;A1_M1404_WAI_6175;Eu tenho um plano. Vá para os laboratórios.;Walk Talk;Normal;
-14.mkv;7:12;Medio.;;A1_SS1_S_POI_B;Ei.;Dialogo;Normal;
-14.mkv;7:12;Medio.;;A1_SS1_S_POI_A;Você tá bem? Parece cansada.;Dialogo;Normal;
-14.mkv;9:20;Medio.;;AI_UI_RAN_7676;Aqui é Ransome, executivo da Seegson. Estou enviando algumas amostras para investigação. Quero o menor número de funcionários envolvidos nisso. Mantenha segredo e se reporte apenas a mim. Se isso vazar, vou me certificar de que sua carreira morra com Sevastopol. Existem muitas inconsistências nos livros da Gemini. Faça um bom trabalho e me lembrarei de você. Seja lá o que estiver desviando, vai parecer trocado. Seja inteligente.;Gravação de áudio;Normal;
-14.mkv;9:58;Medio.;;A1_M1404_RIP_3443;Waits, cheguei.;Dialogo;Sussurro;
-14.mkv;9:58;Medio.;;A1_M1404_WAI_2888;O laboratório pode ser separado da estação principal. Reative o lugar e os sistemas poderão ser reconectados.;Walk Talk;Normal;
-15.mkv;4:35;Medio.;;A1_M1404_WAI_7133;É isso! Posso ver um aumento de energia! Agora, reconecte os sistemas do laboratório com Sevastopol do console do laboratório central. Contamos com você, Ripley.;Walk Talk;Normal;
-15.mkv;4:40;Medio.;Deixar no mesmo tom do A1_M1404_SGF_2271;A1_M1404_SGF_6441;Vazamento de material perigoso detectado.;Efeito sonoro;Normal;
-15.mkv;6:22;Medio.;;A1_M1404_WAI_5722;Sinto muito, Ripley.;Walk Talk;Normal;
-15.mkv;6:27;Baixo.;;A1_M1404_RIP_9272;Não! Não!;Dialogo;Normal;
-15.mkv;6:27;Baixo.;;A1_M1404_RIP_1839;Não faça isso comigo!;Dialogo;Normal;
-15.mkv;6:51;Medio.;;A1_M1404_SGF_5931;Aguarde para os backups de gravidade;Efeito sonoro;Normal;
-15.mkv;7:00;Baixo.;;A1_M1404_RIP_9295;Waits, seu filho da puta...;Dialogo;Sussurro;
-15.mkv;8:04;Baixo.;;A1_M1404_RIP_3041;Saco.;Fala instrospectiva;Sussurro;
-15.mkv;11:16;Medio.;;A1_M1601_SGM_9516;A sequência de separação da estação foi concluída. Obrigado pela sua paciência.;Efeito sonoro;Normal;
-15.mkv;17:49;Medio.;;A1_M1601_RIC_5951;Ripley? Ripley, é o Ricardo. Você conseguiu?;Walk Talk;Normal;
-15.mkv;17:51;Medio.;;A1_M1601_RIP_4290;Não graças a Waits.;Dialogo;Normal;
-15.mkv;17:53;Medio.;;A1_M1601_RIC_9297;Ele é um filho da puta cruel. Sempre foi. E teimoso. Se tivesse me ouvido, as coisas não teriam chegado a esse ponto.;Walk Talk;Normal;
-15.mkv;18:00;Medio.;;A1_M1601_RIP_9393;Agora já era.;Dialogo;Normal;
-15.mkv;18:00;Medio.;;A1_M1601_RIC_9203;Desculpa por estragar o bloqueio naquela hora.;Walk Talk;Normal;
-15.mkv;18:07;Medio.;;A1_M1601_RIP_7095;Esquece. Você me tirou de lá. Vejo você na Agência.;Dialogo;Normal;
-15.mkv;21:17;Medio.;;A1_M1602_RIC_7704;Rip, sinto acabar com a sua alegria. Tem alguma coisa errada com os androides.;Walk Talk;Normal;
-15.mkv;21:21;Medio.;;A1_M1602_RIP_6128;Tem algo errado com os malditos androides desde que eu cheguei aqui.;Dialogo;Normal;
-15.mkv;21:22;Medio.;;A1_M1602_RIC_4991;Não, isso é novo. Eles saíram dos seus postos. Vi alguns deles em uma área pública. Isso não é normal.;Walk Talk;Normal;
-15.mkv;21:30;Baixo.;;A1_M1602_RIP_5186;Ótimo.;Dialogo;Normal;
-15.mkv;21:30;Medio.;;A1_M1602_RIC_7596;Tenha cuidado.;Walk Talk;Normal;
-15.mkv;22:54;Medio.;;AI_UI_JUL_2629;(Limpa a garganta)Eu.. Eu não sei quando alguém receberá isso, mas alguém precisa registrar e eu não sei... (limpa a garganta de novo). Eu cheguei aqui há alguns meses pra escrever sobre o colapso de um sonho, um futuro arruinado. Pra mim, as pessoas daqui eram pouco mais que notas de rodapé para o meu artigo, algo pra manipular emoções. (com sarcasmo) E quando começaram os desaparecimentos, oh, eu fiquei entusiasmada. Isso era algo grande. Mas agora, as pessoas estão com medo e um defeito nas comunicações nos deixou sozinhos. Eu estou presa aqui, como todos os outros. Mais uma nota de rodapé. Mais uma vítima.;Gravação de áudio;Normal;
-15.mkv;23:56;Baixo.;;A1_M1602_RIP_7561;Waits? É a Ripley. O que está acontecendo com os androides?;Dialogo;Sussurro;
-15.mkv;23:59;Medio.;;A1_M1602_WAI_5809;Não sei.;Walk Talk;Normal;
-15.mkv;24:00;Baixo.;;A1_M1602_RIP_7070;E a mudança do status do alerta?;Dialogo;Sussurro;
-15.mkv;24:01;Medio.;;A1_M1602_WAI_7965;Droga, eu não sei! Estou tentando entrar em contato com Samuels. Talvez ele saiba o que o APOLLO está fazendo.;Walk Talk;Normal;
-15.mkv;25:20;Baixo.;;A1_M1602_RIP_6271;Waits. Pelo amor de Deus. O APOLLO liberou os androides. Eles atacam quem estiver na frente.;Dialogo;Sussurro;
-15.mkv;23:26;Medio.;;A1_M1602_WAI_4178;Eu não sei o que é isso. Eles não estão respondendo às violações de invasão. Parece que estão... caçando.;Walk Talk;Normal;
-15.mkv;25:34;Baixo.;;A1_M1602_RIP_7033;Caçando quem?;Dialogo;Sussurro;
-15.mkv;25:34;Baixo.;;A1_M1602_RIP_5802;Caçando quem?;Dialogo;Sussurro;
-15.mkv;25:35;Medio.;;A1_M1602_WAI_5430;Tudo e todos.;Walk Talk;Normal;
-15.mkv;25:38;Baixo.;;A1_M1602_RIP_9038;O que está dizendo?;Dialogo;Sussurro;
-15.mkv;25:39;Medio.;;A1_M1602_WAI_5751;Espere.;Walk Talk;Normal;
-15.mkv;26:51;Baixo.;;A1_M1602_RIP_8184;Waits? Tem umas portas corrediças na minha frente. Você pode abrí-las? Waits?;Dialogo;Sussurro;
-15.mkv;26:57;Medio.;;A1_M1602_WAI_4605;Seus cornos! Seus cornos assassinos! Deixem eles em paz! Recuem!;Walk Talk;Normal;
-15.mkv;27:02;Medio.;;A1_M1602_WAI_7419;seus desgraçados... (mais barulhos horríveis e um grito terrível e transtornado dele ao morrer);Walk Talk;Normal;
-15.mkv;27:13;Baixo.;;A1_M1602_RIP_5873;Waits? Waits?;Dialogo;Sussurro;
-15.mkv;30:10;Medio.;;AI_UI_HEY_5831;Meeks, estou deixando isso pra quando acordar. Eu sei que você ainda está meio assim depois que aquela coisa saiu da Foster, mas você tem que parar de estragar as coisas. Você passou da conta na bebedeira e contou mais do que deveria para as pessoas que estão dormindo no Shopping. Eu arrastei você pra longe quando vi o olhar deles. Não podemos mais voltar lá. Ninguém pode saber que temos conexões com Marlow e a Anesidora. Eu volto depois que você ficar sóbrio.;Gravação de áudio;Normal;
-16.mkv;0:32;Medio.;;AI_UI_WIN_1256;Fiquei acampada no shopping Galleria por umas vinte e quatro horas. As pessoas aqui estão assustadas, mas ainda acreditam que o Delegado Waits vai matar a criatura. Eles se esquecem de outros perigos. Eles se esquecem de si mesmos. As pessoas se viram uma contra as outras por comida, água. Não posso ficar aqui.;Gravação de áudio;Normal;
-16.mkv;2:55;Medio.;;A1_M1602_RIC_2442;Rip. Rip, estão todos mortos.;Dialogo;Normal;
-16.mkv;2:56;Medio.;;A1_M1602_RIP_5490;Os androides os massacraram.;Dialogo;Normal;
-16.mkv;2:57;Medio.;;A1_M1602_RIC_4430;Por quê? Por que porra...;Dialogo;Normal;
-16.mkv;2:58;Medio.;;A1_M1602_RIP_7548;Eu não sei. Mas acho que Samuels sabe.;Dialogo;Normal;
-16.mkv;2:59;Medio.;;A1_M1602_RIC_6817;Samuels? Por quê?;Dialogo;Normal;
-16.mkv;3:05;Medio.;;A1_M1602_RIP_2826;Waits mandou ele acessar o APOLLO. Preciso encontrá-lo.;Dialogo;Normal;
-16.mkv;3:06;Medio.;;A1_M1602_RIP_7620;Você viu Taylor ou Marlow?;Dialogo;Normal;
-16.mkv;3:07;Medio.;;A1_M1602_RIC_1289;N-não.. Não;Dialogo;Normal;
-16.mkv;3:13;Medio.;;A1_M1602_RIP_2489;Eles não tão aqui. Acho que podem ter escapado. Ricardo? Ricardo!;Dialogo;Normal;
-16.mkv;3:22;Medio.;;A1_M1602_RIP_5148;Se eu for atrás do Samuels, você pode cuidar desse lugar? Preciso de olhos e ouvidos.;Dialogo;Normal;
-16.mkv;3:26;Medio.;;A1_M1602_RIC_3745;Eu não vou ficar aqui nem ferrando.;Dialogo;Normal;
-16.mkv;3:32;Medio.;;A1_M1602_RIP_9669;Ricardo, preciso que faça isso. Você pode operar a estação e me manter informada?\n(pausa)\nRicardo?;Dialogo;Normal;
-16.mkv;3:33;Medio.;;A1_M1602_RIC_6440;Sim, claro. Com certeza.;Dialogo;Normal;
-16.mkv;3:35;Medio.;;A1_M1602_RIP_3442;Aguenta firme. Feche as portas e não deixe ninguém entrar. Cuide de mim. Vou voltar pra te buscar.;Dialogo;Normal;
-16.mkv;13:03;Medio.;;A1_M2101_RIP_6978;Claro.;Dialogo;Normal;
-16.mkv;13:04;Medio.;;A1_M2101_RIC_5838;Vejo atividade nos terminais dos níveis superiores dos Sintéticos Seegson. (pausa) Rip, eu não sei se consigo fazer isso.;Dialogo;Normal;
-16.mkv;13:13;Medio.;;A1_M2101_RIP_3471;Ricardo, preciso que se concentre. Você está no comando, agora.;Dialogo;Normal;
-16.mkv;13:19;Medio.;;A1_M2101_RIC_7918;No comando? No comando de quê? De uma sala cheia de cadáveres? Tá tudo ferrado.;Dialogo;Normal;
-16.mkv;13:22;Medio.;;A1_M2101_RIP_1978;Foco, Ricardo! Se o Samuels conseguir falar com o APOLLO, ele pode parar os androides. E tudo isso acaba.;Dialogo;Normal;
-16.mkv;16:30;Medio.;;AI_UI_PAR_0010;Ripley me pediu pra registrar um relatório sobre o que aconteceu com o cabo umbilical quando nós conectamos com a refinaria. Vou dizer o que aconteceu: eu e Brett,  estamos segurando este lugar com as próprias mãos. Você imaginaria que milhões de toneladas de minérios fossem o bastante para trazer alguém do convés superior, alguém que vai receber uma participação, aqui com a gente. Apenas para conferir o que precisamos. Você quer sair do sistema dentro do prazo da próxima vez? Coloque a Nostromo em doca seca por um mês, espere até que a gente termine o serviço e pague o que nos é devido. Parker desligando.;Gravação de áudio;Normal;
-16.mkv;17:48;Medio.;;A1_M2101_RIP_3801;Então, como eu subo?;Dialogo;Normal;
-16.mkv;21:47;Medio.;;A1_M2102_RIP_3161;Ricardo?;Dialogo;Sussurro;
-16.mkv;21:49;Medio.;;A1_M2102_RIP_0955;Tó aqui. Parece o lugar onde os sintéticos vão para morrer.;Dialogo;Sussurro;
-16.mkv;22:55;Medio.;;A1_M2102_RIP_0030;A porta aqui tá destruída. Não consigo chegar perto.;Fala instrospectiva;Sussurro;
-16.mkv;23:40;Medio.;;AI_UI_RAN_7496;Aqui é o Executivo da Seegson Ransome falando. Eu acordei e encontrei um trabalhador sintético na minha suíte. Quando perguntei que diabos estava fazendo, ele avançou. Tive que sair do meu próprio apartamento! Mande seus melhores técnicos para o Núcleo do APOLLO e descubra que diabos está acontecendo agora! Quero essas coisas sob controle e quero um relatório completo o mais rápido possível.;Gravação de áudio;Normal;
-16.mkv;27:01;Medio.;;A1_M2102_SAM_0965;Eu preciso ter acesso ao APOLLO. Abra o transporte da torre imediatamente.;Dialogo;Normal;
-16.mkv;27:11;Medio.;;A1_M2102_SAM_0080;Não tenho tempo para isso.;Dialogo;Normal;
-17.mkv;2:23;Baixo.;;A1_M2102_RIP_1846;Com defeito. Ótimo.;Fala instrospectiva;Normal;
-17.mkv;2:25;Baixo.;;A1_M2102_RIP_3092;Nada. Só mais tranqueiras ferrando tudo nessa estação. Nada anormal.;Dialogo;Normal;
-17.mkv;6:50;Medio.;;AI_UI_SPE_2855;Aqui é Spedding no Processamento de Androides. Temos uma situação, há vítimas de violência entre androides e humanos na estação. Um androide deu entrada no CTPA com trauma na cabeça, mas ele está coberto de sangue. Sangue humano. Eu alertei os Federais, coloquei a minha secretária em um lugar seguro e agora estou indo para o transporte. Vou pedir para um androide trabalhador consultar o APOLLO. Talvez ele saiba de quem é a culpa disto.;Gravação de áudio;Normal;
-17.mkv;12:52;Medio.;;A1_M2102_RIP_7330;Samuels! Não faça isso!;Dialogo;Normal;
-17.mkv;13:19;Medio.;;A1_M2102_SAM_7237;APOLLO, a infecção foi contida. A criatura não está mais a bordo. A estação está segura. Solicito que todas as operações de Contenção de Risco sejam suspensas.;Dialogo;Normal;
-17.mkv;13:24;Medio.;;A1_M2102_SGM_9224;Alerta: Conexão não autorizada.;Efeito sonoro;Normal;
-17.mkv;13:29;Medio.;;A1_M2102_SAM_5322;Ripley, o APOLLO está me rejeitando. Acho que temos problemas.;Dialogo;Normal;
-17.mkv;13:30;Medio.;;A1_M2102_RIP_2115;Samuels?;Dialogo;Normal;
-17.mkv;13:34;Medio.;;A1_M2102_SAM_5714;O APOLLO está tentando impedir a minha interação! [pausa] Oh, não, Amanda! Você precisa desconectar os sistemas manualmente! Por favor!;Dialogo;Normal;
-17.mkv;13:44;Medio.;;A1_M2102_RIP_2661;Jesus! Samuels! Eu vou tentar!;Dialogo;Normal;
-17.mkv;13:49;Medio.;;A1_M2102_SAM_4902;ESPERE! Você precisa fazer isso na ordem correta ou o efeito cascata será fatal para mim. Estou acessando os diagramas da Seegson. (pausa curta) Primeiro, remova o cabo vermelho.;Dialogo;Normal;
-17.mkv;13:57;Medio.;;A1_M2102_RIP_1003;Certo – o vermelho primeiro.;Dialogo;Normal;
-17.mkv;14:06;Medio.;;A1_M2102_RIP_2315;Vermelho ok.;Dialogo;Normal;
-17.mkv;14:10;Medio.;;A1_M2102_SAM_4098;Agora, procure um cabo azul. Consegue ver?;Dialogo;Normal;
-17.mkv;14:19;Medio.;;A1_M2102_RIP_9211;Achei. Azul desconectado. E agora?;Dialogo;Normal;
-17.mkv;14:27;Medio.;;A1_M2102_SAM_2721;Estou com problemas para acessar os diagramas. O APOLLO está dificultando as coisas.;Dialogo;Normal;
-17.mkv;14:27;Medio.;;A1_M2102_RIP_7616;Preciso do próximo, Samuels!;Dialogo;Normal;
-17.mkv;14:29;Medio.;;A1_M2102_RIP_4790;O quê?;Fala instrospectiva;Normal;
-17.mkv;14:29;Medio.;;A1_M2102_SAM_7010;O que está acontecendo aí, Ripley?;Dialogo;Normal;
-17.mkv;14:30;Medio.;;A1_M2102_RIP_3992;Acenderam as luzes de emergência! Não dá pra saber a cor dos cabos. Você vai ter que me guiar até eles!;Dialogo;Normal;
-17.mkv;14:35;Medio.;;A1_M2102_RIP_8097;Achei!;Dialogo;Normal;
-17.mkv;14:38;Medio.;;A1_M2102_SAM_9019;O próximo está ligado a uma tomada da parede. Tinha uma maca de cabeça para baixo perto dele.;Dialogo;Normal;
-17.mkv;14:50;Medio.;;A1_M2102_RIP_9528;Achei, Samuels.;Dialogo;Normal;
-17.mkv;-;Medio.;;A1_M2102_SAM_6659;Só mais dois, Ripley. Procure um painel de chão aberto. Deve ter um androide desativado do lado dele.;Dialogo;Normal;
-17.mkv;14:55;Medio.;;A1_M2102_SAM_8271;Só falta o último agora, Ripley.;Dialogo;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_7896;Alerta: Iniciando conexão com APOLLO;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_9224;Alerta: Conexão não autorizada.;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_8096;Pessoal humano: saiam. Isto não é um treino.\n25% da capacidade de sistema\n50% da capacidade de sistema\nEnergia local além dos parâmetros de segurança.\n75% da capacidade de sistema\nPessoal humano: saiam. Isto não é um treino.\n100% da capacidade de sistema\nPessoal humano: saiam.\nIsto não é um treino.\n110% da capacidade de sistema;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_2439;25% da capacidade de sistema;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_9584;50% da capacidade de sistema;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_5205;75% da capacidade de sistema;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_7116;100% da capacidade de sistema;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_5250;110% da capacidade de sistema. Excesso de energia.;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_2555;Cinco minutos para a sobrecarga de energia;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_8902;Quatro minutos para a sobrecarga de energia;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_6356;Três minutos para a sobrecarga de energia;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_3858;Dois minutos e trinta segundos para a sobrecarga de energia.;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_3894;Dois minutos para a sobrecarga de energia;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_8010;Um minuto e trinta segundos para a sobrecarga de energia.;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_7176;Trinta segundos para a sobrecarga de energia;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_1577;Dez;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_8368;Nove;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_3953;Oito;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_2509;Sete;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_5341;Seis;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_3036;Cinco;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_4315;Quatro;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_5573;Três;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_3946;Dois;Efeito sonoro;Normal;
-17.mkv;-;Medio.;;A1_M2102_SGM_4078;Um;Efeito sonoro;Normal;
-17.mkv;15:21;Medio.;;A1_M2102_RIP_3826;Samuels. Você tá morrendo.;Dialogo;Normal;
-17.mkv;15:28;Medio.;;A1_M2102_SAM_8508;Você fala como se eu tivesse uma vida de verdade. Eu... te agradeço por isso.;Dialogo;Normal;
-17.mkv;15:30;Baixo.;;A1_M2102_RIP_9486;Samuels.;Dialogo;Normal;
-17.mkv;15:35;Medio.;;A1_M2102_SAM_5661;O transporte do APOLLO está aberto. Assim que chegar ao núcleo, ele vai falar com você.;Dialogo;Normal;
-17.mkv;15:37;Baixo.;;A1_M2102_RIP_6020;Você fez isso por mim?;Dialogo;Normal;
-17.mkv;15:42;Medio.;;A1_M2102_SAM_2225;Eu queria que a Amanda Ripley tivesse as respostas...;Dialogo;Normal;
+"video_file_name","video_time","audio_loudness","obs","audio_filename","audio_legend","type","voice_tone","desired_lufs"
+"1.mkv","5:34","Medio.",,"A1_M0101_SAM_2554","Ah, Ripley.","Dialogo","Normal",
+"1.mkv","7:19","Medio.",,"A1_M0101_RIP_6891","Parece que chegou a hora.","Dialogo","Normal",
+"2.mkv","7:29","Baixo.",,"A1_M0401_RIP_0006","Droga.","Fala instrospectiva","Normal",
+"2.mkv","10:29","Baixo.",,"A1_M0401_RIP_4228","Ah! Que droga...","Fala instrospectiva","Raiva",
+"2.mkv","11:05","Baixo.",,"A1_M0401_RIP_3010","Isto vai ajudar.","Fala instrospectiva","Normal",
+"2.mkv","11:11","Baixo.",,"A1_M0401_RIP_6996","Olá? Tem alguém aqui?","Fala instrospectiva","Sussurro",
+"3.mkv","21:26","Baixo.",,"A1_M0401_RIP_1454","Mas o que aconteceu aqui?","Fala instrospectiva","Sussurro",
+"3.mkv","27:25","Baixo.",,"A1_M0401_RIP_0170","A Torrens!","Fala instrospectiva","Sussurro",
+"3.mkv","27:58","Baixo.",,"A1_M0401_RIP_9312","Estou aqui! Estou bem aqui! Verlaine!","Fala instrospectiva","Normal",
+"3.mkv","0:56","Baixo.",,"A1_M0401_RIP_2001","Mas que droga!","Fala instrospectiva","Sussurro",
+"3.mkv","1:08","Medio.",,"A1_M0401_RIP_7231","Esse lugar inteiro tá se desintegrando.","Fala instrospectiva","Sussurro",
+"3.mkv","1:08","Medio.","M04_WELCOMETOSEVASTOPOL.BNK (186431336)","SPOT_Cat_RunAway_BB_B_01","-","Efeito sonoro","Normal",
+"3.mkv","1:10","Medio.","DYNAMICLOAD_HAB_AIRPORT.BNK (245322062)","SPOT_Cat_Pur_BB_A_04","-","Efeito sonoro","Normal",
+"3.mkv","1:14","Medio.","DYNAMICLOAD_HAB_AIRPORT.BNK (70653539)","SPOT_Cat_Pur_BB_A_03","-","Efeito sonoro","Normal",
+"3.mkv","1:19","Medio.","DYNAMICLOAD_HAB_AIRPORT.BNK (388451914)","SPOT_Cat_Pur_BB_A_01","-","Efeito sonoro","Normal",
+"3.mkv","1:26","Medio.","DYNAMICLOAD_HAB_AIRPORT.BNK (482093851)","SPOT_Cat_Pur_BB_A_02","-","Efeito sonoro","Normal",
+"3.mkv","1:48","Baixo.",,"A1_M0401_RIP_0198","Oh. Merda.","Fala instrospectiva","Sussurro",
+"3.mkv","2:04","Baixo.",,"A1_M0401_RIP_0230","Acho que preciso disso mais do que você.","Fala instrospectiva","Normal",
+"3.mkv","3:25","Medio.",,"A1_M0401_RIP_0250","Era você que estava me seguindo lá trás?","Dialogo","Normal",
+"3.mkv","4:54","Alto.",,"A1_M0401_AXE_0260","Eu tinha que manter distância, não dá para arriscar.","Dialogo","Normal",
+"3.mkv","5:48","Medio.",,"A1_M0401_RIP_9611","Que diabo foi aquilo? Por que você foi tão agressivo?","Dialogo","Normal",
+"3.mkv","6:12","Medio.",,"A1_M0401_AXE_7316","Espero que essa nave sua seja de verdade.","Dialogo","Normal",
+"3.mkv","6:15","Medio.",,"A1_M0401_AXE_0320","Escute, querida, quando chegarmos à nave, aí a gente pode relaxar, fazer tranças no cabelo um do outro e bater papo o quanto você quiser.","Dialogo","Normal",
+"3.mkv","6:24","Medio.",,"A1_M0401_RIP_0330","Tá, quando chegarmos à minha nave.\n(subitamente agressivo)\nPreciso saber o que está acontecendo. Agora mesmo, caralho.","Dialogo","Normal",
+"3.mkv","6:34","Medio.",,"A1_M0401_RIP_8765","Um assassino? O que isso quer dizer?","Dialogo","Normal",
+"3.mkv","9:45","Medio.",,"A1_M0401_RIP_2020","Amigos seus?","Dialogo","Normal",
+"3.mkv","14:00","Medio.",,"A1_M0401_RIP_9759","Que surpresa.","Dialogo","Normal",
+"3.mkv","15:56","Medio.",,"A1_M0401_AXE_9102, A1_M0401_AXE_7610","Não estou mentindo, querida. Você quer ir lá e dizer olá, o funeral é seu. Essas armas não são de mentira.","Dialogo","Normal",
+"3.mkv","18:25","Medio.",,"A1_M0401_RIP_2964","Alguém devia fazer alguma coisa.","Dialogo","Normal",
+"3.mkv","18:30","Baixo.",,"A1_M0401_RIP_0350","Eu percebi.","Dialogo","Normal",
+"3.mkv","19:25","Baixo.",,"A1_M0401_RIP_0500","Você tá... morando aqui?","Dialogo","Normal",
+"4.mkv","2:55","Baixo.",,"A1_M0401_RIP_8878","E agora?","Dialogo","Normal",
+"4.mkv","6:30","Alto.",,"A1_M0401_AXE_7116","Não é esperto ficar muito tempo por aqui.","Dialogo","Sussurro",
+"4.mkv","11:27","Baixo.",,"A1_M0401_RIP_0550","É assim que todo mundo viaja por aqui?","Dialogo","Sussurro",
+"4.mkv","2:01","Alto.",,"A1_M0401_AXE_0560","Só aqueles que querem continuar vivos, meu amor.","Dialogo","Sussurro",
+"4.mkv","2:03","Alto.",,"A1_M0401_AXE_1406","Torrens é o nome da sua nave, hein?","Dialogo","Sussurro",
+"4.mkv","9:05","Baixo.",,"A1_M0401_AXE_0740","Eles estão armados. E são muitos para enfrentar.","Dialogo","Sussurro",
+"4.mkv","9:05","Baixo.",,"A1_M0401_RIP_0750","Enfrentar?","Dialogo","Sussurro",
+"4.mkv","17:13","Baixo.",,"A1_M0401_RIP_1050","Como?","Dialogo","Sussurro",
+"4.mkv","17:13","Medio.",,"A1_M0401_AXE_3707","Você é menor do que eu, vai fazer menos barulho.","Dialogo","Sussurro",
+"4.mkv","20:33","Baixo.",,"A1_M0401_RIP_6352","Ótimo.","Dialogo","Sussurro",
+"4.mkv","21:25","Medio.",,"A1_M0401_RIP_4560","Falta muito?","Dialogo","Normal",
+"4.mkv","22:00","Medio.",,"A1_M0401_RIP_7740","Axel! Atrás de você!","Dialogo","Normal",
+"4.mkv","22:15","Baixo.",,"A1_M0401_RIP_0970","O que... o que que era aquela coisa?","Fala instrospectiva","Normal",
+"4.mkv","22:22","Baixo.",,"A1_M0401_RIP_0980","Não posso parar.","Fala instrospectiva","Normal",
+"4.mkv","3:14","Baixo.","Aumentar o começo do audio","A1_M0601_CV6_0050","O que há de errado com essa coisa? Funciona, droga!","Dialogo","Normal",
+"4.mkv","3:40","Baixo.",,"A1_M0601_RIP_1100","Droga!","Fala instrospectiva","Normal",
+"4.mkv","3:43","Baixo.",,"A1_M0601_RIP_0260","Um sintonizador de acesso. Ela estava tentando invadir a segurança do elevador.","Fala instrospectiva","Normal",
+"4.mkv","3:45","Baixo.",,"A1_M0601_RIP_0280","Circuitos queimados. Fácil de consertar.","Fala instrospectiva","Normal",
+"4.mkv","3:45","Baixo.",,"A1_M0601_RIP_2864","Só preciso encontrar uma nova célula de dados.","Fala instrospectiva","Normal",
+"4.mkv","3:57","Medio.",,"A1_M0601_CV1_0670","E se ela só estava vasculhando o local, como a gente?","Dialogo","Normal",
+"5.mkv","6:58","Medio.",,"A1_M0601_RIP_8269","Oh, Deus. A caixa-preta.","Fala instrospectiva","Sussurro",
+"5.mkv","7:20","Baixo.",,"A1_M0601_RIP_2675","O quê? O quê?","Fala instrospectiva","Normal",
+"5.mkv","8:27","Baixo.",,"A1_M0601_RIP_9825","Não! Que droga!","Fala instrospectiva","Normal",
+"5.mkv","8:34","Baixo.",,"A1_M0601_RIP_4561","Certo... Certo...","Fala instrospectiva","Normal",
+"5.mkv","15:52","Medio.",,"A1_M0601_RIP_4822","Concentre-se.","Fala instrospectiva","Sussurro",
+"5.mkv","18:43","Baixo.",,"A1_M0601_RIP_0310","Certo. Um sintonizador de acesso funcionando.","Fala instrospectiva","Normal",
+"5.mkv","18:46","Baixo.",,"A1_M0601_RIP_0320","Vamos tentar este aqui.","Fala instrospectiva","Normal",
+"5.mkv","18:53","Baixo.",,"A1_G0000_RIP_0080A","Oh, Deus.","Fala instrospectiva","Normal",
+"5.mkv","18:57","Baixo.",,"A1_G0000_RIP_0530D","Dá um tempo.","Fala instrospectiva","Normal",
+"6.mkv","18:57","Medio.",,"A1_M0701_RIP_0050","Oi? Meu nome é Ripley. Amanda Ripley. Preciso da sua ajuda.","Dialogo","Normal",
+"6.mkv","18:59","Baixo.",,"A1_M0701_RIP_0100","Por isso que a Seegson tá atrás na corrida tecnológica.","Fala instrospectiva","Sussurro",
+"6.mkv","19:07","Medio.",,"A1_M0701_RIP_0150","Preciso ir ao Controle de Comunicações. É urgente.","Dialogo","Normal",
+"6.mkv","19:08","Medio.",,"A1_M0701_RIP_0170","É uma emergência! Você não vê o que tá acontecendo?","Dialogo","Raiva",
+"6.mkv","19:27","Medio.",,"A1_M0701_RIP_0190","Esqueça, eu vou sem ajuda.","Dialogo","Normal",
+"6.mkv","19:28","Baixo.",,"A1_M0701_RIP_0950","Um tipo de sensor.","Fala instrospectiva","Normal",
+"6.mkv","19:34","Baixo.",,"A1_M0701_RIP_0955","Foi modificado.","Fala instrospectiva","Normal",
+"6.mkv","19:36","Medio.",,"A1_M0701_RIP_0280","Me deixe entrar, preciso contatar minha nave!","Dialogo","Normal",
+"6.mkv","19:49","Medio.",,"A1_M0701_RIP_0320","Deve ter outro jeito de entrar.","Fala instrospectiva","Normal",
+"6.mkv","19:51","Baixo.",,"A1_M0701_RIP_0440","Oh, meu deus.","Fala instrospectiva","Sussurro",
+"6.mkv","19:57","Medio.",,"A1_M0701_AN1_0980","Bom dia.","Dialogo","Normal",
+"6.mkv","19:59","-","Trocar pelo arquivo AI_UI_VER_6814","A1_M0701_VER_5927","Aqui é Verlaine, da Torrens. Que diabos aconteceu? Sevastopol? Alguém da nossa equipe em trajes espaciais chegou a bordo? Por favor, responda. Sofremos danos com a explosão e vamos sair do espaço da Sevastopol. Os sistemas cairão durante os reparos. Não sei dizer por quanto... (estática)","Gravação de áudio","Normal",
+"6.mkv","20:17","Baixo.",,"A1_M0701_RIP_0805","Oh, mas que ótimo...","Fala instrospectiva","Sussurro",
+"6.mkv","20:17","Baixo.",,"A1_M0701_RIP_2890","Tem que ter alguém na estação com quem eu possa falar.","Fala instrospectiva","Sussurro",
+"6.mkv","20:18","Medio.",,"AI_UI_TAY_1115","Sevastopol, aqui é Nina Taylor, Administradora Executiva da Weyland-Yutani, confirmando o recebimento da sua transmissão. Sou membro da equipe designada para coletar a caixa-preta da Nostromo. A caixa-preta em suas mãos é de importância primária para a Weyland Yutani. Pelos acordos corporativos existente, devemos lembrá-los que vocês não devem ler seu conteúdo, nem revelar sua presença a terceiros. Estaremos com vocês em breve. Uma mensagem privada para o Delegado Federal Waits virá em seguida.","Gravação de áudio","Normal",
+"6.mkv","20:26","Medio.",,"AI_UI_RAN_5231","Hughes, é o Ransome. Acabei de receber sua pergunta. Sim, eu estive no nosso arquivo do retransmissor e estou decodificando uma parte. Estou procurando antigos registros de tripulações que passaram por Sevastopol há algum tempo. Sei que você está preocupado, mas isso é passado. Só tem uma coisa que eu preciso saber: um pacote de transmissão de rotina da Companhia, enviado da borda de Thedus antes de uma nave iniciar seu retorno. Não é nada que vá violar alguma coisa.","Gravação de áudio","Normal",
+"6.mkv","20:29","Medio.",,"AI_UI_DAL_0010","Aqui é o Capitão Dallas, registrando relatório inicial na viagem de volta da nossa jornada a Thedus. Quando chegarmos em casa, quero uma reunião com um coordenador de expedição. Meu Oficial de Ciências habitual foi substituído sem nenhuma explicação. O substituto é mais que capaz, tenho certeza, mas receber apenas dois dias de aviso prévio para esse tipo de coisa é loucura. Eu só gostaria de uma explicação. Estaremos prontos para a nossa carga quando recebermos a comunicação. Dallas, Capitão da Nostromo, desligando.","Gravação de áudio","Normal",
+"7.mkv","20:57","Medio.",,"A1_M0901_SAM_1661","Ripley, a Taylor está aqui.","Dialogo","Normal",
+"7.mkv","21:42","Medio.",,"A1_M0901_SAM_9451","Tente descansar, Taylor.","Dialogo","Normal",
+"7.mkv","21:42","Medio.",,"A1_M0901_RIP_8401","Como ela está?","Dialogo","Normal",
+"7.mkv","21:50","Medio.",,"A1_M0901_SAM_3585","Ela precisa de cuidados. A área médica é perto, mas não quis deixá-la.","Dialogo","Normal",
+"7.mkv","21:52","Medio.",,"A1_M0901_RIP_9212","Eu vou investigar. Verei o que encontro. Fique com ela.","Dialogo","Normal",
+"7.mkv","21:56","Medio.",,"A1_M0901_SAM_4671","Vou tentar consertar o amplificador de rádio.\n(pausa)\nE se essa... 'criatura' aparecer?","Dialogo","Normal",
+"7.mkv","22:11","Medio.",,"A1_M0901_RIP_8577","Se esconda.","Dialogo","Normal",
+"7.mkv","22:12","Medio.",,"A1_M0901_SAM_6494","Não há tempo a perder, Ripley.","Dialogo","Normal",
+"7.mkv","22:16","Medio.",,"A1_M0901_SAM_9773","Fique comigo, Taylor. Ripley foi buscar ajuda.","Dialogo","Normal",
+"7.mkv","22:23","Medio.",,"A1_M0901_RIP_9900","Preciso de um médico. Olá? Preciso de-","Dialogo","Normal",
+"7.mkv","22:23","Medio.",,"A1_M0902_KUH_3674","Relaxa. Vou fechar a ventilação atrás de você. Só para garantir.","Dialogo","Normal",
+"7.mkv","22:25","Baixo.",,"A1_M0902_RIP_7714","Certo.","Dialogo","Normal",
+"7.mkv","22:27","Baixo.",,"A1_M0902_RIP_0070","Ripley. Preciso achar um médico.","Dialogo","Normal",
+"7.mkv","22:27","Baixo.",,"A1_M0902_RIP_8665","Minha amiga precisa de ajuda. Suprimentos médicos.","Dialogo","Normal",
+"7.mkv","22:50","Baixo.",,"A1_M0902_RIP_0120","Como chegamos lá?","Dialogo","Normal",
+"7.mkv","22:50","Baixo.",,"A1_M0902_RIP_3970","Senha?","Dialogo","Normal",
+"7.mkv","22:50","Baixo.",,"A1_M0902_RIP_3483","Só me diga pra onde ir, Kuhlman.","Dialogo","Sussurro",
+"7.mkv","23:03","Baixo.",,"A1_M0902_RIP_0240","Droga!","Fala instrospectiva","Sussurro",
+"7.mkv","23:13","Baixo.",,"A1_M0902_RIP_9980","Morley... Morley...","Fala instrospectiva","Sussurro",
+"7.mkv","23:19","Medio.",,"A1_M0902_RIP_3624","Kuhlman, seu desgraçado! Sabia que aquela coisa estava aqui!","Dialogo","Raiva",
+"7.mkv","23:20","Medio.",,"A1_M0902_RIP_0520","1702! Tá bom? Agora vamos descer até a farmácia!","Dialogo","Raiva",
+"7.mkv","23:49","Baixo.",,"A1_M0902_RIP_4381","Oh, Deus.","Fala instrospectiva","Sussurro",
+"8.mkv","23:49","Baixo.",,"A1_M1001_RIP_0120","Samuels? Tem uma Dra. Lingard, oficial médica sênior. Podemos descobrir onde guardam tudo no escritório dela.","Dialogo","Normal",
+"8.mkv","24:05","Medio.",,"A1_M1001_RIP_4238","Samuels, peguei os medicamentos.","Dialogo","Sussurro",
+"8.mkv","24:42","Medio.",,"A1_M1001_RIP_7132","A recepção médica é muito perigosa. Não consigo sair.","Dialogo","Sussurro",
+"9.mkv","24:42","Medio.",,"A1_M1001_SAM_5091","Ripley, você está bem? Ripley?","Dialogo","Normal",
+"9.mkv","27:20","Baixo.",,"A1_M1001_RIP_7697","Não agora.","Dialogo","Sussurro",
+"9.mkv","27:20","Baixo.",,"A1_M1101_RIP_9416","Tá faltando uma peça.","Fala instrospectiva","Sussurro",
+"9.mkv","27:48","Baixo.",,"A1_M1101_RIP_7239","Preciso consertar isso.","Fala instrospectiva","Sussurro",
+"9.mkv","27:50","Medio.",,"A1_M1101_CV1_0260","Francis? Responda, Francis. Tá aí?","Dialogo","Normal",
+"9.mkv","27:50","Medio.",,"A1_M1101_CV1_3679","Merda. Acho que estão mortos. Porra, acho que estão mortos! Veja o vídeo das câmeras!","Dialogo","Normal",
+"9.mkv","27:53","Medio.",,"AI_UI_SPE_6793","Smythe, aqui é Spedding. Você sabia muito bem que esses caras eram os últimos licitantes para o sistema APOLLO de Sevastopol e arruinou completamente a apresentação dos androides. Eles não estão interessados. Então, eu fico sem bônus, você fica sem a sua metade e só Deus sabe o que isso significa para os executivos do andar de cima. Isso me deixou irritado, mas sabe o que está me irritando ainda mais? Eu tenho que ficar em Sevastopol para supervisionar a desativação dos sintéticos enquanto você volta para casa. Não tenha pesadelos na viagem de volta, imbecil.","Gravação de áudio","Normal",
+"9.mkv","27:56","Medio.",,"A1_M1101_SGF_0736","Energia dos androides de requisições online e aguardando ativação.","Efeito sonoro","Normal",
+"9.mkv","28:00","Baixo.",,"A1_M1101_RIP_0300","Agora, comporte-se.","Dialogo","Sussurro",
+"9.mkv","28:02","Baixo.",,"A1_M1101_RIP_0320","Preciso de um cilindro de compressão.","Dialogo","Sussurro",
+"9.mkv","28:03","Baixo.",,"A1_M1101_RIP_0000","Não faça muito barulho, tá bom?","Dialogo","Sussurro",
+"10.mkv","28:06","Medio.",,"A1_M1201_WAI_4998","Precisamos do transporte para chegar ao QG, mas está fechado. O controle de transporte fica lá em cima. Samuels diz que você é engenheira. Vá fazer algo de útil. Você estragou a armadilha.","Dialogo","Normal",
+"10.mkv","28:10","Medio.",,"A1_M1201_SAM_0110","Você está bem, Ripley?","Dialogo","Normal",
+"10.mkv","28:10","Medio.",,"A1_M1201_RIP_0120","Tó ótima","Dialogo","Normal",
+"10.mkv","28:13","Medio.",,"A1_M1201_SAM_3640","Temos que nos apressar. Taylor...","Dialogo","Normal",
+"10.mkv","28:16","Medio.",,"A1_M1201_RIP_3540","Não se preocupe, Samuels. Vamos tirar ela daqui.","Dialogo","Normal",
+"10.mkv","28:19","Medio.",,"A1_M1201_RIP_0050","Eu não chamaria a recepção de amigável.","Dialogo","Normal",
+"10.mkv","28:23","Baixo.",,"A1_M1201_RIP_8540","Alguém desligou tudo aqui.","Fala instrospectiva","Normal",
+"10.mkv","28:24","Medio.",,"A1_M1201_CV1_0000f","Não! O que você fez?","Dialogo","Normal",
+"10.mkv","28:29","Baixo.",,"A1_M1201_RIP_0150","Pode ir. Tive problemas e vai demorar um pouco pra eu voltar.","Dialogo","Normal",
+"10.mkv","28:33","Medio.",,"A1_M1201_RIP_0152","Taylor não pode. Eu posso pegar o próximo.","Dialogo","Normal",
+"10.mkv","28:36","Medio.",,"A1_M1202_RIP_0010","Sem comitê de boas-vindas?","Dialogo","Normal",
+"10.mkv","28:40","Medio.",,"A1_M1202_RIP_3597","Como tá a Taylor?","Dialogo","Normal",
+"10.mkv","28:41","Medio.",,"A1_M1202_WAI_0026","Estável. Logo ela estará caminhando. Samuels está com ela agora.","Dialogo","Normal",
+"10.mkv","28:42","Medio.",,"A1_M1202_WAI_5747","Você fez o transporte funcionar de novo, então, estamos quites.","Dialogo","Normal",
+"10.mkv","28:47","Medio.",,"A1_M1202_RIP_8491","Cadê o Ricardo?","Dialogo","Normal",
+"10.mkv","28:49","Medio.",,"A1_M1202_WAI_6741","Preparando nosso próximo passo.","Dialogo","Normal",
+"10.mkv","28:53","Medio.",,"A1_M1202_WAI_7958","Olhe, estou ocupado. Prendi Marlow nas celas - o vagabundo que apareceu com a sua caixa-preta.","Dialogo","Normal",
+"10.mkv","28:56","Medio.",,"A1_M1202_RIP_6980","Onde tá a nave do Marlow? A Anesidora?","Dialogo","Normal",
+"10.mkv","28:56","Medio.",,"A1_M1202_WAI_2810","Ele pôs em órbita estacionária perto do Gigante Gasoso. O filho da puta não quer dar os códigos de comando para a gente trazê-la no automático. Talvez você consiga algo com esse desgraçado. Fale com ele.","Dialogo","Normal",
+"10.mkv","29:14","Medio.",,"A1_M1202_RIP_1583","Marlow?","Dialogo","Normal",
+"10.mkv","29:17","Medio.",,"A1_M1202_RIP_9239","Meu nome é Ripley. Trabalho pra Companhia.","Dialogo","Normal",
+"10.mkv","30:14","Medio.",,"A1_M1202_MAR_2425","Está aqui pela sua caixa vazia. Tenho que admitir que vocês são espertos.","Dialogo","Normal",
+"10.mkv","30:47","Medio.",,"A1_M1202_RIP_1203","Tó aqui por motivos pessoais. Minha mãe tava na Nostromo quando desapareceu há quinze anos.","Dialogo","Normal",
+"10.mkv","30:49","Medio.",,"A1_M1202_MAR_9878","Está falando sério? Merda. Bem... Merda. (se recompõe) Nunca encontramos a nave dela, Ripley. Só a caixa-preta.","Dialogo","Normal",
+"10.mkv","30:49","Medio.",,"A1_M1202_RIP_1746","Mas você encontrou outra coisa. O que aconteceu lá?","Dialogo","Normal",
+"10.mkv","31:50","Medio.",,"A1_M1202_MAR_7223","Preciso sair daqui, Ripley. Talvez possamos fazer um acordo?","Dialogo","Normal",
+"10.mkv","32:35","Medio.",,"A1_M1202_RIP_6481","Comece a falar. Quero saber tudo.","Dialogo","Normal",
+"10.mkv","32:36","Medio.",,"A1_M1301_LEW_5840","Tem um pouco de estática, Marlow, mas estou recebendo.","Dialogo","Normal",
+"10.mkv","32:42","Medio.",,"A1_M1301_LEW_2065","Tem um pouco de estática, Marlow, mas estou recebendo.","Dialogo","Normal",
+"10.mkv","32:58","Medio.",,"A1_M1301_FOS_0050","Vamos devagar. Quero chegar ao sinal em um só pedaço.","Dialogo","Normal",
+"10.mkv","32:58","Medio.",,"A1_M1301_HEY_6078","Se você quer um pedaço, Foster, eu tenho um negócio pra você bem aqui.","Dialogo","Normal",
+"10.mkv","33:34","Medio.",,"A1_M1301_FOS_7222","Só com microscópio para achar isso, Heyst.","Dialogo","Normal",
+"10.mkv","33:40","Medio.",,"A1_M1301_MEE_9689","Entendido.","Dialogo","Normal",
+"10.mkv","33:42","Medio.",,"A1_M1301_MAR_6918","O sinal está ficando mais forte aqui.","Dialogo","Normal",
+"10.mkv","33:47","Medio.",,"A1_M1301_HEY_3312","Você acha que pode ser o grande? Chega de porcarias de salvamento?","Dialogo","Normal",
+"10.mkv","33:48","Medio.",,"A1_M1301_MAR_4212","O seu palpite vale tanto quanto o meu. E eu achei que você adorava esse tipo de coisa?","Dialogo","Normal",
+"10.mkv","33:50","Medio.",,"A1_M1301_HEY_0430","O que, você nunca pensou no futuro?","Dialogo","Normal",
+"10.mkv","33:51","Medio.",,"A1_M1301_MAR_0440","Eu só me preocupo com o que está na minha frente.","Dialogo","Normal",
+"10.mkv","34:50","Medio.",,"A1_M1301_HEY_0650","Olha só essas formações rochosas. Bizarro.","Dialogo","Normal",
+"10.mkv","35:20","Medio.",,"A1_M1301_FOS_8821","Foram desgastadas pelas condições climáticas. É apenas seu estado natural.","Dialogo","Normal",
+"10.mkv","37:04","Medio.",,"A1_M1301_HEY_0670","Não tem nada de natural nesse lugar.","Dialogo","Normal",
+"10.mkv","37:07","Medio.",,"A1_M1301_HEY_1955","Marlow? Os explosivos não vão destruir isso.","Dialogo","Normal",
+"10.mkv","37:08","Medio.",,"A1_M1301_MAR_0910","Eu vou dar uma olhada, ver se acho um ponto fraco. Espere aqui.","Dialogo","Normal",
+"10.mkv","32:18","Medio.",,"A1_M1301_MAR_4038","Vou precisar de uma carona.","Dialogo","Normal",
+"10.mkv","0:35","Medio.",,"A1_M1301_MAR_2510","Heyst, por aqui.","Dialogo","Normal",
+"10.mkv","0:36","Medio.",,"A1_M1301_MAR_4013","Me dê um impulso.","Dialogo","Normal",
+"10.mkv","0:40","Medio.",,"A1_M1301_MAR_1548","Encontrei uma passagem. Estou verificando.","Dialogo","Normal",
+"10.mkv","0:50","Medio.",,"A1_M1301_MEE_0920","E se você não voltar?","Dialogo","Normal",
+"10.mkv","0:54","Medio.",,"A1_M1301_MAR_0925","Aí você espera mais.","Dialogo","Normal",
+"10.mkv","0:58","Medio.",,"A1_M1301_MAR_0930","Merda!","Fala instrospectiva","Normal",
+"10.mkv","1:01","Medio.",,"A1_M1301_FOS_9420","Marlow? Marlow, tudo bem?","Dialogo","Normal",
+"10.mkv","1:05","Medio.",,"A1_M1301_MAR_0945","Sim, estou bem. Mas essa foi por pouco. Acho que não dá para voltar pelo caminho que vim.","Dialogo","Normal",
+"10.mkv","2:56","Medio.",,"A1_M1301_FOS_0950","Só tenha cuidado, está ouvindo?","Dialogo","Normal",
+"10.mkv","2:58","Medio.",,"A1_M1301_FOS_4251","Marlow, nós te vemos!","Dialogo","Normal",
+"10.mkv","3:50","Medio.",,"A1_M1301_MAR_4999","Fiquem aí. Acho que encontrei algo.","Dialogo","Normal",
+"10.mkv","6:38","Medio.",,"A1_M1301_MAR_0955","Achei uma fenda na rocha. Esperem. Vou explodi-la.","Dialogo","Normal",
+"10.mkv","8:40","Medio.",,"A1_M1301_FOS_8938","Não faça isso comigo de novo.","Dialogo","Normal",
+"10.mkv","8:40","Medio.",,"A1_M1301_MAR_0980","Vamos em frente. Sigam-me.","Dialogo","Normal",
+"10.mkv","9:14","Medio.",,"A1_M1302_HEY_0060","Que diabos você acha que vai achar aqui, Marlow?","Dialogo","Normal",
+"10.mkv","9:14","Medio.",,"A1_M1302_MAR_0070","Algo grande.","Dialogo","Normal",
+"10.mkv","9:17","Medio.",,"A1_M1302_MEE_0080","Tem uma abertura em frente.","Dialogo","Normal",
+"10.mkv","9:37","Medio.",,"A1_M1302_FOS_9078","Oh, meu Deus.","Dialogo","Normal",
+"10.mkv","9:37","Medio.",,"A1_M1302_HEY_0100","Puta merda.","Dialogo","Normal",
+"10.mkv","9:37","Medio.",,"A1_M1302_MAR_0110","Cuidado com o que toca. Não quero danificar nada.","Dialogo","Normal",
+"10.mkv","9:37","Medio.",,"A1_M1302_FOS_2990","Quantos anos você acha que isso tem?","Dialogo","Normal",
+"10.mkv","10:02","Medio.",,"A1_M1302_HEY_0130","O que é isto, uma cabine?","Dialogo","Normal",
+"10.mkv","10:02","Medio.",,"A1_M1302_MEE_0140","Então, isto seria uma nave.","Dialogo","Normal",
+"10.mkv","11:06","Medio.",,"A1_M1302_HEY_2453","Ah-ah, acho que encontramos o nosso prêmio!","Dialogo","Normal",
+"10.mkv","11:39","Medio.",,"A1_M1302_MEE_3659","Ei, silêncio!","Dialogo","Normal",
+"10.mkv","11:39","Medio.",,"A1_M1302_HEY_9692","Que foi, você acha que vamos acordá-lo?","Dialogo","Normal",
+"10.mkv","11:39","Medio.",,"A1_M1302_HEY_9324","Desculpa aí, colega!","Dialogo","Normal",
+"10.mkv","14:14","Medio.",,"A1_M1302_MAR_0190","Chega! Estamos perdendo tempo. Vasculhe o local.","Dialogo","Normal",
+"10.mkv","0:32","Medio.",,"A1_M1302_FOS_6173","Marlow, é... é uma forma de vida.","Dialogo","Normal",
+"10.mkv","2:32","Medio.",,"A1_M1302_MAR_0210","Era uma forma de vida. Agora, é propriedade nossa. Direitos de salvamento.","Dialogo","Normal",
+"10.mkv","4:02","Medio.",,"A1_M1302_MEE_0220","Temos que fazer a reivindicação antes de qualquer um.","Dialogo","Normal",
+"10.mkv","4:02","Medio.",,"A1_M1302_HEY_0230","A Anesidora não está preparada para algo tão grande.","Dialogo","Normal",
+"10.mkv","5:23","Medio.",,"A1_M1302_MAR_0240","Então, vamos levar o que der e voltar depois. Vasculhe o local, veja o que mais tem aqui.","Dialogo","Normal",
+"10.mkv","5:23","Medio.",,"A1_M1302_FOS_7584","Marlow? Encontramos algo. Rastros.","Dialogo","Normal",
+"10.mkv","6:04","Medio.",,"A1_M1302_FOS_8914","Parece que algo foi arrastado. Mas isso não é tudo. Você não vai gostar disso.","Dialogo","Normal",
+"10.mkv","6:07","Medio.",,"A1_M1302_FOS_7916","Os rastros levam até aqui.","Dialogo","Normal",
+"10.mkv","6:40","Medio.",,"A1_M1302_MEE_5872","O mesmo nome que está na caixa-preta.","Dialogo","Normal",
+"10.mkv","6:59","Medio.",,"A1_M1302_HEY_0300","Nostromo. Alguém já esteve aqui.","Dialogo","Normal",
+"10.mkv","6:59","Medio.",,"A1_M1302_FOS_0370","Talvez tenham abandonado a nave e pousado aqui.","Dialogo","Normal",
+"10.mkv","9:08","Medio.",,"A1_M1302_MAR_0320","Estou vendo. Droga.","Dialogo","Normal",
+"10.mkv","16:56","Medio.",,"A1_M1302_FOS_6310","Se eles estiveram aqui antes de nós, por que não há registros deste lugar?","Dialogo","Normal",
+"10.mkv","16:56","Medio.",,"A1_M1302_HEY_0380","Bem, se ainda estão vivos, já era o nosso salvamento.","Dialogo","Normal",
+"10.mkv","16:59","Medio.",,"A1_M1302_MAR_0400","Vamos descobrir. Vou encontrar o sinal e desligá-lo. Não quero que ninguém mais ache esse lugar. Foster? Heyst? Verifiquem a caverna ali embaixo.","Dialogo","Normal",
+"10.mkv","17:01","Medio.",,"A1_M1302_HEY_0010","O que é isto? Nunca vi nada igual a isso.","Dialogo","Normal",
+"10.mkv","17:01","Medio.",,"A1_M1302_FOS_7522","Não é humano, isso eu posso dizer.","Dialogo","Normal",
+"10.mkv","17:06","Medio.",,"A1_M1302_MAR_0440","Meeks? Encontrei o sinal. Vou verificar.","Dialogo","Normal",
+"10.mkv","17:09","Medio.",,"A1_M1302_MAR_0505","Não sei o que aconteceu, mas o sinal parou de transmitir.","Dialogo","Normal",
+"10.mkv","17:11","Medio.",,"A1_M1302_FOS_9829","Marlow, você tem que ver isto, é incrível!","Dialogo","Normal",
+"10.mkv","17:39","Medio.",,"A1_M1302_MAR_0520","Estou indo.","Dialogo","Normal",
+"10.mkv","17:41","Medio.",,"A1_M1302_MEE_3547","Se segure.","Dialogo","Normal",
+"10.mkv","17:41","Medio.",,"A1_M1302_MAR_0550","Oh! Meu Deus!","Dialogo","Normal",
+"10.mkv","18:03","Medio.",,"A1_M1302_FOS_6978","Aqui!","Dialogo","Normal",
+"10.mkv","19:47","Medio.",,"A1_M1302_HEY_8616","Cuidado com a descida.","Dialogo","Normal",
+"10.mkv","19:51","Medio.",,"A1_M1302_FOS_7849","Vamos!","Dialogo","Normal",
+"10.mkv","19:57","Medio.",,"A1_M1302_HEY_3901","Espera aí!","Dialogo","Normal",
+"10.mkv","20:00","Medio.",,"A1_M1401_RIP_1931","Quero saber tudo. Onde está sua nave? Se rompermos o bloqueio da comunicação, quais são os códigos para trazê-la no automático?","Dialogo","Normal",
+"10.mkv","20:01","Medio.",,"A1_M1401_RIP_2742","Sem chance, Marlow.","Dialogo","Normal",
+"10.mkv","20:05","Medio.",,"A1_M1401_MAR_3338","É mesmo? Bem, você sabe onde estou.","Dialogo","Normal",
+"10.mkv","20:13","Medio.",,"A1_M1401_RIC_1344","Waits, meu console na Torre SysTech acendeu como árvore de Natal. Ele tá aqui.","Dialogo","Normal",
+"10.mkv","22:40","Medio.",,"A1_M1401_WAI_1324","Prepare o plano B.","Dialogo","Normal",
+"10.mkv","0:18","Medio.",,"A1_M1401_RIP_3314","Seja o que o for, quero ir junto.","Dialogo","Normal",
+"10.mkv","0:35","Medio.",,"A1_M1401_WAI_6740","Certo, por aqui. Tem algo aqui que você vai precisar.","Dialogo","Normal",
+"10.mkv","1:27","Medio.",,"AI_UI_LIN_5458","Waits, aqui é a Dra. Lingard. Acabei de examinar um paciente com - bom, nunca vi nada igual. É um tipo de parasita desconhecido. Fiz uma busca rápida do nome que me deram e não tem ninguém registrado com esse nome em Sevastopol. Eu acho que ela chegou a bordo recentemente. Você sabe de alguma coisa sobre isso? Não faço ideia do que o Sinclair e os homens dele estavam fazendo, mas isto deveria ter aparecido durante a quarentena. Quem sabe o que mais eles deixaram passar? A paciente e o capitão dela estão me esperando na sala de exames. Venha pra cá, agora.","Gravação de áudio","Normal",
+"10.mkv","2:03","Medio.",,"AI_UI_RAN_3315","Waits, precisamos falar sobre o que aconteceu em San Cristobal. Foi um negócio complicado e eu entendo que você queira lidar com isso o mais rápido e com o menos de escândalo possível, mas eu queria ter certeza de que você não ia fazer nada precipitado. Estou falando em capturar o espécime sem matá-lo. Se formos espertos, podemos ficar feitos pro resto da vida. Eu tenho as conexões, Waits. Eu posso arrumar as coisas. Você está ficando velho, Waits, não pode fazer isso para sempre. O que vai fazer quando Sevastopol for fechada? Você tem o meu número. Ransome desligando.","Gravação de áudio","Normal",
+"10.mkv","2:10","Medio.",,"A1_G0000_RIP_0520D","Vamos torcer para que isto funcione.","Fala instrospectiva","Normal",
+"10.mkv","7:06","Medio.",,"A1_M1401_WAI_8851","Aquilo é um animal. Animais têm medo de fogo.","Dialogo","Normal",
+"10.mkv","8:54","Medio.",,"A1_M1401_RIP_8201","Espero que esteja certo.","Dialogo","Normal",
+"10.mkv","8:57","Medio.",,"A1_M1401_WAI_1362","Tenho um plano para prendê-lo. Pegue um vagão de transporte e encontre Ricardo na Torre SysTech. Eu vou coordenar daqui.","Dialogo","Normal",
+"11.mkv","8:57","Medio.",,"A1_M1401_WAI_6869","Ripley? Você está indo?","Dialogo","Normal",
+"11.mkv","15:40","Medio.",,"A1_M1401_RIP_4754","Sim.","Dialogo","Normal",
+"11.mkv","15:40","Medio.",,"A1_M1401_WAI_7815","Ricardo está indo na sua frente. Enviei seu amigo Samuels para o Processamento de Androides. Assim que essa coisa morrer, vou fazê-lo acessar Apollo e suspender o confinamento.","Dialogo","Normal",
+"11.mkv","0:57","Medio.",,"A1_M1401_RIP_3421","Samuels concorda com isso?","Dialogo","Normal",
+"11.mkv","0:57","Medio.",,"A1_M1401_WAI_8428","Ele disse que queria ajudar e estou muito ocupado aqui. Além disso, ele é um sintético. Deve ser fácil para ele chegar lá.","Dialogo","Normal",
+"11.mkv","0:57","Medio.",,"A1_M1401_RIP_8368","Acho que sim.","Dialogo","Normal",
+"11.mkv","4:07","Medio.",,"A1_M1401_WAI_3758","Olha, Ripley, somos os únicos entre Sevastopol e a catástrofe total.","Dialogo","Normal",
+"11.mkv","4:07","Medio.",,"A1_M1401_RIP_1352","A catástrofe total já aconteceu, Waits. Tudo o que podemos fazer é matar o safado.","Dialogo","Normal",
+"11.mkv","4:07","Medio.",,"A1_M1402_RIP_4746","Estou na Torre Systech.","Dialogo","Normal",
+"11.mkv","4:12","Medio.",,"A1_M1402_WAI_8280","Ripley, atenção. Estou detectando vários sistemas com defeito na sua área.","Dialogo","Normal",
+"11.mkv","7:12","Medio.",,"AI_UI_ASH_0010","Registro inicial do Oficial de Ciências. Fui estabelecido a bordo da Nostromo. Toda a papelada relevante foi assinada e eu tenho acesso ao mainframe MU-TH-UR 6000 da nave. O Capitão Dallas e o Imediato parecem... incomodados com a minha presença, mas isso talvez já fosse esperado. Tudo que resta é torcer por uma jornada produtiva. Ash desligando.","Gravação de áudio","Normal",
+"11.mkv","7:12","Medio.",,"A1_M1402_AN2_8900","Por favor, reúnam-se no Ponto de Grupamento de Incêndio mais próximo. Isso não é um treino. Não entrem em pânico.","Dialogo","Normal",
+"11.mkv","9:20","Medio.",,"A1_M1402_RIP_4978","Waits? O que há de errado com essa estação?","Dialogo","Normal",
+"11.mkv","9:58","Medio.",,"A1_M1402_WAI_3116","Está sempre caindo aos pedaços, mas por causa da desativação vários sistemas foram desligados. Some a isso o fato de que todos estão ocupados demais tentando sobreviver para manter algo e você terá o caos.","Dialogo","Normal",
+"11.mkv","9:58","Medio.",,"A1_M1402_CV1_5264","Explodiu alguma coisa aí atrás?","Dialogo","Normal",
+"11.mkv","4:35","Medio.",,"A1_M1402_RIP_5179","Esse é o menor dos problemas. A criatura tá por perto.","Dialogo","Sussurro",
+"11.mkv","4:40","Medio.",,"A1_M1402_CV2_6774","Vocês ouviram a moça. Vamos.","Dialogo","Normal",
+"11.mkv","6:22","Medio.",,"A1_M1402_RIP_7618","A criatura tá aqui. Preciso ir.","Dialogo","Sussurro",
+"11.mkv","6:27","Medio.",,"A1_M1402_CV5_6586","Não tem pra onde ir!","Dialogo","Normal",
+"11.mkv","6:27","Medio.",,"A1_M1402_RIP_3311","O shopping perto da Agência Federal é o lugar mais seguro.","Dialogo","Sussurro",
+"11.mkv","6:51","Medio.",,"A1_M1402_CV5_6648","Certo. Certo. Obrigada.","Dialogo","Sussurro",
+"11.mkv","7:00","Medio.",,"A1_M1402_RIP_9608","Waits, a criatura - como vamos prendê-la?","Dialogo","Sussurro",
+"11.mkv","8:04","Medio.",,"A1_M1402_WAI_8720","A torre foi construída para processar compostos de alto valor extraídos do gigante gasoso. Medidas contra a pirataria ainda estão em vigor. A torre pode ser desligada - ventilação, portas, tudo. Você constrói uma jaula ao redor da criatura e o Ricardo a bloqueia.","Walk Talk","Normal",
+"11.mkv","11:16","Medio.",,"A1_M1402_WAI_4172","A entrada em frente está sem energia. Use o terminal na recepção para abrir a porta.","Dialogo","Normal",
+"11.mkv","17:49","Medio.",,"A1_M1402_RIP_1322","Não faça barulho. Não corra. Vá até a Agência Federal.","Dialogo","Sussurro",
+"11.mkv","17:51","Medio.",,"A1_M1402_CV5_5324","Certo. Obrigada.","Dialogo","Sussurro",
+"11.mkv","17:53","Medio.",,"A1_M1402_CV5_7874","A senha para a sala de transporte é 0482, se precisar de suprimentos.","Dialogo","Sussurro",
+"11.mkv","18:00","Medio.",,"AI_UI_CHI_0001","Aqui é o Chefe. Como solicitado, reenviarei o meu relatório para a remoção do sistema de transporte para outro uso depois que Sevastopol for fechada. Eu ainda não sei como isso é possível. Sei que a Seegson quer recuperar o máximo do investimento que fizeram neste lugar, mas o negócio está acabado. As junções estão enferrujadas. Importantes protocolos de segurança foram ignorados por anos... está em ruínas. Apenas um milagre impediu que o sistema matasse metade da população.","Gravação de áudio","Normal",
+"12.mkv","18:00","Medio.",,"A1_M1402_WAI_1145","Ricardo está finalizando o bloqueio. Você precisa fechar as portas de segurança perto da escadaria. E depois o Armazém de Suprimentos, o Acesso de Manutenção e a Recepção da Central de Servidores. Mantenha-me informado.","Walk Talk","Normal",
+"12.mkv","18:07","Medio.",,"AI_UI_WIN_3275","Estou gravando isto pra quem não estava aqui quando aconteceu. Não sei dizer quem escapou, tem alguns corpos, mas... os outros foram levados pela ventilação. Um por um. As portas estavam trancadas, mas as ventilações do teto estavam abertas. Não havia pra onde fugir, e ninguém para abrir a porta. Foi como soltar uma raposa no galinheiro. Você e eu, nós temos duas opções: tem um campo com aliados que ainda confiam nos Federais no Shopping, e tem o Sinclair e seus soldados idiotas com armas, em algum lugar na Habitação. Duvido que alguém sobreviva uma semana.","Gravação de áudio","Normal",
+"12.mkv","21:17","Medio.",,"A1_M1402_RIP_6245","Acesso de manutenção fechado.","Dialogo","Sussurro",
+"12.mkv","21:21","Medio.",,"A1_M1402_WAI_4836","Afirmativo, Ripley.","Walk Talk","Normal",
+"12.mkv","21:22","Medio.",,"A1_M1402_RIP_6084","Armazém de suprimentos fechado.","Dialogo","Sussurro",
+"12.mkv","21:30","Medio.",,"A1_M1402_WAI_3581","Certo.","Walk Talk","Normal",
+"12.mkv","21:30","Medio.",,"A1_M1402_WAI_6994","Você já está conectado.","Walk Talk","Normal",
+"12.mkv","22:54","Medio.",,"A1_M1402_RIC_2952","Ripley, tem um comando manual que te permite iniciar o bloqueio de emergência. Tá no terminal atrás da mesa da recepção.","Walk Talk","Normal",
+"12.mkv","23:56","Medio.",,"AI_UI_RAN_4885","Hughes, é o Ransome. Acabei de receber sua dúvida. Sim, eu estive no nosso arquivo do retransmissor e estou decodificando uma parte. Estou procurando antigos registros de tripulações que passaram por Sevastopol há algum tempo. Sei que você está preocupado, mas isso é passado. Só tem uma coisa que eu preciso saber: um pacote de transmissão de rotina da Companhia, enviado da borda de Thedus antes de uma nave iniciar seu retorno. Não é nada que vá violar alguma coisa. Ainda assim, ninguém mais precisa saber sobre isso, certo? Se você falar... bem, vai haver consequências. Quer dizer, tem muita coisa que a Marie não sabe, não é? Deixe os arquivos decodificando e me avise quando terminarem. Sejamos sensatos.","Gravação de áudio","Normal",
+"12.mkv","23:59","Medio.",,"A1_M1402_RIP_6752","Ricardo? A Recepção da Central de Servidores tá fechada.","Dialogo","Sussurro",
+"12.mkv","24:00","Medio.",,"A1_M1402_RIC_4963","Bom trabalho. Venha pelos servidores. Em silêncio.","Walk Talk","Normal",
+"12.mkv","24:01","Medio.",,"A1_M1402_RIC_4837","Configurei um bloqueio de emergência no terminal dentro dos servidores. Você precisa ativar de lá e depois sair. Vou manter a saída aberta até você passar, depois fecho a armadilha.","Walk Talk","Normal",
+"12.mkv","25:20","Medio.",,"A1_M1402_RIC_6564","É isso aí. Você conseguiu.","Walk Talk","Normal",
+"12.mkv","23:26","Medio.",,"A1_M1402_RIP_5982","A minha saída tá aberta, Ricardo?","Dialogo","Sussurro",
+"12.mkv","25:34","Medio.",,"A1_M1402_RIC_4180","Espere um minuto.","Walk Talk","Normal",
+"12.mkv","25:34","Medio.",,"A1_M1402_RIP_9120","Ricardo, a minha saída tá livre?","Dialogo","Sussurro",
+"12.mkv","25:35","Medio.",,"A1_M1402_RIC_4135","Deus. Tá fechada! Não funciona!","Walk Talk","Normal",
+"12.mkv","25:38","Medio.",,"A1_M1402_WAI_9268","O que acha que está fazendo, Ricardo? Conserte!","Walk Talk","Normal",
+"12.mkv","25:39","Baixo.",,"A1_M1402_RIP_9274","Oh, Deus...","Dialogo","Sussurro",
+"12.mkv","26:51","Medio.",,"A1_M1402_RIC_5230","Desculpa, Ripley. Tó dando um jeito!","Walk Talk","Normal",
+"12.mkv","26:57","Medio.",,"A1_M1402_RIP_5936","Ricardo? Alguma notícia?","Dialogo","Sussurro",
+"12.mkv","27:02","Medio.",,"A1_M1402_RIC_6119","Preciso de mais tempo.","Walk Talk","Normal",
+"12.mkv","27:13","Medio.",,"A1_M1402_RIP_5215","Não tenho mais tempo.","Dialogo","Sussurro",
+"12.mkv","30:10","Medio.",,"A1_M1402_RIC_6077","Certo! Certo! Consegui! Sai daí, Ripley, agora!","Walk Talk","Normal",
+"12.mkv","0:32","Medio.",,"A1_M1402_WAI_1901","Como você conseguiu abrir de novo, Ricardo?","Walk Talk","Normal",
+"12.mkv","2:55","Medio.",,"A1_M1402_RIC_8658","Tive que anular o alerta. Era o único jeito da Ripley sair.","Walk Talk","Normal",
+"12.mkv","2:56","Medio.",,"A1_M1402_WAI_6604","Você deixou ele sair? A gente tinha ele preso e você deixou sair?","Walk Talk","Normal",
+"12.mkv","2:57","Medio.",,"A1_M1402_WAI_7601","Ripley, ele ainda está atrás de você.","Walk Talk","Normal",
+"12.mkv","2:58","Medio.",,"A1_M1402_RIP_7059","Pra onde devo ir?","Dialogo","Sussurro",
+"12.mkv","2:59","Medio.",,"A1_M1402_WAI_2002","Pegue o elevador até os laboratórios Gemini. Se ele te seguir, ainda podemos prendê-lo lá.","Walk Talk","Normal",
+"12.mkv","3:05","Medio.",,"A1_M1402_WAI_9074","Ripley, Ricardo? Não podemos deixar a criatura escapar de novo, haja o que houver.","Walk Talk","Normal",
+"12.mkv","3:06","Medio.",,"A1_M1403_WAI_9595","Precisamos de energia em toda a instalação. Você vai precisar pegar um elevador de carga, mas desde que a Seegson cortou a verba da Gemini, ele está fora de uso.","Walk Talk","Normal",
+"13.mkv","3:07","Baixo.",,"A1_CV5_S_PO_B","Parece que você já sofreu muito.","Dialogo","Normal",
+"13.mkv","3:13","Baixo.",,"A1_CV5_S_PO_A","Que bom ver um rosto amigo.","Dialogo","Normal",
+"13.mkv","3:22","Medio.",,"A1_M1403_WAI_6956","Encontre o terminal de controle que deixaram para o zelador sintético. Está em um depósito logo em frente. E, pelo amor de Deus, faça isso em silêncio.","Walk Talk","Normal",
+"13.mkv","3:26","Medio.",,"A1_M1403_WAI_9832","A Seegson tem tentado vender todo o equipamento há anos, junto com Sevastopol. Ninguém nunca quis, mas isso significa que a segurança ainda está online.","Walk Talk","Normal",
+"13.mkv","3:32","Medio.",,"A1_M1403_RIP_1475","Certo. Chega de conversa, Waits.","Dialogo","Sussurro",
+"13.mkv","3:33","Medio.",,"A1_M1403_SGF_6233","Solicitação de teste de manutenção no setor C12 recebida e confirmada. Um zelador de serviço está a caminho.","Efeito sonoro","Normal",
+"13.mkv","3:35","Medio.",,"A1_M1403_AN2_1735","Essa instalação não está aberta para visitantes, a menos que façam parte do tour de vendas de Sevastopol.","Androide","Normal",
+"13.mkv","13:03","Baixo.",,"A1_M1403_RIP_7275","Onde acho os interruptores de energia, Waits?","Dialogo","Sussurro",
+"13.mkv","13:04","Medio.",,"A1_M1403_WAI_2262","Tem um nos Laboratórios de Análise. O outro está na Sala de Descontaminação.","Walk Talk","Normal",
+"13.mkv","13:13","Baixo.",,"A1_M1403_RIP_5042","Um já foi.","Dialogo","Sussurro",
+"13.mkv","13:19","Medio.",,"A1_M1403_WAI_9404","O próximo está nos Laboratórios de Análise, Ripley.","Walk Talk","Normal",
+"14.mkv","13:22","Medio.",,"A1_M1403_WAI_1110","É isso aí. O elevador está online, Ripley.","Walk Talk","Normal",
+"14.mkv","16:30","Baixo.",,"A1_M1403_RIP_2454","Certo.","Dialogo","Sussurro",
+"14.mkv","17:48","Medio.",,"A1_M1403_WAI_1173","Você está indo para um lugar chamado Projeto KG348. Me avise quando chegar lá.","Walk Talk","Normal",
+"14.mkv","21:47","Medio.",,"A1_M1404_RIP_7106","Waits, consegui.","Dialogo","Sussurro",
+"14.mkv","21:49","Medio.",,"A1_M1404_WAI_9190","Ele ainda está atrás de você?","Walk Talk","Normal",
+"14.mkv","22:55","Baixo.",,"A1_M1404_RIP_1010","Acho que sim.","Dialogo","Sussurro",
+"14.mkv","23:40","Medio.",,"A1_M1404_WAI_6175","Eu tenho um plano. Vá para os laboratórios.","Walk Talk","Normal",
+"14.mkv","27:01","Medio.",,"A1_SS1_S_POI_B","Ei.","Dialogo","Normal",
+"14.mkv","27:11","Medio.",,"A1_SS1_S_POI_A","Você tá bem? Parece cansada.","Dialogo","Normal",
+"14.mkv","2:23","Medio.",,"AI_UI_RAN_7676","Aqui é Ransome, executivo da Seegson. Estou enviando algumas amostras para investigação. Quero o menor número de funcionários envolvidos nisso. Mantenha segredo e se reporte apenas a mim. Se isso vazar, vou me certificar de que sua carreira morra com Sevastopol. Existem muitas inconsistências nos livros da Gemini. Faça um bom trabalho e me lembrarei de você. Seja lá o que estiver desviando, vai parecer trocado. Seja inteligente.","Gravação de áudio","Normal",
+"14.mkv","2:25","Medio.",,"A1_M1404_RIP_3443","Waits, cheguei.","Dialogo","Sussurro",
+"14.mkv","6:50","Medio.",,"A1_M1404_WAI_2888","O laboratório pode ser separado da estação principal. Reative o lugar e os sistemas poderão ser reconectados.","Walk Talk","Normal",
+"15.mkv","12:52","Medio.",,"A1_M1404_WAI_7133","É isso! Posso ver um aumento de energia! Agora, reconecte os sistemas do laboratório com Sevastopol do console do laboratório central. Contamos com você, Ripley.","Walk Talk","Normal",
+"15.mkv","13:19","Medio.","Deixar no mesmo tom do A1_M1404_SGF_2271","A1_M1404_SGF_6441","Vazamento de material perigoso detectado.","Efeito sonoro","Normal",
+"15.mkv","13:24","Medio.",,"A1_M1404_WAI_5722","Sinto muito, Ripley.","Walk Talk","Normal",
+"15.mkv","13:29","Baixo.",,"A1_M1404_RIP_9272","Não! Não!","Dialogo","Normal",
+"15.mkv","13:30","Baixo.",,"A1_M1404_RIP_1839","Não faça isso comigo!","Dialogo","Normal",
+"15.mkv","13:34","Medio.",,"A1_M1404_SGF_5931","Aguarde para os backups de gravidade","Efeito sonoro","Normal",
+"15.mkv","13:44","Baixo.",,"A1_M1404_RIP_9295","Waits, seu filho da puta...","Dialogo","Sussurro",
+"15.mkv","13:49","Baixo.",,"A1_M1404_RIP_3041","Saco.","Fala instrospectiva","Sussurro",
+"15.mkv","13:57","Medio.",,"A1_M1601_SGM_9516","A sequência de separação da estação foi concluída. Obrigado pela sua paciência.","Efeito sonoro","Normal",
+"15.mkv","14:06","Medio.",,"A1_M1601_RIC_5951","Ripley? Ripley, é o Ricardo. Você conseguiu?","Walk Talk","Normal",
+"15.mkv","14:10","Medio.",,"A1_M1601_RIP_4290","Não graças a Waits.","Dialogo","Normal",
+"15.mkv","14:19","Medio.",,"A1_M1601_RIC_9297","Ele é um filho da puta cruel. Sempre foi. E teimoso. Se tivesse me ouvido, as coisas não teriam chegado a esse ponto.","Walk Talk","Normal",
+"15.mkv","14:27","Medio.",,"A1_M1601_RIP_9393","Agora já era.","Dialogo","Normal",
+"15.mkv","14:27","Medio.",,"A1_M1601_RIC_9203","Desculpa por estragar o bloqueio naquela hora.","Walk Talk","Normal",
+"15.mkv","14:29","Medio.",,"A1_M1601_RIP_7095","Esquece. Você me tirou de lá. Vejo você na Agência.","Dialogo","Normal",
+"15.mkv","14:29","Medio.",,"A1_M1602_RIC_7704","Rip, sinto acabar com a sua alegria. Tem alguma coisa errada com os androides.","Walk Talk","Normal",
+"15.mkv","14:30","Medio.",,"A1_M1602_RIP_6128","Tem algo errado com os malditos androides desde que eu cheguei aqui.","Dialogo","Normal",
+"15.mkv","14:35","Medio.",,"A1_M1602_RIC_4991","Não, isso é novo. Eles saíram dos seus postos. Vi alguns deles em uma área pública. Isso não é normal.","Walk Talk","Normal",
+"15.mkv","14:38","Baixo.",,"A1_M1602_RIP_5186","Ótimo.","Dialogo","Normal",
+"15.mkv","14:50","Medio.",,"A1_M1602_RIC_7596","Tenha cuidado.","Walk Talk","Normal",
+"15.mkv","-","Medio.",,"AI_UI_JUL_2629","(Limpa a garganta)Eu.. Eu não sei quando alguém receberá isso, mas alguém precisa registrar e eu não sei... (limpa a garganta de novo). Eu cheguei aqui há alguns meses pra escrever sobre o colapso de um sonho, um futuro arruinado. Pra mim, as pessoas daqui eram pouco mais que notas de rodapé para o meu artigo, algo pra manipular emoções. (com sarcasmo) E quando começaram os desaparecimentos, oh, eu fiquei entusiasmada. Isso era algo grande. Mas agora, as pessoas estão com medo e um defeito nas comunicações nos deixou sozinhos. Eu estou presa aqui, como todos os outros. Mais uma nota de rodapé. Mais uma vítima.","Gravação de áudio","Normal",
+"15.mkv","14:55","Baixo.",,"A1_M1602_RIP_7561","Waits? É a Ripley. O que está acontecendo com os androides?","Dialogo","Sussurro",
+"15.mkv","-","Medio.",,"A1_M1602_WAI_5809","Não sei.","Walk Talk","Normal",
+"15.mkv","-","Baixo.",,"A1_M1602_RIP_7070","E a mudança do status do alerta?","Dialogo","Sussurro",
+"15.mkv","-","Medio.",,"A1_M1602_WAI_7965","Droga, eu não sei! Estou tentando entrar em contato com Samuels. Talvez ele saiba o que o APOLLO está fazendo.","Walk Talk","Normal",
+"15.mkv","-","Baixo.",,"A1_M1602_RIP_6271","Waits. Pelo amor de Deus. O APOLLO liberou os androides. Eles atacam quem estiver na frente.","Dialogo","Sussurro",
+"15.mkv","-","Medio.",,"A1_M1602_WAI_4178","Eu não sei o que é isso. Eles não estão respondendo às violações de invasão. Parece que estão... caçando.","Walk Talk","Normal",
+"15.mkv","-","Baixo.",,"A1_M1602_RIP_7033","Caçando quem?","Dialogo","Sussurro",
+"15.mkv","-","Baixo.",,"A1_M1602_RIP_5802","Caçando quem?","Dialogo","Sussurro",
+"15.mkv","-","Medio.",,"A1_M1602_WAI_5430","Tudo e todos.","Walk Talk","Normal",
+"15.mkv","-","Baixo.",,"A1_M1602_RIP_9038","O que está dizendo?","Dialogo","Sussurro",
+"15.mkv","-","Medio.",,"A1_M1602_WAI_5751","Espere.","Walk Talk","Normal",
+"15.mkv","-","Baixo.",,"A1_M1602_RIP_8184","Waits? Tem umas portas corrediças na minha frente. Você pode abrí-las? Waits?","Dialogo","Sussurro",
+"15.mkv","-","Medio.",,"A1_M1602_WAI_4605","Seus cornos! Seus cornos assassinos! Deixem eles em paz! Recuem!","Walk Talk","Normal",
+"15.mkv","-","Medio.",,"A1_M1602_WAI_7419","seus desgraçados... (mais barulhos horríveis e um grito terrível e transtornado dele ao morrer)","Walk Talk","Normal",
+"15.mkv","-","Baixo.",,"A1_M1602_RIP_5873","Waits? Waits?","Dialogo","Sussurro",
+"15.mkv","-","Medio.",,"AI_UI_HEY_5831","Meeks, estou deixando isso pra quando acordar. Eu sei que você ainda está meio assim depois que aquela coisa saiu da Foster, mas você tem que parar de estragar as coisas. Você passou da conta na bebedeira e contou mais do que deveria para as pessoas que estão dormindo no Shopping. Eu arrastei você pra longe quando vi o olhar deles. Não podemos mais voltar lá. Ninguém pode saber que temos conexões com Marlow e a Anesidora. Eu volto depois que você ficar sóbrio.","Gravação de áudio","Normal",
+"16.mkv","-","Medio.",,"AI_UI_WIN_1256","Fiquei acampada no shopping Galleria por umas vinte e quatro horas. As pessoas aqui estão assustadas, mas ainda acreditam que o Delegado Waits vai matar a criatura. Eles se esquecem de outros perigos. Eles se esquecem de si mesmos. As pessoas se viram uma contra as outras por comida, água. Não posso ficar aqui.","Gravação de áudio","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIC_2442","Rip. Rip, estão todos mortos.","Dialogo","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIP_5490","Os androides os massacraram.","Dialogo","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIC_4430","Por quê? Por que porra...","Dialogo","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIP_7548","Eu não sei. Mas acho que Samuels sabe.","Dialogo","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIC_6817","Samuels? Por quê?","Dialogo","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIP_2826","Waits mandou ele acessar o APOLLO. Preciso encontrá-lo.","Dialogo","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIP_7620","Você viu Taylor ou Marlow?","Dialogo","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIC_1289","N-não.. Não","Dialogo","Normal",
+"16.mkv","-","Medio.",,"A1_M1602_RIP_2489","Eles não tão aqui. Acho que podem ter escapado. Ricardo? Ricardo!","Dialogo","Normal",
+"16.mkv","15:21","Medio.",,"A1_M1602_RIP_5148","Se eu for atrás do Samuels, você pode cuidar desse lugar? Preciso de olhos e ouvidos.","Dialogo","Normal",
+"16.mkv","15:28","Medio.",,"A1_M1602_RIC_3745","Eu não vou ficar aqui nem ferrando.","Dialogo","Normal",
+"16.mkv","15:30","Medio.",,"A1_M1602_RIP_9669","Ricardo, preciso que faça isso. Você pode operar a estação e me manter informada?\n(pausa)\nRicardo?","Dialogo","Normal",
+"16.mkv","15:35","Medio.",,"A1_M1602_RIC_6440","Sim, claro. Com certeza.","Dialogo","Normal",
+"16.mkv","15:37","Medio.",,"A1_M1602_RIP_3442","Aguenta firme. Feche as portas e não deixe ninguém entrar. Cuide de mim. Vou voltar pra te buscar.","Dialogo","Normal",
+"16.mkv","15:42","Medio.",,"A1_M2101_RIP_6978","Claro.","Dialogo","Normal",
+"16.mkv","0.5444444444444444","Medio.",,"A1_M2101_RIC_5838","Vejo atividade nos terminais dos níveis superiores dos Sintéticos Seegson. (pausa) Rip, eu não sei se consigo fazer isso.","Dialogo","Normal",
+"16.mkv","0.55069444444444449","Medio.",,"A1_M2101_RIP_3471","Ricardo, preciso que se concentre. Você está no comando, agora.","Dialogo","Normal",
+"16.mkv","0.55486111111111114","Medio.",,"A1_M2101_RIC_7918","No comando? No comando de quê? De uma sala cheia de cadáveres? Tá tudo ferrado.","Dialogo","Normal",
+"16.mkv","0.55694444444444446","Medio.",,"A1_M2101_RIP_1978","Foco, Ricardo! Se o Samuels conseguir falar com o APOLLO, ele pode parar os androides. E tudo isso acaba.","Dialogo","Normal",
+"16.mkv","0.6875","Medio.",,"AI_UI_PAR_0010","Ripley me pediu pra registrar um relatório sobre o que aconteceu com o cabo umbilical quando nós conectamos com a refinaria. Vou dizer o que aconteceu: eu e Brett,  estamos segurando este lugar com as próprias mãos. Você imaginaria que milhões de toneladas de minérios fossem o bastante para trazer alguém do convés superior, alguém que vai receber uma participação, aqui com a gente. Apenas para conferir o que precisamos. Você quer sair do sistema dentro do prazo da próxima vez? Coloque a Nostromo em doca seca por um mês, espere até que a gente termine o serviço e pague o que nos é devido. Parker desligando.","Gravação de áudio","Normal",
+"16.mkv","0.7416666666666667","Medio.",,"A1_M2101_RIP_3801","Então, como eu subo?","Dialogo","Normal",
+"16.mkv","0.90763888888888899","Medio.",,"A1_M2102_RIP_3161","Ricardo?","Dialogo","Sussurro",
+"16.mkv","0.90902777777777777","Medio.",,"A1_M2102_RIP_0955","Tó aqui. Parece o lugar onde os sintéticos vão para morrer.","Dialogo","Sussurro",
+"16.mkv","0.95486111111111116","Medio.",,"A1_M2102_RIP_0030","A porta aqui tá destruída. Não consigo chegar perto.","Fala instrospectiva","Sussurro",
+"16.mkv","0.98611111111111116","Medio.",,"AI_UI_RAN_7496","Aqui é o Executivo da Seegson Ransome falando. Eu acordei e encontrei um trabalhador sintético na minha suíte. Quando perguntei que diabos estava fazendo, ele avançou. Tive que sair do meu próprio apartamento! Mande seus melhores técnicos para o Núcleo do APOLLO e descubra que diabos está acontecendo agora! Quero essas coisas sob controle e quero um relatório completo o mais rápido possível.","Gravação de áudio","Normal",
+"16.mkv","1.1256944444444443","Medio.",,"A1_M2102_SAM_0965","Eu preciso ter acesso ao APOLLO. Abra o transporte da torre imediatamente.","Dialogo","Normal",
+"16.mkv","1.132638888888889","Medio.",,"A1_M2102_SAM_0080","Não tenho tempo para isso.","Dialogo","Normal",
+"17.mkv","9.930555555555555E-2","Baixo.",,"A1_M2102_RIP_1846","Com defeito. Ótimo.","Fala instrospectiva","Normal",
+"17.mkv","0.10069444444444443","Baixo.",,"A1_M2102_RIP_3092","Nada. Só mais tranqueiras ferrando tudo nessa estação. Nada anormal.","Dialogo","Normal",
+"17.mkv","0.28472222222222221","Medio.",,"AI_UI_SPE_2855","Aqui é Spedding no Processamento de Androides. Temos uma situação, há vítimas de violência entre androides e humanos na estação. Um androide deu entrada no CTPA com trauma na cabeça, mas ele está coberto de sangue. Sangue humano. Eu alertei os Federais, coloquei a minha secretária em um lugar seguro e agora estou indo para o transporte. Vou pedir para um androide trabalhador consultar o APOLLO. Talvez ele saiba de quem é a culpa disto.","Gravação de áudio","Normal",
+"17.mkv","0.53611111111111109","Medio.",,"A1_M2102_RIP_7330","Samuels! Não faça isso!","Dialogo","Normal",
+"17.mkv","0.55486111111111114","Medio.",,"A1_M2102_SAM_7237","APOLLO, a infecção foi contida. A criatura não está mais a bordo. A estação está segura. Solicito que todas as operações de Contenção de Risco sejam suspensas.","Dialogo","Normal",
+"17.mkv","0.55833333333333335","Medio.",,"A1_M2102_SGM_9224","Alerta: Conexão não autorizada.","Efeito sonoro","Normal",
+"17.mkv","0.56180555555555556","Medio.",,"A1_M2102_SAM_5322","Ripley, o APOLLO está me rejeitando. Acho que temos problemas.","Dialogo","Normal",
+"17.mkv","0.5625","Medio.",,"A1_M2102_RIP_2115","Samuels?","Dialogo","Normal",
+"17.mkv","0.56527777777777777","Medio.",,"A1_M2102_SAM_5714","O APOLLO está tentando impedir a minha interação! [pausa] Oh, não, Amanda! Você precisa desconectar os sistemas manualmente! Por favor!","Dialogo","Normal",
+"17.mkv","0.57222222222222219","Medio.",,"A1_M2102_RIP_2661","Jesus! Samuels! Eu vou tentar!","Dialogo","Normal",
+"17.mkv","0.5756944444444444","Medio.",,"A1_M2102_SAM_4902","ESPERE! Você precisa fazer isso na ordem correta ou o efeito cascata será fatal para mim. Estou acessando os diagramas da Seegson. (pausa curta) Primeiro, remova o cabo vermelho.","Dialogo","Normal",
+"17.mkv","0.58124999999999993","Medio.",,"A1_M2102_RIP_1003","Certo – o vermelho primeiro.","Dialogo","Normal",
+"17.mkv","0.58750000000000002","Medio.",,"A1_M2102_RIP_2315","Vermelho ok.","Dialogo","Normal",
+"17.mkv","0.59027777777777779","Medio.",,"A1_M2102_SAM_4098","Agora, procure um cabo azul. Consegue ver?","Dialogo","Normal",
+"17.mkv","0.59652777777777777","Medio.",,"A1_M2102_RIP_9211","Achei. Azul desconectado. E agora?","Dialogo","Normal",
+"17.mkv","0.6020833333333333","Medio.",,"A1_M2102_SAM_2721","Estou com problemas para acessar os diagramas. O APOLLO está dificultando as coisas.","Dialogo","Normal",
+"17.mkv","0.6020833333333333","Medio.",,"A1_M2102_RIP_7616","Preciso do próximo, Samuels!","Dialogo","Normal",
+"17.mkv","0.60347222222222219","Medio.",,"A1_M2102_RIP_4790","O quê?","Fala instrospectiva","Normal",
+"17.mkv","0.60347222222222219","Medio.",,"A1_M2102_SAM_7010","O que está acontecendo aí, Ripley?","Dialogo","Normal",
+"17.mkv","0.60416666666666663","Medio.",,"A1_M2102_RIP_3992","Acenderam as luzes de emergência! Não dá pra saber a cor dos cabos. Você vai ter que me guiar até eles!","Dialogo","Normal",
+"17.mkv","0.60763888888888895","Medio.",,"A1_M2102_RIP_8097","Achei!","Dialogo","Normal",
+"17.mkv","0.60972222222222217","Medio.",,"A1_M2102_SAM_9019","O próximo está ligado a uma tomada da parede. Tinha uma maca de cabeça para baixo perto dele.","Dialogo","Normal",
+"17.mkv","0.61805555555555558","Medio.",,"A1_M2102_RIP_9528","Achei, Samuels.","Dialogo","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SAM_6659","Só mais dois, Ripley. Procure um painel de chão aberto. Deve ter um androide desativado do lado dele.","Dialogo","Normal",
+"17.mkv","0.62152777777777779","Medio.",,"A1_M2102_SAM_8271","Só falta o último agora, Ripley.","Dialogo","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_7896","Alerta: Iniciando conexão com APOLLO","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_9224","Alerta: Conexão não autorizada.","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_8096","Pessoal humano: saiam. Isto não é um treino.
+25% da capacidade de sistema
+50% da capacidade de sistema
+Energia local além dos parâmetros de segurança.
+75% da capacidade de sistema
+Pessoal humano: saiam. Isto não é um treino.
+100% da capacidade de sistema
+Pessoal humano: saiam. Isto não é um treino.
+110% da capacidade de sistema","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_2439","25% da capacidade de sistema","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_9584","50% da capacidade de sistema","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_5205","75% da capacidade de sistema","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_7116","100% da capacidade de sistema","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_5250","110% da capacidade de sistema. Excesso de energia.","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_2555","Cinco minutos para a sobrecarga de energia","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_8902","Quatro minutos para a sobrecarga de energia","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_6356","Três minutos para a sobrecarga de energia","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_3858","Dois minutos e trinta segundos para a sobrecarga de energia.","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_3894","Dois minutos para a sobrecarga de energia","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_8010","Um minuto e trinta segundos para a sobrecarga de energia.","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_7176","Trinta segundos para a sobrecarga de energia","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_1577","Dez","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_8368","Nove","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_3953","Oito","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_2509","Sete","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_5341","Seis","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_3036","Cinco","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_4315","Quatro","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_5573","Três","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_3946","Dois","Efeito sonoro","Normal",
+"17.mkv","-","Medio.",,"A1_M2102_SGM_4078","Um","Efeito sonoro","Normal",
+"17.mkv","0.63958333333333328","Medio.",,"A1_M2102_RIP_3826","Samuels. Você tá morrendo.","Dialogo","Normal",
+"17.mkv","0.64444444444444449","Medio.",,"A1_M2102_SAM_8508","Você fala como se eu tivesse uma vida de verdade. Eu... te agradeço por isso.","Dialogo","Normal",
+"17.mkv","0.64583333333333337","Baixo.",,"A1_M2102_RIP_9486","Samuels.","Dialogo","Normal",
+"17.mkv","0.64930555555555558","Medio.",,"A1_M2102_SAM_5661","O transporte do APOLLO está aberto. Assim que chegar ao núcleo, ele vai falar com você.","Dialogo","Normal",
+"17.mkv","0.65069444444444446","Baixo.",,"A1_M2102_RIP_6020","Você fez isso por mim?","Dialogo","Normal",
+"17.mkv","0.65416666666666667","Medio.",,"A1_M2102_SAM_2225","Eu queria que a Amanda Ripley tivesse as respostas...","Dialogo","Normal",
