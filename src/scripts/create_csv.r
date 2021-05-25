@@ -12,13 +12,13 @@ legend_changes <- readxl::read_xlsx(path = "Legenda.xlsx", col_types = c("text")
 
 
 # Convert Excel (.xlsx) files to .csv
-setwd(here())
+setwd(here::here())
 
-fwrite(x = audio_changes,
-       file = "../../../Documents/GitHub Repositories/mod-alien-isolation/src/audio_changes.csv",
-       sep = ",",
-       quote = TRUE)
-fwrite(x = legend_changes,
-       file = "../../../Documents/GitHub Repositories/mod-alien-isolation/src/legend_changes.csv",
-       sep = ",",
-       quote = TRUE)
+data.table::fwrite(x = audio_changes,
+                   file = "../../../Documents/GitHub Repositories/mod-alien-isolation/src/audio_changes.csv",
+                   sep = ",",
+                   quote = TRUE)
+data.table::fwrite(x = legend_changes,
+                   file = "../../../Documents/GitHub Repositories/mod-alien-isolation/src/legend_changes.csv",
+                   sep = ",",
+                   quote = TRUE)
