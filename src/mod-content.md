@@ -1,7 +1,4 @@
-# TO-DO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="misc/home.png" alt="Back to home" width="25" height="25" style="vertical-align:center"/>](README.md)
-
-
-# Audio
+## Audio
 
 ### Normalização
 - [ ] Normalizar o volume de alguns diálogos e efeitos sonoros
@@ -17,7 +14,7 @@
 
 
 
-# Legenda
+## Legenda
 
 ### Gramática
 - [ ] Corrigir erro de gramática em algumas legendas
@@ -29,7 +26,7 @@
 
 
 
-# Textura
+## Textura
 
 ### Edição
 - [ ] Editar as 50 ID Tags encontradas ao decorrer do jogo, transformando a imagem pixelada em imagem realista
