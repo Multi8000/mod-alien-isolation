@@ -1,4 +1,4 @@
-###### To return to homepage [click here](./).
+###### To return to homepage [click here](https://github.com/Multi8000/mod-alien-isolation).
 
 ## Motivation :thought_balloon:
 
