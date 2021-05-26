@@ -17,6 +17,6 @@ Este mod visa corrigir estes problemas para tornar a experiência do jogador ain
 
 * [Luigi Auriemma](https://twitter.com/luigi_auriemma) por [QuickBMS](http://aluigi.altervista.org/quickbms.htm).
 
-* [CTPAX-X]() por [bnkextr](http://www.ctpax-x.org).
+* [CTPAX-X](http://www.ctpax-x.org) por [bnkextr](https://github.com/eXpl0it3r/bnkextr/releases).
 
 * [Adam Gashlin (hcs64)](https://github.com/hcs64) por [ww2ogg](https://github.com/hcs64/ww2ogg).

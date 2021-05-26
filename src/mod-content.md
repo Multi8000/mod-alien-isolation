@@ -1,14 +1,14 @@
 ## Audio
 
-### Normalização
+#### Normalização
 - [ ] Normalizar o volume de alguns diálogos e efeitos sonoros
     - [ ] ...
 
-### Sincronização
+#### Sincronização
 - [ ] Sincronizar alguns diálogos e efeitos sonoros
     - [ ] ...
 
-### Dublagem
+#### Dublagem
 - [ ] Dublar o NPC Robo Toy
     - [ ] ...
 
@@ -16,11 +16,11 @@
 
 ## Legenda
 
-### Gramática
+#### Gramática
 - [ ] Corrigir erro de gramática em algumas legendas
     - [ ] ...
 
-### Entonação
+#### Entonação
 - [ ] Dar ênfase na entonação de algumas frases, adicionando mais emoção às legendas
     - [ ] ...
 
@@ -28,6 +28,6 @@
 
 ## Textura
 
-### Edição
+#### Edição
 - [ ] Editar as 50 ID Tags encontradas ao decorrer do jogo, transformando a imagem pixelada em imagem realista
     - [ ] ...
