@@ -4,11 +4,15 @@ install.packages("readxl")
 require("here")
 require("data.table")
 require("readxl")
-
+                                                                                                 -5L))
 
 # Read Excel (.xlsx) files
-audio_changes <- readxl::read_xlsx(path = "Audio.xlsx", col_types = c("text"))
-legend_changes <- readxl::read_xlsx(path = "Legenda.xlsx", col_types = c("text"))
+audio_changes <- readxl::read_xlsx(path = "Audio.xlsx",
+                                   col_names = TRUE,
+                                   col_types = c("text"))
+legend_changes <- readxl::read_xlsx(path = "Legenda.xlsx",
+                                    col_names = TRUE,
+                                    col_types = c("text"))
 
 
 # Convert Excel (.xlsx) files to .csv
