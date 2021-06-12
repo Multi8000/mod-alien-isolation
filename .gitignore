@@ -5,6 +5,9 @@
 # Tools: QuickBMS, FFmpeg, RavioliGameTools
 src/tools
 
+# Temp folder
+src/temp
+
 # Environments
 .env
 .venv
