@@ -1,22 +1,22 @@
-###### For read in English [click here](README.en-US.md).
+###### Para ler em pt-BR [clique aqui](README.pt-BR.md).
 
-## Motivação :thought_balloon:
+## Motivation :thought_balloon:
 
-Joguei Alien: Isolation pela primeira em 2020 e foi uma experiência bastante agradável. É um jogo bastante tenso e imersivo, mas tem seus problemas, principalmente na dublagem e tradução para Português.
+I played Alien: Isolation for the first time in 2020 and it was a very pleasant experience. It is a very tense and immersive game, but it has its problems, mainly in the dubbing and translation into Portuguese.
 
-Este mod visa corrigir estes problemas para tornar a experiência do jogador ainda mais imersiva. Foi corrigido a variação drástica do volume dos diálogos, o que na minha opinião era o pior defeito da versão Português do jogo. **Para conferir com detalhes todo o conteúdo aprimorado pelo mod [clique aqui](./src/mod-content.md)**.
+This mod aims to correct these problems to make the player's experience even more immersive. The drastic variation in the volume of the dialogs has been fixed, which in my opinion was the worst defect in the Portuguese version of the game. **To check in detail all the content enhanced by the mod [click here](./src/mod-content.md)**.
 
 
-## Agradecimentos :v::call_me_hand::metal:
+## Shout outs :v::call_me_hand::metal:
 
-* [MattFiller](https://github.com/MattFiler) por [soundbank.json](https://raw.githubusercontent.com/MattFiler/Alien-Isolation-Audio-Extractor/master/AlienIsolationAudioParser/Resources/soundbank.json) que contém uma lista de todos os diálogos do jogo e seus respectivos identificadores.
+* [MattFiller](https://github.com/MattFiler) for [soundbank.json](https://raw.githubusercontent.com/MattFiler/Alien-Isolation-Audio-Extractor/master/AlienIsolationAudioParser/Resources/soundbank.json) which contains a list of all dialogues in the game and their respective identifiers.
 
-* [Yog-Sothoth88](https://forums.cdprojektred.com/index.php?members/yog-sothoth88.2086617) por [compare_wem.py](https://forums.cdprojektred.com/index.php?threads/tool-sound-editing-tools-for-the-witcher-3.121192/).
+* [Yog-Sothoth88](https://forums.cdprojektred.com/index.php?members/yog-sothoth88.2086617) for [compare_wem.py](https://forums.cdprojektred.com/index.php?threads/tool-sound-editing-tools-for-the-witcher-3.121192/).
 
-* [Joaquín Cuitiño (Vextil)](https://github.com/Vextil) por [Wwise-Unpacker](https://github.com/Vextil/Wwise-Unpacker).
+* [Joaquín Cuitiño (Vextil)](https://github.com/Vextil) for [Wwise-Unpacker](https://github.com/Vextil/Wwise-Unpacker).
 
-* [Luigi Auriemma](https://twitter.com/luigi_auriemma) por [QuickBMS](http://aluigi.altervista.org/quickbms.htm).
+* [Luigi Auriemma](https://twitter.com/luigi_auriemma) for [QuickBMS](http://aluigi.altervista.org/quickbms.htm).
 
-* [CTPAX-X](http://www.ctpax-x.org) por [bnkextr](https://github.com/eXpl0it3r/bnkextr/releases).
+* [CTPAX-X](http://www.ctpax-x.org) for [bnkextr](https://github.com/eXpl0it3r/bnkextr/releases).
 
-* [Adam Gashlin (hcs64)](https://github.com/hcs64) por [ww2ogg](https://github.com/hcs64/ww2ogg).
+* [Adam Gashlin (hcs64)](https://github.com/hcs64) for [ww2ogg](https://github.com/hcs64/ww2ogg).
