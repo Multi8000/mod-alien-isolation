@@ -8,6 +8,9 @@ src/tools
 # Temp folder
 src/temp
 
+# Random scripts
+src/utils/__csv__.py
+
 # Environments
 .env
 .venv
