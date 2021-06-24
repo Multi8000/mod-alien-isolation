@@ -1,4 +1,4 @@
-audio_filename,type,voice_tone,perception_loudness,desired_lufs,audio_legend,obs
+audio_name,type,voice_tone,perception_loudness,desired_lufs,audio_legend,obs
 A1_M0101_SAM_2554,Dialogo,Normal,Medio.,,"Ah, Ripley.",
 A1_M0101_RIP_6891,Dialogo,Normal,Medio.,,Parece que chegou a hora.,
 A1_M0401_RIP_0006,Fala instrospectiva,Normal,Baixo.,,Droga.,
