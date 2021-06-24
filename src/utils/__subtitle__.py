@@ -9,25 +9,31 @@ import re
 
 from __utils__ import replace_word
 
-def remove_legend(legend_code):
-    files = list()
+
+def remove_legend(audio_name):
+    # Example: audio_name = [A1_M0401_RIP_8660]
+    string = '\[' + audio_name + '\]'
+
+    regex_expression = rf"(?<={string})[\n]+([^\n]+)"
 
     for file in Path('src/content/legend').glob('*.TXT'):
 
         # Read file
-        with open(f'{file}', 'r', encoding = 'utf-16') as f:
-            if legend_code in f.read():
-                files.append(file)
+        with open(f'{file}', 'r') as f:
+            filedata = f.read()
 
-    return files
+            # If the readed file have the `audio_name`
+            # then apply the regex replace and rewrite file
+            if audio_name in filedata:
+                filedata = re.sub(pattern = regex_expression,
+                                  repl = '\n{}',
+                                  string = filedata)
 
-with open(f'src/content/legend/CUTSCENES.TXT', 'r', encoding = 'utf-16') as f:
-    string = '\[A1_CUTSCENES_SAM_C0100_0004\]'
-    exp = rf"{string}[\r\n]+([^\r\n]+)"
-    print(exp)
+                with open(f'{file}', 'w') as f:
+                    f.write(filedata)
 
-    filedata = f.read()
-    #print(filedata)
-
-    print(re.search(exp, filedata).group())
-
+#dataframe = pandas.read_csv('src/legend_changes.csv', sep = ',')
+#dataframe = dataframe.query("modified_text == '*remover*'")
+#audio_name_list = dataframe['audio_name'].tolist()
+#for audio_name in audio_name_list:
+#    remove_legend(legend_code = audio_name)
