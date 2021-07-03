@@ -1,14 +1,761 @@
 audio_name,legend_filename,original_text,modified_text
-AI_UI_SIN_0040,UI.TXT,"Aqui é Sinclair. Vocês demoraram demais aí, tive que desligar a energia desta instalação e pegar o último transporte. Não podemos manter o santuário aberto. Basta uma criatura entrar e todos os suprimentos e armas que pegamos não vão servir para nada. Eu e o meu grupo vamos ficar de fora até chegar o resgate. Sinto muito, mas quando começa a ir atrás de uma nave que nunca vai chegar, você saiu do plano. Sinclair desligando.","Aqui é Sinclair. Vocês demoraram demais ai, tive que desligar a energia desta instalação e pegar o último transporte. Não podemos manter o santuário aberto. Basta uma criatura entrar e todos os suprimentos e armas que pegamos não vão servir pra nada. Eu e o meu grupo vamos ficar de fora até chegar o resgate. Sinto muito, mas quando começa a ir atrás de uma nave que nunca vai chegar, você saiu do plano. Sinclair desligando."
-A1_CUTSCENES_WAI_1371,CUTSCENES.TXT,"(Ruído)...Waits, Deputado Federal Colonial...(ruído)...Estação de Sevastopol... (ruído)... Situação complicada...(ruído)","...Waits, Delegado Federal Colonial...(ruído)...Estação de Sevastopol... (ruído)... Situação complicada...(ruído)"
-A1_CUTSCENES_VER_C0800_0023,CUTSCENES.TXT,"Alô? Delegado? D-delegado, aqui é a Torrens. Pode repetir.","Alô? Delegado? D-delegado, aqui é a Torrens. Pode repetir?"
-A1_CUTSCENES_WAI_1372,CUTSCENES.TXT,...,...Peça ajuda... Torrens... Estamos tentando controlar...
-A1_M0401_RIP_8660,M0401.TXT,(grito de alarme e desânimo),*remover*
-A1_M0401_RIP_8660_ALT,M0401.TXT,(grito de alarme e desânimo),*remover*
+AI_UI_SIN_0040,UI.TXT,"Aqui é Sinclair. Vocês demoraram demais aí, tive que desligar a energia desta instalação e pegar o último transporte. Não podemos manter o santuário aberto. Basta uma criatura entrar e todos os suprimentos e armas que pegamos não vão servir pra nada. Eu e o meu grupo vamos ficar de fora até chegar o resgate. Sinto muito, mas quando começa a ir atrás de uma nave que nunca vai chegar, você saiu do plano. Sinclair desligando.","Aqui é Sinclair. Vocês demoraram demais ai, tive que desligar a energia desta instalação e pegar o último transporte. Não podemos manter o santuário aberto. Basta uma criatura entrar e todos os suprimentos e armas que pegamos não vão servir pra nada. Eu e o meu grupo vamos ficar de fora até chegar o resgate. Sinto muito, mas quando começa a ir atrás de uma nave que nunca vai chegar, você saiu do plano. Sinclair desligando."
+AI_UI_ELEC_JUNCTION_Turn_KB,UI.TXT,Pressione #move_left#,Pressione #move_right#
+A1_CUTSCENES_SAM_C0100_0006,CUTSCENES.TXT,Eu sou Samuels. Trabalho para a companhia.,Eu sou Samuels. Trabalho para a Companhia.
+A1_CUTSCENES_SAM_C0100_0015,CUTSCENES.TXT,"A caixa-preta foi levada à Estação Sevastopol. Bem... O material é de nossa propriedade, então a companhia quer que seja coletado o mais rápido possível.","A caixa-preta foi levada à Estação Sevastopol. Bem... O material é de nossa propriedade, então a Companhia quer que seja coletado o mais rápido possível."
+A1_G0002_AN1_SS_SE_AG_B,G0002.TXT,Procurar você é um desperdício do tempo valioso da companhia.,Procurar você é um desperdício do tempo valioso da Companhia.
+A1_G0002_AN2_SS_SE_AG_B,G0002.TXT,Procurar você é um desperdício do tempo valioso da companhia.,Procurar você é um desperdício do tempo valioso da Companhia.
+A1_G0002_AN3_SS_SE_AG_B,G0002.TXT,Procurar você é um desperdício do tempo valioso da companhia.,Procurar você é um desperdício do tempo valioso da Companhia.
+A1_G0002_AN1_SL_SE_AG_D,G0002.TXT,Você está me fazendo perder o tempo da companhia.,Você está me fazendo perder o tempo da Companhia.
+A1_G0002_AN2_SL_SE_AG_D,G0002.TXT,Você está me fazendo perder o tempo da companhia.,Você está me fazendo perder o tempo da Companhia.
+A1_G0002_AN3_SL_SE_AG_D,G0002.TXT,Você está me fazendo perder o tempo da companhia.,Você está me fazendo perder o tempo da Companhia.
+A1_G0002_ANH_SS_SE_AG_B,G0002.TXT,Procurar você é um desperdício do tempo valioso da companhia.,Procurar você é um desperdício do tempo valioso da Companhia.
+A1_G0002_ANH_SL_SE_AG_D,G0002.TXT,Você está me fazendo perder o tempo da companhia.,Você está me fazendo perder o tempo da Companhia.
+AI_UI_RAN_6663,UI.TXT,"Aqui é Ransome, executivo da Seegson, em informe para a diretoria. Seus desgraçados. Eu fui leal e vocês, seus sovinas, me deixaram à própria sorte. Eu ia dar a vocês o achado do século. Estava disposto a arriscar a minha vida pela companhia. Poderia ter chamado uma equipe especial, capturado o espécime e todo mundo ia ficar contente. Mas o APOLLO cortou todas as comunicações. Nenhum dos técnicos no Núcleo do APOLLO está respondendo as minhas mensagens. Estamos todos morrendo aqui, seus desgraçados! Vocês estragaram tudo! Que vocês se danem e que a companhia se dane! Vão se ferrar!","Aqui é Ransome, executivo da Seegson, em informe para a diretoria. Seus desgraçados. Eu fui leal e vocês, seus sovinas, me deixaram à própria sorte. Eu ia dar a vocês o achado do século. Estava disposto a arriscar a minha vida pela Companhia. Poderia ter chamado uma equipe especial, capturado o espécime e todo mundo ia ficar contente. Mas o APOLLO cortou todas as comunicações. Nenhum dos técnicos no Núcleo do APOLLO está respondendo as minhas mensagens. Estamos todos morrendo aqui, seus desgraçados! Vocês estragaram tudo! Que vocês se danem e que a Companhia se dane! Vão se ferrar!"
+AI_UI_MINIGAME_1_BlueCircuit,UI.TXT,"Use #move# para mover, gire com #use# , pressione #use# para confirmar","Use #move# para mover, gire com #use#, pressione #use# para confirmar"
+A1_T0001_TEX_1630,T0001.TXT,O QUE é o KG348?,O que é o KG348?
+A1_M2201_TEX_5856,M2201.TXT, QUE É A ORDEM ESPECIAL 939?,O QUE É A ORDEM ESPECIAL 939?
+A1_M1101_TEX_0710,M1101.TXT,"16.11.2137 Russell, sei que é o seu último dia, mas o Spedding quer este lugar limpo antes que a gente feche.\n\nAcho que ele está ocupado demais ditando para a secretária dele para descer e checar o que fazemos, então, vou inicializar um dos androides de requisições para ajudar. Ele pode liberar a nossa lista de tarefas enquanto nós flamejamos o gelo das paredes.\n\nRestaurei toda a instalação para as configurações de fábrica, então, esta é a nova senha do Armazém de Componentes: 8382. Smythe","16/11/2137 Russell, sei que é o seu último dia, mas o Spedding quer este lugar limpo antes que a gente feche.\n\nAcho que ele está ocupado demais ditando para a secretária dele para descer e checar o que fazemos, então, vou inicializar um dos androides de requisições para ajudar. Ele pode liberar a nossa lista de tarefas enquanto nós flamejamos o gelo das paredes.\n\nRestaurei toda a instalação para as configurações de fábrica, então, esta é a nova senha do Armazém de Componentes: 8382. Smythe"
+A1_M2201_TEX_9092,M2201.TXT,A WEYLAND-YUTANI É DONA DESSA INSTALAÇÃO. PEDIDOS DE COMPRA RECEBIDOS EM 21.11.2137,A WEYLAND-YUTANI É DONA DESSA INSTALAÇÃO. PEDIDOS DE COMPRA RECEBIDOS EM 21/11/2137
+A1_M2702_TEX_9600,M2702.TXT,"Relatório do técnico, 24.10.2137. Marlow, eu acabei de fazer o tão necessário reparo nos motores de subluz. Ele estava fazendo tanto barulho que estou surpreso por não ter desmontado durante o primeiro salto. Está tudo bem por enquanto, mas ele precisa de uma revisão completa em breve, e não apenas para os sistemas do núcleo. Se continuarmos exigindo muito dele, vamos acabar como a única equipe de resgate procurando carona no espaço sideral. Não será um trabalho barato, então vamos esperar que você esteja certo quanto àquele sinal. Pode ser a nossa última chance de receber um pagamento decente. De qualquer forma, eu tive que restaurar o código de acesso da porta no fim das contas, o novo é <font color='#83F7FB'>4510</font>\n.Lewis.","Relatório do técnico, 24/10/2137. Marlow, eu acabei de fazer o tão necessário reparo nos motores de subluz. Ele estava fazendo tanto barulho que estou surpreso por não ter desmontado durante o primeiro salto. Está tudo bem por enquanto, mas ele precisa de uma revisão completa em breve, e não apenas para os sistemas do núcleo. Se continuarmos exigindo muito dele, vamos acabar como a única equipe de resgate procurando carona no espaço sideral. Não será um trabalho barato, então vamos esperar que você esteja certo quanto àquele sinal. Pode ser a nossa última chance de receber um pagamento decente. De qualquer forma, eu tive que restaurar o código de acesso da porta no fim das contas, o novo é <font color='#83F7FB'>4510</font>. Lewis."
+A1_M3301_TEX_8486,M3301.TXT,12 - 11 - 2137\n>Hidráulicos de acoplagem preparados\n>Sistemas de orientação preparados e alinhados\n004 -18:32:47342 - 18:27:24\n>Pinças de acoplagem preparadas para inicialização,11/12/2137\n> Hidráulicos de acoplagem preparados\n> Sistemas de orientação preparados e alinhados\n004 - 18:32:47342 - 18:27:24\n> Pinças de acoplagem preparadas para inicialização
+A1_M3301_TEX_7033,M3301.TXT,12 - 11 - 2137\n>Erro\n>Cabo umbilical removido. RE: Registro de trabalho de desativação #3487 04/10/2137,11/12/2137\n>Erro\n> Cabo umbilical removido. RE: Registro de trabalho de desativação #3487 04/10/2137
+A1_M3301_TEX_6597,M3301.TXT,11- 12 - 2137\n>Estender dispositivo de manutenção\n>Registro de trabalho de manutenção criado #88786 11/12/2137,11/12/2137\n> Estender dispositivo de manutenção\n> Registro de trabalho de manutenção criado #88786 11/12/2137
+A1_T0001_TEX_4089,T0001.TXT,"2115, FEV","2115, FEVEREIRO"
+A1_T0001_TEX_0440,T0001.TXT,"BARKER, R. 12.11.37\nCausa da Morte: Parada Cardíaca\n\nObjetos Pessoais: Armário 324, código <font color='#83F7FB'>1212</font>","BARKER, R. 12/11/2137\n\nCausa da Morte: Parada Cardíaca\n\nObjetos Pessoais: Armário 324, código <font color='#83F7FB'>1212</font>"
+A1_T0001_TEX_6541,T0001.TXT,"FOSTER, C. 14.11.37\nCausa da Morte: Confidencial\n\nObjetos Pessoais: Armário 324, código <font color='#83F7FB'>1212</font>","FOSTER, C. 14/11/2137\n\nCausa da Morte: Confidencial"
+A1_T0001_TEX_0510,T0001.TXT,"13/11/2137Célula 2\nMarlow, Henry\nNúmero do Crime: #--- (------)\nStatus: Encarceramento indefinido.\n\n18/11/2137\nCélula 1\nTanaka, Mike\nNúmero do Crime #342 [Bebedeira e desordem)\nStatus: Passou a noite na cela para curar da bebedeira. Foi liberado com um aviso.\n\n02/12/2137\nCélula 3\nWebster, Robert\nNúmero do crime: #343 (Violência doméstica)\nStatus: Liberado devido à quebra de segurança na estação","13/11/2137\nCélula 2\nMarlow, Henry\nNúmero do crime: #--- (------)\nStatus: Encarceramento indefinido.\n\n18/11/2137\nCélula 1\nTanaka, Mike\nNúmero do crime #342 (Bebedeira e desordem)\nStatus: Passou a noite na cela para curar da bebedeira. Foi liberado com um aviso.\n\n02/12/2137\nCélula 3\nWebster, Robert\nNúmero do crime: #343 (Violência doméstica)\nStatus: Liberado devido à quebra de segurança na estação"
+A1_T0001_TEX_0490,T0001.TXT,22/11/2137\nPara: B. Ransome\n\nArquivo do Retransmissor\nUm de nossos arquivistas me disse que você está acessando os velhos arquivos de retransmisão. Posso ajudar com alguma coisa? Todos os pedidos de acesso às comunicações para fora da estação precisam ser confirmado pelo oficial superior da Seegson. Tenho certeza de que você compreende.\n\nHughes\nGerente da Seegson Comunicações,"22/11/2137\nPara: B. Ransome\n\nArquivo do Retransmissor\nUm de nossos arquivistas me disse que você está acessando os velhos arquivos de retransmisão. Posso ajudar com alguma coisa? Todos os pedidos de acesso às comunicações para fora da estação precisam ser confirmado pelo oficial superior da Seegson. Tenho certeza de que você compreende.\n\nHughes,\nGerente da Seegson Comunicações"
+A1_T0001_TEX_2558,T0001.TXT,"Relatório do técnico, 24.10.2137. Marlow, eu acabei de fazer o tão necessário reparo nos motores de subluz. Ele estava fazendo tanto barulho que estou surpreso por não ter desmontado durante o primeiro salto. Está tudo bem por enquanto, mas ele precisa de uma revisão completa em breve, e não apenas para os sistemas do núcleo. Se continuarmos exigindo muito dele, vamos acabar como a única equipe de resgate procurando carona no espaço sideral. Não será um trabalho barato, então vamos esperar que você esteja certo quanto àquele sinal. Pode ser a nossa última chance de receber um pagamento decente. De qualquer forma, eu tive que restaurar o código de acesso da porta no fim das contas, o novo é <font color='#83F7FB'>4510</font>\n.Lewis.","Relatório do técnico, 24/10/2137. Marlow, eu acabei de fazer o tão necessário reparo nos motores de subluz. Ele estava fazendo tanto barulho que estou surpreso por não ter desmontado durante o primeiro salto. Está tudo bem por enquanto, mas ele precisa de uma revisão completa em breve, e não apenas para os sistemas do núcleo. Se continuarmos exigindo muito dele, vamos acabar como a única equipe de resgate procurando carona no espaço sideral. Não será um trabalho barato, então vamos esperar que você esteja certo quanto àquele sinal. Pode ser a nossa última chance de receber um pagamento decente. De qualquer forma, eu tive que restaurar o código de acesso da porta no fim das contas, o novo é <font color='#83F7FB'>4510</font>. Lewis."
+A1_T0001_TEX_6037,T0001.TXT,12 - 11 - 2137\n>Hidráulicos de acoplagem preparados\n>Sistemas de orientação preparados e alinhados\n004 -18:32:47342 - 18:27:24\n>Pinças de acoplagem preparadas para inicialização,11/12/2137\n> Hidráulicos de acoplagem preparados\n> Sistemas de orientação preparados e alinhados\n004 - 18:32:47342 - 18:27:24\n> Pinças de acoplagem preparadas para inicialização
+A1_T0001_TEX_8214,T0001.TXT,12 - 11 - 2137\n>Erro\n>Cabo umbilical removido. RE: Registro de trabalho de desativação #3487 04/10/2137,11/12/2137\n> Erro\n> Cabo umbilical removido. RE: Registro de trabalho de desativação #3487 04/10/2137
+A1_T0001_TEX_8050,T0001.TXT,11- 12 - 2137\n>Estender dispositivo de manutenção\n>Registro de trabalho de manutenção criado #88786 11/12/2137,11/12/2137\n> Estender dispositivo de manutenção\n> Registro de trabalho de manutenção criado #88786 11/12/2137
+A1_T0001_TEX_5363,T0001.TXT,11- 12 - 2137\n>Pinças de acoplagem preparadas para inicialização\n004 -18:32:47342 - 18:27:24\n>Hidráulicos de acoplagem preparados\n>Sistemas de orientação preparados e alinhados,11/12/2137\n> Pinças de acoplagem preparadas para inicialização\n004 - 18:32:47342 - 18:27:24\n> Hidráulicos de acoplagem preparados\n> Sistemas de orientação preparados e alinhados
+A1_T0001_TEX_2725,T0001.TXT,11 - 12- 2137\n\n>RE: Registro de trabalho de desativação #3487 04/10/2137,11/12/2137\n\n> RE: Registro de trabalho de desativação #3487 04/10/2137
+A1_T0001_TEX_4562,T0001.TXT,11- 12 - 2137\n\n>Registro de trabalho de manutenção criado #88786 11/12/2137,11/12/2137\n\n> Registro de trabalho de manutenção criado #88786 11/12/2137
+AI_UI_HUG_3041,UI.TXT,"1º de dezembro, 2137","1 de dezembro, 2137"
+AI_UI_CHI_2464,UI.TXT,"1º de dezembro, 2137","1 de dezembro, 2137"
+A1_CV2_Panic_Alien_D,CV2.TXT,Pai Nosso que estais no céu... santificado seja... <murmúrios>,Pai Nosso que estais no céu... santificado seja...
+A1_M2501_RIP_8682,M2501.TXT,"Sobraram alguns na estação. <pausa> Eu... Eu sinto muito, Ricardo.","Sobraram alguns na estação. Eu... Eu sinto muito, Ricardo."
+A1_SS2_Panic_Alien_D,SS2.TXT,Pai Nosso que estais no céu... santificado seja... <murmúrios>,Pai Nosso que estais no céu... santificado seja...
+A1_T0001_TEX_8236,T0001.TXT,>Erro: Cabo umbilical removido,> Erro: Cabo umbilical removido
+A1_T0001_TEX_4877,T0001.TXT,>Estender dispositivo,> Estender dispositivo
+A1_CUTSCENES_TAY_C0900_0009,CUTSCENES.TXT,[Taylor respira fundo e calmamente],*remover*
+A1_CUTSCENES_TAY_C1000_0004,CUTSCENES.TXT,[gritos],*remover*
+A1_CUTSCENES_TAY_C1000_0005,CUTSCENES.TXT,"[respiração forte, muito assustada]",*remover*
+A1_CUTSCENES_RIP_C1000_0008,CUTSCENES.TXT,"[respiração forte, mas não tão assustada quanto Taylor]",*remover*
+A1_CUTSCENES_RIP_C1000_0010,CUTSCENES.TXT,[gritos],*remover*
+A1_CUTSCENES_RIP_C1000_0017,CUTSCENES.TXT,[ligeiro esforço/sons assustados],*remover*
+A1_CUTSCENES_AXE_C1200_0014,CUTSCENES.TXT,[som balbuciante],*remover*
+A1_CV1_S_USE_SS_A,CV1.TXT,[que] diabos?,Que diabos?!
+A1_CV3_S_USE_SICE_A,CV3.TXT,[que] DIABOS?,DIABOS?!
+A1_M2102_RIC_3682,M2102.TXT,[pausa] Eu tó aqui. Tó aqui. Desculpa.,Eu tô aqui. Tô aqui. Desculpa.
+A1_P0002_PAR_9961,P0002.TXT,[gritos],*remover*
+A1_P0002_LAM_1060,P0002.TXT,[gritos],*remover*
+A1_P0002_LAM_1060_ALT01,P0002.TXT,[gritos],*remover*
+A1_SS1_S_USE_SS_A,SS1.TXT,[que] diabos?,Que diabos?!
+A1_CUTSCENES_RIP_C1100_0001,CUTSCENES.TXT,(sons de esforço),*remover*
+A1_CV1_S_SWF_D,CV1.TXT,"(suspiro aliviado) Cara, eu tó com medo da minha própria sombra.","Cara, eu tô com medo da minha própria sombra."
+A1_CV1_HBWI_A,CV1.TXT,"Ah! (grito, o NPC estará em chamas)",*remover*
+A1_CV1_HBWI_B,CV1.TXT,"Uh! (grito, o NPC estará em chamas)",*remover*
+A1_CV1_HBWI_C,CV1.TXT,"Agh! (grito, o NPC estará em chamas)",*remover*
+A1_CV1_HBWI_D,CV1.TXT,"Argh! (grito, o NPC estará em chamas)",*remover*
+A1_CV1_HBWR_A,CV1.TXT,Uh! (variações de gritos curtos),*remover*
+A1_CV1_HBWR_B,CV1.TXT,Uh! (variações de gritos curtos),*remover*
+A1_CV1_HBWR_C,CV1.TXT,Agh! (variações de gritos curtos),*remover*
+A1_CV1_HBWR_D,CV1.TXT,Argh! (variações de gritos curtos),*remover*
+A1_CV1_HBWE_A,CV1.TXT,Uh! (variações de gritos longos),*remover*
+A1_CV1_HBWE_B,CV1.TXT,Uh! (variações de gritos longos),*remover*
+A1_CV1_HBWE_C,CV1.TXT,Agh! (variações de gritos longos),*remover*
+A1_CV1_HBWE_D,CV1.TXT,Argh! (variações de gritos longos),*remover*
+A1_CV1_MELEE_A,CV1.TXT,(pequeno som de esforço),*remover*
+A1_CV1_MELEE_B,CV1.TXT,(pequeno som de esforço),*remover*
+A1_CV1_MELEE_C,CV1.TXT,(pequeno som de esforço),*remover*
+A1_CV1_MELEE_D,CV1.TXT,(pequeno som de esforço),*remover*
+A1_CV2_S_SW_D,CV2.TXT,(suspiro de surpresa),*remover*
+A1_CV2_MELEE_A,CV2.TXT,(barulho de esforço),*remover*
+A1_CV2_MELEE_B,CV2.TXT,(barulho de esforço),*remover*
+A1_CV2_MELEE_C,CV2.TXT,(barulho de esforço),*remover*
+A1_CV2_MELEE_D,CV2.TXT,(barulho de esforço),*remover*
+A1_CV3_S_USE_DSW_B,CV3.TXT,(de onde) veio essa merda?,De onde veio essa merda?
+A1_CV3_HBWI_A,CV3.TXT,"Ah! (grito, o NPC estará em chamas)",*remover*
+A1_CV3_HBWI_B,CV3.TXT,"Uh! (grito, o NPC estará em chamas)",*remover*
+A1_CV3_HBWI_C,CV3.TXT,"Agh! (grito, o NPC estará em chamas)",*remover*
+A1_CV3_HBWI_D,CV3.TXT,"Argh! (grito, o NPC estará em chamas)",*remover*
+A1_CV3_HBWB_C,CV3.TXT,Uh! (variações de gritos curtos),*remover*
+A1_CV3_HBWB_D,CV3.TXT,Agh! (variações de gritos curtos),*remover*
+A1_CV3_MELEE_A_ALT,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_A_ALT2,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_A_ALT3,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_A,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_B_ALT,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_B_ALT2,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_B_ALT3,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_B,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_C_ALT,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_C_ALT2,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_C_ALT3,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_C,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_D_ALT2,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_MELEE_D,CV3.TXT,(pequeno som de esforço),*remover*
+A1_CV3_DEAlien_C,CV3.TXT,"(sussurro) Ah, merda.","Ah, merda..."
+A1_CV3_DEAlien_BS_G,CV3.TXT,(voz baixa) Silêncio! Está na ventilação!,Silêncio! Está na ventilação!
+A1_CV4_HBWI_A,CV4.TXT,"Ah! (grito, o NPC estará em chamas)",*remover*
+A1_CV4_HBWI_B,CV4.TXT,"Uh! (grito, o NPC estará em chamas)",*remover*
+A1_CV4_HBWI_C,CV4.TXT,"Agh! (grito, o NPC estará em chamas)",*remover*
+A1_CV4_HBWI_D,CV4.TXT,"Argh! (grito, o NPC estará em chamas)",*remover*
+A1_CV4_MELEE_A,CV4.TXT,(pequeno som de esforço),*remover*
+A1_CV4_MELEE_B,CV4.TXT,(pequeno som de esforço),*remover*
+A1_CV4_MELEE_C,CV4.TXT,(pequeno som de esforço),*remover*
+A1_CV4_MELEE_D,CV4.TXT,(pequeno som de esforço),*remover*
+A1_CV5_HBWI_A,CV5.TXT,"Ah! (grito, o NPC estará em chamas)",*remover*
+A1_CV5_HBWI_B,CV5.TXT,"Uh! (grito, o NPC estará em chamas)",*remover*
+A1_CV5_HBWI_C,CV5.TXT,"Agh! (grito, o NPC estará em chamas)",*remover*
+A1_CV5_HBWI_D,CV5.TXT,"Argh! (grito, o NPC estará em chamas)",*remover*
+A1_CV5_HBWR_A,CV5.TXT,Uh! (variações de gritos curtos),*remover*
+A1_CV5_HBWR_B,CV5.TXT,Uh! (variações de gritos curtos),*remover*
+A1_CV5_HBWR_C,CV5.TXT,Agh! (variações de gritos curtos),*remover*
+A1_CV5_HBWR_D,CV5.TXT,Argh! (variações de gritos curtos),*remover*
+A1_CV5_HBWIRE_A,CV5.TXT,"Ah! (grito, o NPC estará em chamas)",*remover*
+A1_CV5_HBWIRE_B,CV5.TXT,"Uh! (grito, o NPC estará em chamas)",*remover*
+A1_CV5_HBWIRE_C,CV5.TXT,"Agh! (grito, o NPC estará em chamas)",*remover*
+A1_CV5_HBWIRE_D,CV5.TXT,"Argh! (grito, o NPC estará em chamas)",*remover*
+A1_CV5_HBWB_C,CV5.TXT,Uh! (variações de gritos curtos),*remover*
+A1_CV5_HBWB_D,CV5.TXT,Agh! (variações de gritos curtos),*remover*
+A1_CV5_MELEE_A,CV5.TXT,(pequeno som de esforço),*remover*
+A1_CV5_MELEE_B,CV5.TXT,(pequeno som de esforço),*remover*
+A1_CV5_MELEE_C,CV5.TXT,(pequeno som de esforço),*remover*
+A1_CV5_MELEE_D,CV5.TXT,(pequeno som de esforço),*remover*
+A1_CV6_S_SE_DSM_B,CV6.TXT,"(suspiro) T-tem alguém aí? Para trás, estou armada!","T-tem alguém aí? Para trás, estou armada!"
+A1_CV6_G_USE_DSM_B,CV6.TXT,(suspiro) Acho que alguma coisa se mexeu ali!,Acho que alguma coisa se mexeu ali!
+A1_CV6_S_USE_DSL_B,CV6.TXT,(suspiro) O que foi isso?,O que foi isso?
+A1_CV6_MELEE_A,CV6.TXT,(barulho de esforço),*remover*
+A1_CV6_MELEE_B,CV6.TXT,(barulho de esforço),*remover*
+A1_CV6_MELEE_C,CV6.TXT,(barulho de esforço),*remover*
+A1_CV6_MELEE_D,CV6.TXT,(barulho de esforço),*remover*
+A1_G0000_RIP_6713,G0000.TXT,(Suspiro de susto),*remover*
+A1_G0002_AN1_HBW_EMP_A,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN1_HBW_EMP_B,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN1_HBW_EMP_C,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN1_HBW_EMP_D,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN2_HBW_EMP_A,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN2_HBW_EMP_B,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN2_HBW_EMP_C,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN2_HBW_EMP_D,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN3_HBW_EMP_A,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN3_HBW_EMP_B,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN3_HBW_EMP_C,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN3_HBW_EMP_D,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_AN1_HBW_G_A,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN1_HBW_G_B,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN1_HBW_G_C,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN1_HBW_G_D,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN1_HBW_G_E,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN2_HBW_G_A,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN2_HBW_G_B,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN2_HBW_G_C,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN2_HBW_G_D,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN2_HBW_G_E,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN3_HBW_G_A,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN3_HBW_G_B,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN3_HBW_G_C,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN3_HBW_G_D,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN3_HBW_G_E,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_AN1_DTH_A,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN1_DTH_B,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN1_DTH_C,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN1_DTH_D,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN1_DTH_E,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN1_DTH_F,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN1_DTH_G,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN2_DTH_A,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN2_DTH_B,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN2_DTH_C,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN2_DTH_D,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN2_DTH_E,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN2_DTH_F,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN2_DTH_G,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN3_DTH_A,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN3_DTH_B,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN3_DTH_C,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN3_DTH_D,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN3_DTH_E,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN3_DTH_F,G0002.TXT,(Som de morte),*remover*
+A1_G0002_AN3_DTH_G,G0002.TXT,(Som de morte),*remover*
+A1_G0002_ANH_HBW_EMP_A,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_ANH_HBW_EMP_B,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_ANH_HBW_EMP_C,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_ANH_HBW_EMP_D,G0002.TXT,(sons de defeito por pulso eletromagnético),*remover*
+A1_G0002_ANH_HBW_G_A,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_ANH_HBW_G_B,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_ANH_HBW_G_C,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_ANH_HBW_G_D,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_ANH_HBW_G_E,G0002.TXT,"(Sons genéricos de impacto, ex. ""Argh!"")",*remover*
+A1_G0002_ANH_DTH_A,G0002.TXT,(Som de morte),*remover*
+A1_G0002_ANH_DTH_B,G0002.TXT,(Som de morte),*remover*
+A1_G0002_ANH_DTH_C,G0002.TXT,(Som de morte),*remover*
+A1_G0002_ANH_DTH_D,G0002.TXT,(Som de morte),*remover*
+A1_G0002_ANH_DTH_E,G0002.TXT,(Som de morte),*remover*
+A1_G0002_ANH_DTH_F,G0002.TXT,(Som de morte),*remover*
+A1_G0002_ANH_DTH_G,G0002.TXT,(Som de morte),*remover*
 A1_M0401_RIP_3000,M0401.TXT,(Suspiro de susto),*remover*
 A1_M0401_RIP_3000_ALT,M0401.TXT,(Suspiro de susto),*remover*
 A1_M0401_RIP_3000_ALT2,M0401.TXT,(Suspiro de susto),*remover*
+A1_M0401_RIP_8660,M0401.TXT,(grito de alarme e desânimo),*remover*
+A1_M0401_RIP_8660_ALT,M0401.TXT,(grito de alarme e desânimo),*remover*
+A1_M0401_RIP_7276,M0401.TXT,(esforço pequeno para ligar o gerador - não muito esforço),*remover*
 A1_M0401_RIP_5652,M0401.TXT,(suspiro de susto),*remover*
+A1_M0401_RIP_2723,M0401.TXT,(esforço médio),*remover*
+A1_M0401_AXE_7462,M0401.TXT,"Vamos, docinho. A Seegson Comunicações fica na Torre SysTech. É meio longe, mas podemos chegar a um transporte pela área de Frete.\n(pausa)\nMas tenha cuidado. Podemos enfrentar vários tipos de problemas lá. Está bem?","Vamos, docinho. A Seegson Comunicações fica na Torre SysTech. É meio longe, mas podemos chegar a um transporte pela área de Frete.\nMas tenha cuidado. Podemos enfrentar vários tipos de problemas lá. Está bem?"
+A1_M0401_CV5_5916,M0401.TXT,"Por Deus, não confronte ele, Dinsky!\n(para Axel, nervosamente)\nEu sou Relph. Jana Relph. Coordenadora de Frete. Esse é Dinsky. Ele trabalhava com operações de carga.","Por Deus, não confronte ele, Dinsky!\nEu sou Relph. Jana Relph. Coordenadora de Frete. Esse é Dinsky. Ele trabalhava com operações de carga."
+A1_M0401_CV4_9441,M0401.TXT,"Não precisa contar a história da nossa vida pra eles, Ralph!\n(para Axel e Ripley)\nQuem são vocês?","Não precisa contar a história da nossa vida pra eles, Ralph!\nQuem são vocês?"
+A1_M0401_RIP_0330,M0401.TXT,"Tá, quando chegarmos à minha nave.\n(subitamente agressivo)\nPreciso saber o que está acontecendo. Agora mesmo, caralho.","Tá, quando chegarmos à minha nave.\nPreciso saber o que está acontecendo. Agora mesmo, caralho."
+A1_M0401_RIP_2475,M0401.TXT,"Tá, quando chegarmos à minha nave.\n(subitamente agressivo)\nPreciso saber o que está acontecendo. Agora, caralho.","Tá, quando chegarmos à minha nave.\nPreciso saber o que está acontecendo. Agora, caralho."
+A1_M0401_AXE_1919,M0401.TXT,"Olha para você, Madame Exigente.\n(encolhe os ombros)\nTá bom. Como eu disse, tem um assassino.","Olha para você, Madame Exigente.\nTá bom. Como eu disse, tem um assassino."
+A1_M0401_AXE_1665,M0401.TXT,(solta o ar entediado),*remover*
+A1_M0401_AXE_4331,M0401.TXT,(tosse),*remover*
+A1_M0601_SGF_1005,M0601.TXT,O Sistema de Transporte de Sevastopol relata um (pausa) bom serviço (pausa) hoje.,O Sistema de Transporte de Sevastopol relata um... bom serviço... hoje.
+A1_M0701_VER_5927,M0701.TXT,"Aqui é Verlaine, da Torrens. Que diabos aconteceu? Sevastopol? Alguém da nossa equipe em trajes espaciais chegou a bordo? Por favor, responda. Sofremos danos com a explosão e vamos sair do espaço da Sevastopol. Os sistemas cairão durante os reparos. Não sei dizer por quanto... (estática)","Aqui é Verlaine, da Torrens. Que diabos aconteceu? Sevastopol? Alguém da nossa equipe em trajes espaciais chegou a bordo? Por favor, responda. Sofremos danos com a explosão e vamos sair do espaço da Sevastopol. Os sistemas cairão durante os reparos. Não sei dizer por quanto..."
+A1_M0901_SAM_4671,M0901.TXT,"Vou tentar consertar o amplificador de rádio.\n(pausa)\nE se essa... ""criatura"" aparecer?","Vou tentar consertar o amplificador de rádio.\nE se essa... ""criatura"" aparecer?"
+A1_M0902_KUH_3498,M0902.TXT,"Vamos. Vamos trabalhar juntos, hein? (tosse) Benefício mútuo.","Vamos. Vamos trabalhar juntos, hein? Benefício mútuo."
+A1_M0902_TEX_2684,M0902.TXT,RESTRITO PARA OS DIRETORES SENIORES\nQuarentena da Instalação Médica San Cristobal: <font color='#83F7FB'>ativo</font>\nEntrada do primeiro andar limitada ao pessoal sênior e delegados.\nSenha universal da instalação: <font color='#83F7FB'>1702</font>\nOs sistemas examinarão potenciais violações de quarentena a cada (15) minutos.,RESTRITO PARA OS DIRETORES SENIORES\n\nQuarentena da Instalação Médica San Cristobal: <font color='#83F7FB'>ativo</font>\nEntrada do primeiro andar limitada ao pessoal sênior e delegados.\nSenha universal da instalação: <font color='#83F7FB'>1702</font>\nOs sistemas examinarão potenciais violações de quarentena a cada (15) minutos.
+A1_M1001_RIP_7525,M1001.TXT,(Suspiro de susto),*remover*
+A1_M1101_CV5_4100,M1101.TXT,Deus! Deus! N-não (grito agonizante),Deus! Deus! N-não
+A1_M1202_MAR_9878,M1202.TXT,"Está falando sério? Merda. Bem... Merda. (se recompõe) Nunca encontramos a nave dela, Ripley. Só a caixa-preta.","Está falando sério? Merda. Bem... Merda. Nunca encontramos a nave dela, Ripley. Só a caixa-preta."
+A1_M1301_MEE_9761,M1301.TXT,(dá risada com a resposta da Foster),*remover*
+A1_M1301_MAR_0935,M1301.TXT,(respiração pesada),*remover*
+A1_M1404_SGF_5406,M1404.TXT,Pressurização da câmara de ar (pausa) vinte e cinco (pausa) por cento concluída,Pressurização da câmara de ar 25% concluída
+A1_M1404_SGF_8006,M1404.TXT,Pressurização da câmara de ar (pausa) cinquenta por cento (pausa) concluída,Pressurização da câmara de ar 50% concluída
+A1_M1404_SGF_7095,M1404.TXT,Pressurização da câmara de ar (pausa) setenta e cinco (pausa) por cento concluída,Pressurização da câmara de ar 75% concluída
+A1_M2101_RIP_3288,M2101.TXT,(suspiro)\nEu sinto muito.,Eu sinto muito.
+A1_M2201_SGM_8231,M2201.TXT,Modo de consulta do núcleo APOLLO (pausa) ativado (pausa) parâmetros de segurança de sintéticos: Contenção de Risco Nível Ômega,Modo de consulta do núcleo APOLLO: Ativado\nParâmetros de segurança de sintéticos: Contenção de Risco Nível Ômega
+A1_M2201_SGM_8231_ALT,M2201.TXT,Modo de consulta do núcleo APOLLO (pausa) ativado (pausa) parâmetros de segurança de sintéticos: Contenção de Risco Nível Ômega,Modo de consulta do núcleo APOLLO: Ativado\nParâmetros de segurança de sintéticos: Contenção de Risco Nível Ômega
+A1_M2501_RIP_4591_ALT,M2501.TXT,"Sobraram alguns na estação. (pausa) Merda, eu... sinto muito, Ricardo.","Sobraram alguns na estação. Merda, eu... sinto muito, Ricardo."
+A1_M2702_TAY_1268,M2702.TXT,"Ripley? O Marlow me enganou! Ele disse que ia me dar todos os dados que tivesse sobre a criatura para eu poder levar para a Companhia, mas ele... (abafada, empurrada)","Ripley? O Marlow me enganou! Ele disse que ia me dar todos os dados que tivesse sobre a criatura para eu poder levar para a Companhia, mas ele..."
+A1_M2702_TOR_7099,M2702.TXT,Limite de sobrecarga crítica em T-menos (pausa) dois (pausa) minutos.,Limite de sobrecarga crítica em T-2 minutos.
+A1_M2702_TOR_7099_ALT2,M2702.TXT,Limite de sobrecarga crítica em T-menos (pausa) dois (pausa) minutos.,Limite de sobrecarga crítica em T-2 minutos.
+A1_M3001_SGF_6660,M3001.TXT,Estabilizadores orbitais operando em (pausa) oitenta por cento (pausa) e caindo.,Estabilizadores orbitais operando em 80% e caindo.
+A1_M3001_SGF_3146,M3001.TXT,Estabilizadores orbitais operando em (pausa) quarenta por cento (pausa) e caindo.,Estabilizadores orbitais operando em 40% e caindo.
+A1_M3001_SGF_4494,M3001.TXT,Estabilizadores orbitais operando em (pausa) sessenta por cento (pausa) e caindo.,Estabilizadores orbitais operando em 60% e caindo.
+A1_M3001_SGF_9540,M3001.TXT,Estabilizadores orbitais operando em (pausa) vinte por cento (pausa) e caindo.,Estabilizadores orbitais operando em 20% e caindo.
+A1_M3001_SGF_9728,M3001.TXT,Estabilizadores orbitais operando em (pausa) quinze por cento (pausa) e caindo.,Estabilizadores orbitais operando em 15% e caindo.
+A1_M3001_SGF_1829,M3001.TXT,Estabilizadores orbitais operando em (pausa) dez por cento (pausa) e caindo.,Estabilizadores orbitais operando em 10% e caindo.
+A1_M3001_RIC_8751,M3001.TXT,"(tosse)\nOuça, Rip...","Ouça, Rip..."
+A1_M3301_RIP_0210,M3301.TXT,(gritos - o mesmo de quando ela morre),*remover*
+A1_M3301_RIP_0190,M3301.TXT,(suspiro genérico),*remover*
+A1_M3301_RIP_0195,M3301.TXT,(mais sons genéricos de medo),*remover*
+A1_M3301_RIP_0215,M3301.TXT,(gemidos),*remover*
+A1_M3301_RIP_0225,M3301.TXT,(inspiração curta),*remover*
+A1_M3301_RIP_0260,M3301.TXT,(suspiro de choque),*remover*
+A1_M3301_RIP_0265,M3301.TXT,(som de esforço),*remover*
+A1_M3301_RIP_0270,M3301.TXT,(respiração pesada),*remover*
+A1_M3301_RIP_1000,M3301.TXT,(respira fundo e tosse),*remover*
+A1_M3301_RIP_0305,M3301.TXT,(Ruído de esforço quando ela corre),*remover*
+A1_P0001_OBJ_1127,P0001.TXT,Colete um medikit (Opcional),Colete um medikit (opcional)
+A1_P0001_ASH_5637C,P0001.TXT,Ripley. (versão alternativa),Ripley.
+A1_P0001_ASH_5637C_ALT01,P0001.TXT,Ripley. (versão alternativa),Ripley.
+A1_P0001_ASH_5871B,P0001.TXT,Parker (versão alternativa),Parker.
+A1_P0001_ASH_9618B,P0001.TXT,Dallas. (versão alternativa),Dallas.
+A1_P0001_ASH_9618B_ALT01,P0001.TXT,Dallas. (versão alternativa),Dallas.
+A1_P0001_LAM_1563B,P0001.TXT,Esquerda! (alternativa),Esquerda!
+A1_P0001_LAM_9727,P0001.TXT,Direita! (alternativa),Direita!
+A1_P0001_ELL_7625,P0001.TXT,(suspiro de choque),*remover*
+A1_P0001_RIP_6246D,P0001.TXT,(suspiro de choque),*remover*
+A1_P0001_PAR_5391D,P0001.TXT,(suspiro de choque),*remover*
+A1_P0001_DAL_4673D,P0001.TXT,(suspiro de choque),*remover*
+A1_P0002_LAM_6409,P0002.TXT,(soluços),*remover*
+A1_P0002_LAM_6409_ALT01,P0002.TXT,(soluços),*remover*
+A1_P0002_PAR_8412,P0002.TXT,(gritos),*remover*
+A1_P0002_PAR_5462,P0002.TXT,(gritos),*remover*
+A1_P0002_LAM_6143,P0002.TXT,(gritos),*remover*
+A1_P0002_LAM_6143_ALT01,P0002.TXT,(gritos),*remover*
+A1_P0002_LAM_7079,P0002.TXT,(gritos),*remover*
+A1_P0002_LAM_7079_ALT01,P0002.TXT,(gritos),*remover*
+A1_P0002_ELL_8329,P0002.TXT,(respiração assustada),*remover*
+A1_P0002_ELL_1119,P0002.TXT,"(Improvisada – Você deve tá brincando comigo. Você deve estar brincando comigo. Ah, para com isso. Merda. Para com isso. Pelo amor de Deus. Você tá brincando. Pelo amor de Deus. Merda. Você tá brincando. Você etá brincando).",Você deve tá brincando comigo.
+A1_P0002_ELL_3687,P0002.TXT,"(às vezes canta, às vezes sussurra ""Lucky Star"", a canção que ela canta no final de Alien)","♪ cantando ""Lucky Star"" ♪"
+A1_P0002_ELL_2647,P0002.TXT,"(cantarolando ""Lucky Star"")","♪ cantando ""Lucky Star"" ♪"
+A1_P0002_ELL_3888,P0002.TXT,(respiração pesada),*remover*
+A1_P0002_ELL_7943,P0002.TXT,(barulhos baixos de esforço ao puxar os cilindros de autodestruição),*remover*
+A1_SS1_S_SWF_D,SS1.TXT,"(suspiro aliviado) Cara, eu tó com medo da própria sombra.","Cara, eu tô com medo da própria sombra."
+A1_SS1_HBWI_A,SS1.TXT,"Ah! (grito, o NPC estará em chamas)",*remover*
+A1_SS1_HBWI_B,SS1.TXT,"Uh! (grito, o NPC estará em chamas)",*remover*
+A1_SS1_HBWI_C,SS1.TXT,"Agh! (grito, o NPC estará em chamas)",*remover*
+A1_SS1_HBWI_D,SS1.TXT,"Argh! (grito, o NPC estará em chamas)",*remover*
+A1_SS1_HBWR_A,SS1.TXT,Uh! (variações de gritos curtos),*remover*
+A1_SS1_HBWR_B,SS1.TXT,Uh! (variações de gritos curtos),*remover*
+A1_SS1_HBWR_C,SS1.TXT,Agh! (variações de gritos curtos),*remover*
+A1_SS1_HBWR_D,SS1.TXT,Argh! (variações de gritos curtos),*remover*
+A1_SS1_HBWE_A,SS1.TXT,Uh! (variações de gritos longos),*remover*
+A1_SS1_HBWE_B,SS1.TXT,Uh! (variações de gritos longos),*remover*
+A1_SS1_HBWE_C,SS1.TXT,Agh! (variações de gritos longos),*remover*
+A1_SS1_HBWE_D,SS1.TXT,Argh! (variações de gritos longos),*remover*
+A1_SS1_MELEE_A,SS1.TXT,(pequeno som de esforço),*remover*
+A1_SS1_MELEE_B,SS1.TXT,(pequeno som de esforço),*remover*
+A1_SS1_MELEE_C,SS1.TXT,(pequeno som de esforço),*remover*
+A1_SS1_MELEE_D,SS1.TXT,(pequeno som de esforço),*remover*
+A1_SS2_HBWIRE_A,SS2.TXT,"Ah! (grito, o NPC estará em chamas)",*remover*
+A1_SS2_HBWIRE_B,SS2.TXT,"Uh! (grito, o NPC estará em chamas)",*remover*
+A1_SS2_HBWIRE_C,SS2.TXT,"Agh! (grito, o NPC estará em chamas)",*remover*
+A1_SS2_HBWIRE_D,SS2.TXT,"Argh! (grito, o NPC estará em chamas)",*remover*
+A1_SS2_HBWFB_C,SS2.TXT,Uh! (variações de gritos curtos),*remover*
+A1_SS2_HBWFB_D,SS2.TXT,Agh! (variações de gritos curtos),*remover*
+A1_SS2_MELEE_A,SS2.TXT,(pequeno som de esforço),*remover*
+A1_SS2_MELEE_B,SS2.TXT,(pequeno som de esforço),*remover*
+A1_SS2_MELEE_C,SS2.TXT,(pequeno som de esforço),*remover*
+A1_SS2_MELEE_D,SS2.TXT,(pequeno som de esforço),*remover*
+A1_SS3_S_SWF_D,SS3.TXT,"(suspiro aliviado) Cara, estou com medo da própria sombra.","Cara, eu tô com medo da própria sombra."
+A1_SS3_HBWI_A,SS3.TXT,"Ah! (grito, o NPC estará em chamas)",*remover*
+A1_SS3_HBWI_B,SS3.TXT,"Uh! (grito, o NPC estará em chamas)",*remover*
+A1_SS3_HBWI_C,SS3.TXT,"Agh! (grito, o NPC estará em chamas)",*remover*
+A1_SS3_HBWI_D,SS3.TXT,"Argh! (grito, o NPC estará em chamas)",*remover*
+A1_SS3_HBWR_A,SS3.TXT,Uh! (variações de gritos curtos),*remover*
+A1_SS3_HBWR_B,SS3.TXT,Uh! (variações de gritos curtos),*remover*
+A1_SS3_HBWR_C,SS3.TXT,Agh! (variações de gritos curtos),*remover*
+A1_SS3_HBWR_D,SS3.TXT,Argh! (variações de gritos curtos),*remover*
+A1_SS3_HBWE_A,SS3.TXT,Uh! (variações de gritos longos),*remover*
+A1_SS3_HBWE_B,SS3.TXT,Uh! (variações de gritos longos),*remover*
+A1_SS3_HBWE_C,SS3.TXT,Agh! (variações de gritos longos),*remover*
+A1_SS3_HBWE_D,SS3.TXT,Argh! (variações de gritos longos),*remover*
+A1_SS3_MELEE_A,SS3.TXT,(pequeno som de esforço),*remover*
+A1_SS3_MELEE_B,SS3.TXT,(pequeno som de esforço),*remover*
+A1_SS3_MELEE_C,SS3.TXT,(pequeno som de esforço),*remover*
+A1_SS3_MELEE_D,SS3.TXT,(pequeno som de esforço),*remover*
+A1_SS3_DEAlien_C,SS3.TXT,"(sussurro) Ah, merda.","Ah, merda..."
+A1_SS3_DEAlien_BS_G,SS3.TXT,(voz baixa) Silêncio! Está na ventilação!,Silêncio! Tá na ventilação!
+A1_SS3_S_SFC_ALI_C,SS3.TXT,Não! Nããoo!,Não! Nãooo!
+AI_UI_SGF_6340,UI.TXT,Nós (pausa) lamentamos muito (pausa) a atual interrupção nos serviços.,"Nós, lamentamos muito, a atual interrupção nos serviços."
+AI_UI_ZAH_1758,UI.TXT,"Bem, aqui estou. Sóbrio por vinte anos e Sevastopol aconteceu. Aconteceu pra todos nós. O lugar inteiro mudou. Se alterou. Nada mais está certo. A única coisa a fazer é jogar a âncora em uma garrafa e se afundar. (click da fita) Já matei um litro e ainda estou congelado. Continuo ouvindo coisas. O que está lá fora? (clique da fita) Um brinde para soldados mortos (tilintar de copo).","Bem, aqui estou. Sóbrio por vinte anos e Sevastopol aconteceu. Aconteceu pra todos nós. O lugar inteiro mudou. Se alterou. Nada mais está certo. A única coisa a fazer é jogar a âncora em uma garrafa e se afundar. Já matei um litro e ainda estou congelado. Continuo ouvindo coisas. O que está lá fora? Um brinde para soldados mortos."
+AI_UI_ZAH_9219,UI.TXT,"Alô? Então, certo. Eu quero fazer uma reclamação. Pra... Pra a maior autoridade, certo? Meu nome é Zachary Watson. É W-A-T-S-O-N. Entendeu? Minha reclamação é a seguinte: os malditos Federais. Essa é a minha única reclamação. Eles me trancaram aqui. Os filhos da puta me trancaram aqui! Desgraçados! Isso tá errado, cara. Eu vim pedir ajuda pra eles. Essa coisa tá funcionando? Merda. Eu só vim pedir ajuda. Eles colocaram travas nas portas. Sabe, tipo pra impedir alguém de entrar? Eu só estava tentando abrir... Travas nas portas, cara. Tudo fechado. Então, eles sabem o que tá acontecendo? Certo? Eles devem saber. E daí se eu bebi um pouco? Danem-se eles. É só pra dar uma acalmada. Eles deveriam proteger a gente. É o trabalho deles. Ninguém sabe, cara. Ninguém tem a mínima ideia. Tem alguma coisa na estação com a gente e ninguém sabe o que é. Por que os Federais não contaram pra gente? Eles só me trancaram aqui. Eu quero fazer uma reclamação. (pausa) Eu já disse isso, certo? Eu estou morrendo de medo, cara. Eu estou... Merda. Merda, que frio. Ninguém veio. Eu estou congelando aqui. Acho que essa porra nem funciona.","Alô? Então, certo. Eu quero fazer uma reclamação. Pra... Pra a maior autoridade, certo? Meu nome é Zachary Watson. É W-A-T-S-O-N. Entendeu? Minha reclamação é a seguinte: os malditos Federais. Essa é a minha única reclamação. Eles me trancaram aqui. Os filhos da puta me trancaram aqui! Desgraçados! Isso tá errado, cara. Eu vim pedir ajuda pra eles. Essa coisa tá funcionando? Merda. Eu só vim pedir ajuda. Eles colocaram travas nas portas. Sabe, tipo pra impedir alguém de entrar? Eu só estava tentando abrir... Travas nas portas, cara. Tudo fechado. Então, eles sabem o que tá acontecendo? Certo? Eles devem saber. E daí se eu bebi um pouco? Danem-se eles. É só pra dar uma acalmada. Eles deveriam proteger a gente. É o trabalho deles. Ninguém sabe, cara. Ninguém tem a mínima ideia. Tem alguma coisa na estação com a gente e ninguém sabe o que é. Por que os Federais não contaram pra gente? Eles só me trancaram aqui. Eu quero fazer uma reclamação. Eu já disse isso, certo? Eu estou morrendo de medo, cara. Eu estou... Merda. Merda, que frio. Ninguém veio. Eu estou congelando aqui. Acho que essa porra nem funciona."
+AI_UI_VER_6814,UI.TXT,"Aqui é Verlaine, da Torrens. Que diabos aconteceu? Sevastopol? Alguém da nossa equipe em trajes espaciais chegou a bordo? Por favor, responda. Sofremos danos com a explosão e vamos sair do espaço da Sevastopol. Os sistemas cairão durante os reparos. Não sei dizer por quanto... (estática)","Aqui é Verlaine, da Torrens. Que diabos aconteceu? Sevastopol? Alguém da nossa equipe em trajes espaciais chegou a bordo? Por favor, responda. Sofremos danos com a explosão e vamos sair do espaço da Sevastopol. Os sistemas cairão durante os reparos. Não sei dizer por quanto..."
+AI_UI_JUL_2629,UI.TXT,"(Limpa a garganta)Eu.. Eu não sei quando alguém receberá isso, mas alguém precisa registrar e eu não sei... (limpa a garganta de novo). Eu cheguei aqui há alguns meses pra escrever sobre o colapso de um sonho, um futuro arruinado. Pra mim, as pessoas daqui eram pouco mais que notas de rodapé para o meu artigo, algo pra manipular emoções. (com sarcasmo) E quando começaram os desaparecimentos, oh, eu fiquei entusiasmada. Isso era algo grande. Mas agora, as pessoas estão com medo e um defeito nas comunicações nos deixou sozinhos. Eu estou presa aqui, como todos os outros. Mais uma nota de rodapé. Mais uma vítima.","Eu... Eu não sei quando alguém receberá isso, mas alguém precisa registrar e eu não sei... Eu cheguei aqui há alguns meses pra escrever sobre o colapso de um sonho, um futuro arruinado. Pra mim, as pessoas daqui eram pouco mais que notas de rodapé para o meu artigo, algo pra manipular emoções. E quando começaram os desaparecimentos, oh, eu fiquei entusiasmada. Isso era algo grande. Mas agora, as pessoas estão com medo e um defeito nas comunicações nos deixou sozinhos. Eu estou presa aqui, como todos os outros. Mais uma nota de rodapé. Mais uma vítima."
+AI_UI_RAN_6007,UI.TXT,"WAITS\nRelatório 95557. Ainda sem sorte com (toc toc) - Ransome. O que você quer?\nRANSOME\nNão vai me oferecer uma bebida?\nWAITS\nEstou ocupado, Ransome. O que você quer?\nRANSOME\nQuanto vermelho nessa parede.\nWAITS\nSão pessoas. Cada pino.\nRANSOME\nAi. Estava pensando sobre o que aconteceu no hospital. Posso ajudar a salvar seus 'pinos'. Se estiver disposto a ouvir.\nWAITS\nEu não preciso, nem quero, a sua 'ajuda'.\nRANSOME\nEscuta, você não quer criar pânico, eu entendo, é complicado. Mas me mostre o que você tem sobre aquela coisa. Eu tenho muitas conexões aqui. Gente inteligente e discreta. Estou falando em capturar o espécime sem matá-lo. Isso pode nos deixar feitos para o resto da vida.\nWAITS\nSem acordo. Não vou me arriscar a ter mais sangue em minhas mãos. Se eu achar a criatura, ela morre.\nRANSOME\n(suspiro) Não me diga que você não queria uma recompensa pela caixa-preta da Weyland-Yutani. Sim, eu sei que é por isso que você os deixou entrar a bordo. É meio tarde para ter um abalo na consciência agora.\nWAITS\nA mulher morreu, Ransome. Isso não é um abalo.\nRANSOME\nAbalo, pinos, o que seja. Talvez você não queira a minha ajuda, mas você ainda vai precisar de mim.\nWAITS\nSaia do meu escritório.\nRANSOME\nClaro. Ah, aliás, estão acabando os seus pinos.","WAITS\nRelatório 95557. Ainda sem sorte com-\n*(toc toc)*\n- Ransome. O que você quer?\n\nRANSOME\nNão vai me oferecer uma bebida?\n\nWAITS\nEstou ocupado, Ransome. O que você quer?\n\nRANSOME\nQuanto vermelho nessa parede.\n\nWAITS\nSão pessoas. Cada pino.\n\nRANSOME\nAi. Estava pensando sobre o que aconteceu no hospital. Posso ajudar a salvar seus 'pinos'. Se estiver disposto a ouvir.\n\nWAITS\nEu não preciso, nem quero, a sua 'ajuda'.\n\nRANSOME\nEscuta, você não quer criar pânico, eu entendo, é complicado. Mas me mostre o que você tem sobre aquela coisa. Eu tenho muitas conexões aqui. Gente inteligente e discreta. Estou falando em capturar o espécime sem matá-lo. Isso pode nos deixar feitos para o resto da vida.\n\nWAITS\nSem acordo. Não vou me arriscar a ter mais sangue em minhas mãos. Se eu achar a criatura, ela morre.\n\nRANSOME\nNão me diga que você não queria uma recompensa pela caixa-preta da Weyland-Yutani. Sim, eu sei que é por isso que você os deixou entrar a bordo. É meio tarde para ter um abalo na consciência agora.\n\nWAITS\nA mulher morreu, Ransome. Isso não é um abalo.\n\nRANSOME\nAbalo, pinos, o que seja. Talvez você não queira a minha ajuda, mas você ainda vai precisar de mim.\n\nWAITS\nSaia do meu escritório.\n\nRANSOME\nClaro. Ah, aliás, estão acabando os seus pinos."
+AI_UI_MAR_1125,UI.TXT,"É isso, Taylor – está me deixando entrar nas coordenadas da Anesidora. O sinal está claro. (pausa) Aqui é o Capitão Marlow iniciando os sistemas de retorno automático da Anesidora. Código: Sigma Alfa Dois Três Nove. Destino em seguida.","É isso, Taylor - está me deixando entrar nas coordenadas da Anesidora. O sinal está claro. Aqui é o Capitão Marlow iniciando os sistemas de retorno automático da Anesidora. Código: Sigma Alfa Dois Três Nove. Destino em seguida."
+AI_UI_MAR_7592,UI.TXT,"TAYLOR\nVocê é Marlow, certo?\nMARLOW\nSim.\nTAYLOR\nEu sou Taylor. Setor executivo da Weyland-Yutani.\nMARLOW\nOh, uma figurona, hein? Não é uma garota com problemas de abandono?\nTAYLOR\nDeixe a Ripley fora disso. Ela só está buscando respostas. Já eu defendo os interesses da Weyland-Yutani.\nMARLOW\nE eu estou tentando sair dessa maldita cela. Talvez possamos fazer um acordo?\nTAYLOR\nTalvez. Isso está sendo gravado, entendeu?\nMARLOW\nEu vi. A luz vermelha está acesa.\nTAYLOR\nEu quero dados. O local do planetoide onde você encontrou a nave abandonada. Todos os dados que tiver sobre a origem daquele organismo.\nMARLOW\nEu posso te dar isso. E uma saída dessa estação. Você só tem que me tirar daqui.\nTAYLOR\nCreio que posso aceitar esses termos. Barulhos lá fora. O começo de um ataque dos androides. Tiros e gritos.\nTAYLOR (CONTINUA)\nMas que merda?\nMARLOW\nTaylor! Taylor, me tire dessa cela! Agora! Me tire daqui! A coisa está ficando feia, Taylor! Essa é a sua última chance!\nTAYLOR\nCerto! Certo!","TAYLOR\nVocê é Marlow, certo?\n\nMARLOW\nSim.\n\nTAYLOR\nEu sou Taylor. Setor executivo da Weyland-Yutani.\n\nMARLOW\nOh, uma figurona, hein? Não é uma garota com problemas de abandono?\n\nTAYLOR\nDeixe a Ripley fora disso. Ela só está buscando respostas. Já eu defendo os interesses da Weyland-Yutani.\n\nMARLOW\nE eu estou tentando sair dessa maldita cela. Talvez possamos fazer um acordo?\n\nTAYLOR\nTalvez. Isso está sendo gravado, entendeu?\n\nMARLOW\nEu vi. A luz vermelha está acesa.\n\nTAYLOR\nEu quero dados. O local do planetoide onde você encontrou a nave abandonada. Todos os dados que tiver sobre a origem daquele organismo.\n\nMARLOW\nEu posso te dar isso. E uma saída dessa estação. Você só tem que me tirar daqui.\n\nTAYLOR\nCreio que posso aceitar esses termos. Barulhos lá fora. O começo de um ataque dos androides. Tiros e gritos.\n\nTAYLOR\nMas que merda?\n\nMARLOW\nTaylor! Taylor, me tire dessa cela! Agora! Me tire daqui! A coisa está ficando feia, Taylor! Essa é a sua última chance!\n\nTAYLOR\nCerto! Certo!"
+AI_UI_MIK_0030,UI.TXT,"Anne, (tosse) me desculpe. Você tinha razão, nunca devia ter vindo. Diga à Beth e Heidi, (tosse) diga que eu as amo mais que tudo. (gemidos de dor) Deus, como isso dói. Eu achei algo, Anne. Não sabia o que era, mas eu achei e agora isso me matou. E está matando todo mundo. Tenho que contar para alguém... tem que existir um registro. Fui tão estúpido, Anne. Deveria ter ficado com você. Eu queria... eu queria... (morre)","Anne, me desculpe. Você tinha razão, nunca devia ter vindo. Diga à Beth e Heidi, diga que eu as amo mais que tudo. Deus, como isso dói. Eu achei algo, Anne. Não sabia o que era, mas eu achei e agora isso me matou. E está matando todo mundo. Tenho que contar para alguém... tem que existir um registro. Fui tão estúpido, Anne. Deveria ter ficado com você. Eu queria... eu queria..."
+AI_UI_MIK_0030A,UI.TXT,"Anne, (tosse) me desculpe. Você tinha razão, nunca devia ter vindo. Diga a Beth e Heidi, (tosse) diga que eu as amo mais que tudo. (gemidos de dor) Deus, como isso dói. Eu achei algo, Anne. Não sei o que era, mas eu achei algo. E isso está matando todo mundo. Eu não consegui fugir a tempo. Tenho que contar para alguém... tem que existir um registro.","Anne, me desculpe. Você tinha razão, nunca devia ter vindo. Diga a Beth e Heidi, diga que eu as amo mais que tudo. Deus, como isso dói. Eu achei algo, Anne. Não sei o que era, mas eu achei algo. E isso está matando todo mundo. Eu não consegui fugir a tempo. Tenho que contar para alguém... tem que existir um registro."
+AI_UI_WAI_2691,UI.TXT,Relatório 9557. Ainda sem sorte com (toc toc) - Ransome. O que você quer?,Relatório 9557. Ainda sem sorte com-\n*(toc toc)*\n- Ransome. O que você quer?
+AI_UI_RAN_5114,UI.TXT,"(suspiro) Não me diga que você não queria uma recompensa pela caixa-preta da Weyland-Yutani. Sim, eu sei que é por isso que você os deixou entrar a bordo. É meio tarde para ter um abalo na consciência agora.","Não me diga que você não queria uma recompensa pela caixa-preta da Weyland-Yutani. Sim, eu sei que é por isso que você os deixou entrar a bordo. É meio tarde para ter um abalo na consciência agora."
+AI_UI_TAY_5634,UI.TXT,Creio que posso aceitar esses termos. (Barulhos lá fora. O começo de um ataque dos androides. Tiros e gritos.),Creio que posso aceitar esses termos.
+A1_CV1_S_IC_C,CV1.TXT,*tosse*,*remover*
+A1_CV1_S_IC_E,CV1.TXT,*tosse seca* *cuspe*,*remover*
+A1_CV1_S_IC_F,CV1.TXT,*suspiro alto/expiração*,*remover*
+A1_CV1_S_IC_G,CV1.TXT,*tosse*,*remover*
+A1_CV1_G_IC_E,CV1.TXT,*pequeno espirro*,*remover*
+A1_CV1_G_IC_G,CV1.TXT,*tosse*,*remover*
+A1_CV1_S_USE_SL_C,CV1.TXT,"*sussurrando* Quem quer que seja, sei que você está aqui.","Quem quer que seja, sei que você está aqui."
+A1_CV1_S_USE_SL_D,CV1.TXT,*sussurrando* Onde você tá?,Onde você tá?
+A1_CV1_DG_A,CV1.TXT,*Sons de morte genéricos*,*remover*
+A1_CV1_DG_B,CV1.TXT,*Sons de morte genéricos*,*remover*
+A1_CV1_DG_C,CV1.TXT,*Sons de morte genéricos*,*remover*
+A1_CV1_DG_D,CV1.TXT,*Sons de morte genéricos*,*remover*
+A1_CV1_DG_E,CV1.TXT,*Sons de morte genéricos*,*remover*
+A1_CV1_DB_A,CV1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV1_DB_B,CV1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV1_DB_C,CV1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV1_DB_D,CV1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV1_DB_E,CV1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV1_DI_A,CV1.TXT,*Atingido por arma branca*,*remover*
+A1_CV1_DI_B,CV1.TXT,*Atingido por arma branca*,*remover*
+A1_CV1_DI_C,CV1.TXT,*Atingido por arma branca*,*remover*
+A1_CV1_DI_D,CV1.TXT,*Atingido por arma branca*,*remover*
+A1_CV1_DI_E,CV1.TXT,*Atingido por arma branca*,*remover*
+A1_CV1_DIN_A,CV1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV1_DIN_B,CV1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV1_DIN_C,CV1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV1_DIN_D,CV1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV1_DIN_E,CV1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV1_DP_A,CV1.TXT,*Tiro*,*remover*
+A1_CV1_DP_B,CV1.TXT,*Tiro*,*remover*
+A1_CV1_DP_C,CV1.TXT,*Tiro*,*remover*
+A1_CV1_DP_D,CV1.TXT,*Tiro*,*remover*
+A1_CV1_DP_E,CV1.TXT,*Tiro*,*remover*
+A1_CV1_Panic_Alien_C,CV1.TXT,*respiração pesada e atemorizada*,*remover*
+A1_CV1_Panic_Alien_F,CV1.TXT,"*ofegante, tentando evitar um ataque de pânico*",*remover*
+A1_CV1_S_SFC_ALI_C,CV1.TXT,*grito de medo*,*remover*
+A1_CV1_S_SFC_ALI_D,CV1.TXT,*outro grito de medo*,*remover*
+A1_CV1_S_SFC_ALI_D_ALT,CV1.TXT,*outro grito de medo*,*remover*
+A1_CV2_S_IC_C,CV2.TXT,"*tosse ofegante* Deus, eu me sinto péssimo.","Deus, eu me sinto péssimo."
+A1_CV2_S_IC_E,CV2.TXT,*tosse gutural*,*remover*
+A1_CV2_G_IC_G,CV2.TXT,*tosse*,*remover*
+A1_CV2_G_IC_H,CV2.TXT,*suspiro longo*,*remover*
+A1_CV2_G_IC_I,CV2.TXT,*assobio desafinado*,*remover*
+A1_CV2_S_USE_SL_D,CV2.TXT,*respiração pesada* Encontre eles. Fique calmo...,Encontre eles. Fique calmo...
+A1_CV2_HBWR_A_ALT,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWR_A,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWR_B_ALT,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWR_B,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWR_C_ALT,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWR_C,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWR_D_ALT,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWR_D,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWE_A_ALT,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWE_A,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWE_B_ALT,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWE_B,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWE_C_ALT,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWE_C,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWE_D_ALT,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_HBWE_D,CV2.TXT,*ferido por arma*,*remover*
+A1_CV2_DG_A,CV2.TXT,*Sons de morte genéricos*,*remover*
+A1_CV2_DG_B,CV2.TXT,*Sons de morte genéricos*,*remover*
+A1_CV2_DG_C,CV2.TXT,*Sons de morte genéricos*,*remover*
+A1_CV2_DG_D,CV2.TXT,*Sons de morte genéricos*,*remover*
+A1_CV2_DG_E,CV2.TXT,*Sons de morte genéricos*,*remover*
+A1_CV2_DB_A,CV2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV2_DB_B,CV2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV2_DB_C,CV2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV2_DB_D,CV2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV2_DB_E,CV2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV2_DI_A,CV2.TXT,*Atingido por arma branca*,*remover*
+A1_CV2_DI_B,CV2.TXT,*Atingido por arma branca*,*remover*
+A1_CV2_DI_C,CV2.TXT,*Atingido por arma branca*,*remover*
+A1_CV2_DI_D,CV2.TXT,*Atingido por arma branca*,*remover*
+A1_CV2_DI_E,CV2.TXT,*Atingido por arma branca*,*remover*
+A1_CV2_DIN_A,CV2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV2_DIN_B,CV2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV2_DIN_C,CV2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV2_DIN_D,CV2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV2_DIN_E,CV2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV2_DP_A,CV2.TXT,*Tiro*,*remover*
+A1_CV2_DP_B,CV2.TXT,*Tiro*,*remover*
+A1_CV2_DP_C,CV2.TXT,*Tiro*,*remover*
+A1_CV2_DP_D,CV2.TXT,*Tiro*,*remover*
+A1_CV2_DP_E,CV2.TXT,*Tiro*,*remover*
+A1_CV2_DEAlien_C,CV2.TXT,*suspiro de susto*,*remover*
+A1_CV2_DEAlien_F,CV2.TXT,*choramingando*,*remover*
+A1_CV2_DEAlien_K,CV2.TXT,*suspiro de susto*,*remover*
+A1_CV2_DEAlien_L,CV2.TXT,*suspiro de susto* Ele... encontrou a gente.,Ele... encontrou a gente.
+A1_CV3_S_IC_B,CV3.TXT,*tosse seca*,*remover*
+A1_CV3_S_IC_F,CV3.TXT,*espirro*,*remover*
+A1_CV3_G_IC_G,CV3.TXT,*tosse*,*remover*
+A1_CV3_G_IC_H,CV3.TXT,*suspiro longo*,*remover*
+A1_CV3_G_IC_I,CV3.TXT,*expiração alta*,*remover*
+A1_CV3_HBWR_A_ALT,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_A,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_B_ALT,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_B_ALT2,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_B,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_C_ALT,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_C_ALT2,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_C,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_D_ALT,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWR_D,CV3.TXT,*Atingido por arma*,*remover*
+A1_CV3_HBWE_A_ALT,CV3.TXT,*Atingido por explosão*,*remover*
+A1_CV3_HBWE_A,CV3.TXT,*Atingido por explosão*,*remover*
+A1_CV3_HBWE_B_ALT,CV3.TXT,*Atingido por explosão*,*remover*
+A1_CV3_HBWE_B,CV3.TXT,*Atingido por explosão*,*remover*
+A1_CV3_HBWE_C_ALT,CV3.TXT,*Atingido por explosão*,*remover*
+A1_CV3_HBWE_C,CV3.TXT,*Atingido por explosão*,*remover*
+A1_CV3_HBWE_D_ALT,CV3.TXT,*Atingido por explosão*,*remover*
+A1_CV3_HBWE_D,CV3.TXT,*Atingido por explosão*,*remover*
+A1_CV3_G_USE_SICE_CA_B,CV3.TXT,*choro de choque/dor*,*remover*
+A1_CV3_DG_A_ALT,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_A,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_B_ALT,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_B,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_C_ALT,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_C,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_D_ALT,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_D,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_E_ALT,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DG_E,CV3.TXT,*Sons de morte genéricos*,*remover*
+A1_CV3_DB_A,CV3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV3_DB_B,CV3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV3_DB_C,CV3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV3_DB_D,CV3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV3_DB_E,CV3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV3_DI_A_ALT2,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_A_ALT,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_A,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_B_ALT2,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_B_ALT,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_B,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_C_ALT3,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_C_ALT,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_C,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_D_ALT3,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_D_ALT,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_D,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_E_ALT3,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_E_ALT,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DI_E,CV3.TXT,*Atingido por arma branca*,*remover*
+A1_CV3_DIN_A,CV3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV3_DIN_B,CV3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV3_DIN_C,CV3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV3_DIN_D,CV3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV3_DIN_E,CV3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV3_DP_A,CV3.TXT,*Tiro*,*remover*
+A1_CV3_DP_A_ALT,CV3.TXT,*Tiro*,*remover*
+A1_CV3_DP_B,CV3.TXT,*Tiro*,*remover*
+A1_CV3_DP_B_ALT,CV3.TXT,*Tiro*,*remover*
+A1_CV3_DP_C,CV3.TXT,*Tiro*,*remover*
+A1_CV3_DP_C_ALT,CV3.TXT,*Tiro*,*remover*
+A1_CV3_DP_D,CV3.TXT,*Tiro*,*remover*
+A1_CV3_DP_D_ALT,CV3.TXT,*Tiro*,*remover*
+A1_CV3_DP_E,CV3.TXT,*Tiro*,*remover*
+A1_CV3_Panic_Alien_E,CV3.TXT,*respiração pesada*,*remover*
+A1_CV3_Panic_Alien_F,CV3.TXT,*choramingando*,*remover*
+A1_CV4_S_IC_E_ALT,CV4.TXT,*tosse*,*remover*
+A1_CV4_S_IC_E_ALT2,CV4.TXT,*tosse*,*remover*
+A1_CV4_S_IC_E_ALT3,CV4.TXT,*tosse*,*remover*
+A1_CV4_S_IC_E,CV4.TXT,*tosse*,*remover*
+A1_CV4_S_IC_F,CV4.TXT,*soluços*,*remover*
+A1_CV4_G_IC_G,CV4.TXT,*expiração alta*,*remover*
+A1_CV4_G_IC_H,CV4.TXT,*tosse seca*,*remover*
+A1_CV4_G_IC_I,CV4.TXT,*suspiro alto*,*remover*
+A1_CV4_HBWR_A,CV4.TXT,*Atingido por uma arma*,*remover*
+A1_CV4_HBWR_B,CV4.TXT,*Atingido por uma arma*,*remover*
+A1_CV4_HBWR_C,CV4.TXT,*Atingido por uma arma*,*remover*
+A1_CV4_HBWR_D,CV4.TXT,*Atingido por uma arma*,*remover*
+A1_CV4_HBWE_A,CV4.TXT,*Atingido por uma explosão*,*remover*
+A1_CV4_HBWE_B,CV4.TXT,*Atingido por uma explosão*,*remover*
+A1_CV4_HBWE_C,CV4.TXT,*Atingido por uma explosão*,*remover*
+A1_CV4_HBWE_D,CV4.TXT,*Atingido por uma explosão*,*remover*
+A1_CV4_G_USE_SICE_CA_B,CV4.TXT,*choro de choque/dor*,*remover*
+A1_CV4_DG_A,CV4.TXT,*Sons de morte genéricos*,*remover*
+A1_CV4_DG_B,CV4.TXT,*Sons de morte genéricos*,*remover*
+A1_CV4_DG_C,CV4.TXT,*Sons de morte genéricos*,*remover*
+A1_CV4_DG_D,CV4.TXT,*Sons de morte genéricos*,*remover*
+A1_CV4_DG_E,CV4.TXT,*Sons de morte genéricos*,*remover*
+A1_CV4_DB_A,CV4.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV4_DB_B,CV4.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV4_DB_C,CV4.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV4_DB_D,CV4.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV4_DB_E,CV4.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV4_DI_A,CV4.TXT,*Atingido por arma branca*,*remover*
+A1_CV4_DI_B,CV4.TXT,*Atingido por arma branca*,*remover*
+A1_CV4_DI_C,CV4.TXT,*Atingido por arma branca*,*remover*
+A1_CV4_DI_D,CV4.TXT,*Atingido por arma branca*,*remover*
+A1_CV4_DI_E,CV4.TXT,*Atingido por arma branca*,*remover*
+A1_CV4_DIN_A,CV4.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV4_DIN_B,CV4.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV4_DIN_C,CV4.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV4_DIN_D,CV4.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV4_DIN_E,CV4.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV4_DP_A,CV4.TXT,*Tiro*,*remover*
+A1_CV4_DP_B,CV4.TXT,*Tiro*,*remover*
+A1_CV4_DP_C,CV4.TXT,*Tiro*,*remover*
+A1_CV4_DP_D,CV4.TXT,*Tiro*,*remover*
+A1_CV4_DP_E,CV4.TXT,*Tiro*,*remover*
+A1_CV4_DEAlien_A,CV4.TXT,*grito*,*remover*
+A1_CV4_DEAlien_C,CV4.TXT,*grito*,*remover*
+A1_CV4_DEAlien_I,CV4.TXT,*grito* Não!,Não!
+A1_CV4_DEAlien_J,CV4.TXT,"*choramingando* Oh, Deus. Me desculpe.","Oh, Deus. Me desculpe."
+A1_CV4_Panic_Alien_A,CV4.TXT,*choramingando*,*remover*
+A1_CV4_Panic_Alien_B,CV4.TXT,*soluços incontroláveis*,*remover*
+A1_CV4_S_SFC_ALI_B,CV4.TXT,*soluços incontroláveis*,*remover*
+A1_CV4_S_SFC_ALI_C,CV4.TXT,*gritos de medo/raiva*,*remover*
+A1_CV5_S_IC_C,CV5.TXT,*tosse*,*remover*
+A1_CV5_S_IC_E,CV5.TXT,*espirro*,*remover*
+A1_CV5_S_IC_F,CV5.TXT,*suspiro*,*remover*
+A1_CV5_G_IC_G,CV5.TXT,*suspiro longo*,*remover*
+A1_CV5_G_IC_H,CV5.TXT,*tosse seca*,*remover*
+A1_CV5_G_IC_I,CV5.TXT,*expiração alta*,*remover*
+A1_CV5_DG_A,CV5.TXT,*Sons de morte genéricos*,*remover*
+A1_CV5_DG_B,CV5.TXT,*Sons de morte genéricos*,*remover*
+A1_CV5_DG_C,CV5.TXT,*Sons de morte genéricos*,*remover*
+A1_CV5_DG_D,CV5.TXT,*Sons de morte genéricos*,*remover*
+A1_CV5_DG_E,CV5.TXT,*Sons de morte genéricos*,*remover*
+A1_CV5_DB_A,CV5.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV5_DB_B,CV5.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV5_DB_C,CV5.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV5_DB_D,CV5.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV5_DB_E,CV5.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV5_DI_A,CV5.TXT,*Atingido por arma branca*,*remover*
+A1_CV5_DI_B,CV5.TXT,*Atingido por arma branca*,*remover*
+A1_CV5_DI_C,CV5.TXT,*Atingido por arma branca*,*remover*
+A1_CV5_DI_D,CV5.TXT,*Atingido por arma branca*,*remover*
+A1_CV5_DI_E,CV5.TXT,*Atingido por arma branca*,*remover*
+A1_CV5_DIN_A,CV5.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV5_DIN_B,CV5.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV5_DIN_C,CV5.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV5_DIN_D,CV5.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV5_DIN_E,CV5.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV5_DP_A,CV5.TXT,*Tiro*,*remover*
+A1_CV5_DP_B,CV5.TXT,*Tiro*,*remover*
+A1_CV5_DP_C,CV5.TXT,*Tiro*,*remover*
+A1_CV5_DP_D,CV5.TXT,*Tiro*,*remover*
+A1_CV5_DP_E,CV5.TXT,*Tiro*,*remover*
+A1_CV5_DEAlien_C,CV5.TXT,*grito*,*remover*
+A1_CV5_DEAlien_D,CV5.TXT,*choramingando* *grito*,*remover*
+A1_CV5_Panic_Alien_B,CV5.TXT,*choramingando*,*remover*
+A1_CV5_Panic_Alien_C,CV5.TXT,*soluços incontroláveis*,*remover*
+A1_CV6_S_IC_A,CV6.TXT,*tosses*,*remover*
+A1_CV6_S_IC_E,CV6.TXT,*espirro*,*remover*
+A1_CV6_S_IC_F,CV6.TXT,*suspiro longo*,*remover*
+A1_CV6_G_IC_G,CV6.TXT,*expiração alta*,*remover*
+A1_CV6_G_IC_H,CV6.TXT,*limpa a garganta*,*remover*
+A1_CV6_G_IC_I,CV6.TXT,*suspiro*,*remover*
+A1_CV6_G_SFC_ALI_E,CV6.TXT,*grito de medo*,*remover*
+A1_CV6_G_SFC_ALI_F_ALT2,CV6.TXT,Por favor. *soluço* Não.,Por favor... Não...
+A1_CV6_G_SFC_ALI_F_ALT,CV6.TXT,Por favor. *soluço* Não.,Por favor... Não...
+A1_CV6_G_SFC_ALI_F,CV6.TXT,Por favor. *soluço* Não.,Por favor... Não...
+A1_CV6_DG_A,CV6.TXT,*Sons de morte genéricos*,*remover*
+A1_CV6_DG_B,CV6.TXT,*Sons de morte genéricos*,*remover*
+A1_CV6_DG_C,CV6.TXT,*Sons de morte genéricos*,*remover*
+A1_CV6_DG_D,CV6.TXT,*Sons de morte genéricos*,*remover*
+A1_CV6_DG_E,CV6.TXT,*Sons de morte genéricos*,*remover*
+A1_CV6_DB_A,CV6.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV6_DB_B,CV6.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV6_DB_C,CV6.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV6_DB_D,CV6.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV6_DB_E,CV6.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_CV6_DI_A,CV6.TXT,*Atingido por arma branca*,*remover*
+A1_CV6_DI_B,CV6.TXT,*Atingido por arma branca*,*remover*
+A1_CV6_DI_C,CV6.TXT,*Atingido por arma branca*,*remover*
+A1_CV6_DI_D,CV6.TXT,*Atingido por arma branca*,*remover*
+A1_CV6_DI_E,CV6.TXT,*Atingido por arma branca*,*remover*
+A1_CV6_DIN_A,CV6.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV6_DIN_B,CV6.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV6_DIN_C,CV6.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV6_DIN_D,CV6.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV6_DIN_E,CV6.TXT,*Morte dolorosa por fogo*,*remover*
+A1_CV6_DP_A,CV6.TXT,*Tiro*,*remover*
+A1_CV6_DP_B,CV6.TXT,*Tiro*,*remover*
+A1_CV6_DP_C,CV6.TXT,*Tiro*,*remover*
+A1_CV6_DP_D,CV6.TXT,*Tiro*,*remover*
+A1_CV6_DP_E,CV6.TXT,*Tiro*,*remover*
+A1_CV6_DEAlien_E,CV6.TXT,*Suspiro de alarme*,*remover*
+A1_CV6_DEAlien_I,CV6.TXT,*Suspiro de pânico*,*remover*
+A1_CV6_DEAlien_BS_C,CV6.TXT,*choramingando*,*remover*
+A1_CV6_Panic_Alien_B,CV6.TXT,*ofegante de medo*,*remover*
+A1_CV6_Panic_Alien_C,CV6.TXT,*grito*,*remover*
+A1_CV6_S_SFC_ALI_D_ALT,CV6.TXT,*lutando para respirar*,*remover*
+A1_CV6_S_SFC_ALI_D,CV6.TXT,*lutando para respirar*,*remover*
+A1_G0002_AN1_IC_0,G0002.TXT,*Testes de tom*,*remover*
+A1_G0002_AN2_IC_0,G0002.TXT,*Testes de tom*,*remover*
+A1_G0002_AN3_IC_0,G0002.TXT,*Testes de tom*,*remover*
+A1_G0002_ANH_IC_0,G0002.TXT,*Testes de tom*,*remover*
+A1_M0401_AXE_8628,M0401.TXT,*Golpeado por trás*,*remover*
+A1_M0401_AXE_9868,M0401.TXT,*Gemido confuso*,*remover*
+A1_M1404_RIP_6113,M1404.TXT,*Esforço*,*remover*
+A1_M1404_RIP_4586,M1404.TXT,*Esforço*,*remover*
+A1_M1404_RIP_6113_ALT,M1404.TXT,*Esforço*,*remover*
+A1_M2101_RIC_4653,M2101.TXT,*risos*,*remover*
+A1_SS1_S_IC_C,SS1.TXT,*tosse*,*remover*
+A1_SS1_S_IC_E,SS1.TXT,*tosse seca* *cuspe*,*remover*
+A1_SS1_S_IC_F,SS1.TXT,*suspiro alto/expiração*,*remover*
+A1_SS1_S_IC_G,SS1.TXT,*tosse*,*remover*
+A1_SS1_G_IC_E,SS1.TXT,*pequeno espirro*,*remover*
+A1_SS1_G_IC_G,SS1.TXT,*tosse*,*remover*
+A1_SS1_S_USE_SL_C,SS1.TXT,"*sussurrando* Quem quer que seja, sei que você está aqui.","Quem quer que seja, sei que você está aqui."
+A1_SS1_S_USE_SL_D,SS1.TXT,*sussurrando* Onde diabos você está?,Onde diabos você está?
+A1_SS1_DG_A,SS1.TXT,*Sons de morte genéricos*,*remover*
+A1_SS1_DG_B,SS1.TXT,*Sons de morte genéricos*,*remover*
+A1_SS1_DG_C,SS1.TXT,*Sons de morte genéricos*,*remover*
+A1_SS1_DG_D,SS1.TXT,*Sons de morte genéricos*,*remover*
+A1_SS1_DG_E,SS1.TXT,*Sons de morte genéricos*,*remover*
+A1_SS1_DB_A,SS1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS1_DB_B,SS1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS1_DB_C,SS1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS1_DB_D,SS1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS1_DB_E,SS1.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS1_DI_A,SS1.TXT,*Atingido por arma branca*,*remover*
+A1_SS1_DI_B,SS1.TXT,*Atingido por arma branca*,*remover*
+A1_SS1_DI_C,SS1.TXT,*Atingido por arma branca*,*remover*
+A1_SS1_DI_D,SS1.TXT,*Atingido por arma branca*,*remover*
+A1_SS1_DI_E,SS1.TXT,*Atingido por arma branca*,*remover*
+A1_SS1_DIN_A,SS1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS1_DIN_B,SS1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS1_DIN_C,SS1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS1_DIN_D,SS1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS1_DIN_E,SS1.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS1_DP_A,SS1.TXT,*Tiro*,*remover*
+A1_SS1_DP_B,SS1.TXT,*Tiro*,*remover*
+A1_SS1_DP_C,SS1.TXT,*Tiro*,*remover*
+A1_SS1_DP_D,SS1.TXT,*Tiro*,*remover*
+A1_SS1_DP_E,SS1.TXT,*Tiro*,*remover*
+A1_SS1_Panic_Alien_C,SS1.TXT,*respiração pesada e aterrorizada*,*remover*
+A1_SS1_Panic_Alien_F,SS1.TXT,"*ofegante, tentando evitar um ataque de pânico*",
+A1_SS1_S_SFC_ALI_B,SS1.TXT,Nããoo!,Nãooo!
+A1_SS1_S_SFC_ALI_C,SS1.TXT,*grito de medo*,*remover*
+A1_SS1_S_SFC_ALI_C_ALT,SS1.TXT,*grito de medo*,*remover*
+A1_SS1_S_SFC_ALI_D,SS1.TXT,*outro grito de medo*,*remover*
+A1_SS1_S_SFC_ALI_D_ALT,SS1.TXT,*outro grito de medo*,*remover*
+A1_SS2_S_IC_B,SS2.TXT,*tosse seca*,*remover*
+A1_SS2_S_IC_E,SS2.TXT,*tosse gutural*,*remover*
+A1_SS2_G_IC_G,SS2.TXT,*tosse*,*remover*
+A1_SS2_S_USE_SL_D,SS2.TXT,*respiração pesada* Encontre eles. Fique calmo...,Encontre eles. Fique calmo...
+A1_SS2_SS2_9068,SS2.TXT,*Atingido por arma*,*remover*
+A1_SS2_SS2_3163,SS2.TXT,*Atingido por arma*,*remover*
+A1_SS2_SS2_1512,SS2.TXT,*Atingido por arma*,*remover*
+A1_SS2_SS2_5510,SS2.TXT,*Atingido por arma*,*remover*
+A1_SS2_SS2_5914,SS2.TXT,*Atingido por explosão*,*remover*
+A1_SS2_SS2_1920,SS2.TXT,*Atingido por explosão*,*remover*
+A1_SS2_SS2_9232,SS2.TXT,*Atingido por explosão*,*remover*
+A1_SS2_SS2_2626,SS2.TXT,*Atingido por explosão*,*remover*
+A1_SS2_DG_A,SS2.TXT,*Sons de morte genéricos*,*remover*
+A1_SS2_DG_B,SS2.TXT,*Sons de morte genéricos*,*remover*
+A1_SS2_DG_C,SS2.TXT,*Sons de morte genéricos*,*remover*
+A1_SS2_DG_D,SS2.TXT,*Sons de morte genéricos*,*remover*
+A1_SS2_DG_E,SS2.TXT,*Sons de morte genéricos*,*remover*
+A1_SS2_DB_A,SS2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS2_DB_B,SS2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS2_DB_C,SS2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS2_DB_D,SS2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS2_DB_E,SS2.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS2_DI_A,SS2.TXT,*Atingido por arma branca*,*remover*
+A1_SS2_DI_B,SS2.TXT,*Atingido por arma branca*,*remover*
+A1_SS2_DI_C,SS2.TXT,*Atingido por arma branca*,*remover*
+A1_SS2_DI_D,SS2.TXT,*Atingido por arma branca*,*remover*
+A1_SS2_DI_E,SS2.TXT,*Atingido por arma branca*,*remover*
+A1_SS2_DIN_A,SS2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS2_DIN_B,SS2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS2_DIN_C,SS2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS2_DIN_D,SS2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS2_DIN_E,SS2.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS2_DP_A,SS2.TXT,*Tiro*,*remover*
+A1_SS2_DP_B,SS2.TXT,*Tiro*,*remover*
+A1_SS2_DP_C,SS2.TXT,*Tiro*,*remover*
+A1_SS2_DP_D,SS2.TXT,*Tiro*,*remover*
+A1_SS2_DP_E,SS2.TXT,*Tiro*,*remover*
+A1_SS2_DEAlien_C,SS2.TXT,*suspiro de susto*,*remover*
+A1_SS2_DEAlien_F,SS2.TXT,*choramingando*,*remover*
+A1_SS2_DEAlien_K,SS2.TXT,*suspiro de susto*,*remover*
+A1_SS2_DEAlien_L,SS2.TXT,*suspiro de susto* Ele... encontrou a gente.,Ele... encontrou a gente.
+A1_SS3_S_IC_C,SS3.TXT,*tosse*,*remover*
+A1_SS3_S_IC_F,SS3.TXT,*espirro*,*remover*
+A1_SS3_DG_A,SS3.TXT,*Sons de morte genéricos*,*remover*
+A1_SS3_DG_B,SS3.TXT,*Sons de morte genéricos*,*remover*
+A1_SS3_DG_C,SS3.TXT,*Sons de morte genéricos*,*remover*
+A1_SS3_DG_D,SS3.TXT,*Sons de morte genéricos*,*remover*
+A1_SS3_DG_E,SS3.TXT,*Sons de morte genéricos*,*remover*
+A1_SS3_DB_A,SS3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS3_DB_B,SS3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS3_DB_C,SS3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS3_DB_D,SS3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS3_DB_E,SS3.TXT,*Cego pelo brilho da luz/fumaça*,*remover*
+A1_SS3_DI_A,SS3.TXT,*Atingido por arma branca*,*remover*
+A1_SS3_DI_B,SS3.TXT,*Atingido por arma branca*,*remover*
+A1_SS3_DI_C,SS3.TXT,*Atingido por arma branca*,*remover*
+A1_SS3_DI_D,SS3.TXT,*Atingido por arma branca*,*remover*
+A1_SS3_DI_E,SS3.TXT,*Atingido por arma branca*,*remover*
+A1_SS3_DIN_A,SS3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS3_DIN_B,SS3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS3_DIN_C,SS3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS3_DIN_D,SS3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS3_DIN_E,SS3.TXT,*Morte dolorosa por fogo*,*remover*
+A1_SS3_DP_A,SS3.TXT,*Tiro*,*remover*
+A1_SS3_DP_B,SS3.TXT,*Tiro*,*remover*
+A1_SS3_DP_C,SS3.TXT,*Tiro*,*remover*
+A1_SS3_DP_D,SS3.TXT,*Tiro*,*remover*
+A1_SS3_DP_E,SS3.TXT,*Tiro*,*remover*
+A1_SS3_Panic_Alien_E,SS3.TXT,*respiração pesada*,*remover*
+A1_SS3_Panic_Alien_F,SS3.TXT,*choramingando*,*remover*
+A1_CUTSCENES_SAM_C1500_0009,CUTSCENES.TXT,"Ripley, espera aí! Uma.. criatura?","Ripley, espera aí! Uma... criatura?"
+A1_CV2_G_SFC_ALI_D,CV2.TXT,O.. O que é isso?,O... O que é isso?
+A1_CV6_S_SE_DSL_B,CV6.TXT,Não foi a minha imaginação..,Não foi a minha imaginação...
+A1_M1602_RIC_1289,M1602.TXT,N-não.. Não,N-não... Não
+A1_P0002_LAM_7076,P0002.TXT,Eu.. Eu não consigo me mexer... eu... eu não consigo,Eu... Eu não consigo me mexer... Eu... Eu não consigo
+A1_P0002_LAM_7076_ALTO1,P0002.TXT,Eu.. Eu não consigo me mexer... eu... eu não consigo,Eu... Eu não consigo me mexer... Eu... Eu não consigo
+A1_CUTSCENES_WAI_1372,CUTSCENES.TXT,...,*remover*
+A1_CV3_HBWB_A_ALT,CV3.TXT,...,*remover*
+A1_CV3_HBWB_A_ALT2,CV3.TXT,...,*remover*
+A1_CV5_DEAlien_B_ALT,CV5.TXT,...,*remover*
+A1_CUTSCENES_WAI_1371,CUTSCENES.TXT,"(Ruído)...Waits, Deputado Federal Colonial...(ruído)...Estação de Sevastopol... (ruído)... Situação complicada...(ruído)","...Waits, Delegado Federal Colonial... Estação de Sevastopol... Situação complicada..."
+A1_CUTSCENES_VER_C0800_0023,CUTSCENES.TXT,"Alô? Delegado? D-delegado, aqui é a Torrens. Pode repetir.","Alô? Delegado? D-delegado, aqui é a Torrens. Pode repetir?"
+A1_CUTSCENES_WAI_1372,CUTSCENES.TXT,...,...Peça ajuda... Torrens... Estamos tentando controlar...
 A1_M0401_AXE_1096,M0401.TXT,"Vamos, meu amor. A Seegson Comunicações fica na Torre SysTech. É meio longe, mas podemos chegar a um transporte pela área de Frete.\n(pausa)\nMas tenha cuidado. Podemos enfrentar vários tipos de problemas lá. Certo?","Vamos, meu amor. A Seegson Comunicações fica na Torre SysTech. É meio longe, mas podemos chegar a um transporte pela área de Frete.\nMas tenha cuidado. Podemos enfrentar vários tipos de problemas lá. Certo?"
 A1_M0401_CV5_1381,M0401.TXT,Me - me desculpe. Boa sorte.,Me-me desculpe. Boa sorte.
 A1_M0401_RIP_9611,M0401.TXT,Que diabo foi aquilo? Por que você foi tão agressivo?,O que foi aquilo? Por que você foi tão agressivo?
@@ -24,9 +771,6 @@ A1_M0401_AXE_1406,M0401.TXT,"Torrens é o nome da sua nave, hein?","Torrens é o
 A1_M0401_CV2_0998,M0401.TXT,Chefe? Ele é uma droga de balconista.,Chefe? Ela é uma droga de balconista.
 A1_M0401_CV2_1010,M0401.TXT,"Olha, eu só tó dizendo quê...","Olha, eu só tó dizendo que..."
 A1_M0401_AXE_3352,M0401.TXT,Me siga.,Me segue.
-A1_M0401_AXE_8628,M0401.TXT,*Golpeado por trás*,*remover*
-A1_M0401_AXE_9868,M0401.TXT,*Gemido confuso*,*remover*
-A1_CUTSCENES_AXE_C1200_0014,CUTSCENES.TXT,[som balbuciante],*remover*
 AI_UI_CHI_0002,UI.TXT,"Mensagem para o Delegado Federal Waits. Aqui é o Chefe do Suporte Técnico. Olha, não tem nada nesta caixa-preta, Waits. Nós violamos sabe-se lá quantos acordos de confidencialidade e não conseguimos nada... nada além do logotipo da Weyland-Yutani e nada no leitor. Veja, essas coisas são projetadas para durar. Então, ou alguém a bordo da 'Nostromo' pediu que o núcleo-MÃE apagasse os dados ou eles foram corrompidos antes de chegar aqui. Você pode me dizer por que este trabalho era prioridade?","Mensagem para o Delegado Federal Waits. Aqui é o Chefe do Suporte Técnico. Olha, não tem nada nesta caixa-preta, Waits. Nós violamos sabe-se lá quantos acordos de confidencialidade e não conseguimos nada... nada além do logotipo da Weyland-Yutani e nada no leitor. Veja, essas coisas são projetadas para durar. Então, ou alguém a bordo da 'Nostromo' pediu que o núcleo-MÃE apagasse ou os dados foram corrompidos antes de chegar aqui. Você pode me dizer por que este trabalho era prioridade?"
 A1_M0701_RIP_0170,M0701.TXT,É uma emergência! Você não vê o que tá acontecendo?,É uma emergência! Você não vê o que tá acontecendo?!
 A1_M0701_VER_5927,M0701.TXT,"Aqui é Verlaine, da Torrens. Que diabos aconteceu? Sevastopol? Alguém da nossa equipe em trajes espaciais chegou a bordo? Por favor, responda. Sofremos danos com a explosão e vamos sair do espaço da Sevastopol. Os sistemas cairão durante os reparos. Não sei dizer por quanto... (estática)","Aqui é Verlaine, da Torrens. Que diabos aconteceu? Sevastopol? Alguém da nossa equipe em trajes espaciais chegou a bordo? Por favor, responda. Sofremos danos com a explosão e vamos sair do espaço da Sevastopol. Os sistemas cairão durante os reparos. Não sei dizer por quanto-"
@@ -56,7 +800,6 @@ A1_M1301_MEE_9761,M1301.TXT,(dá risada com a resposta da Foster),Ha ha ha ha!
 A1_M1301_MAR_4212,M1301.TXT,O seu palpite vale tanto quanto o meu. E eu achei que você adorava esse tipo de coisa?,O seu palpite vale tanto quanto o meu. Achei que você adorava esse tipo de coisa.
 A1_M1301_HEY_1955,M1301.TXT,Marlow? Os explosivos não vão destruir isso.,Marlow?! Os explosivos não vão destruir isso.
 A1_M1301_MAR_4038,M1301.TXT,Vou precisar de uma carona.,Precisarei de uma carona.
-A1_M1301_MAR_0935,M1301.TXT,(respiração pesada),*remover*
 A1_M1302_MAR_0110,M1302.TXT,Cuidado com o que toca. Não quero danificar nada.,Cuidado com o que toca. Eu não quero danificar nada.
 A1_M1302_FOS_2990,M1302.TXT,Quantos anos você acha que isso tem?,Que demais! Quantos anos você acha que isso tem?
 A1_M1302_MEE_0140,M1302.TXT,"Então, isto seria uma nave.",Então isso seria uma nave.
@@ -88,8 +831,7 @@ A1_M1602_WAI_4178,M1602.TXT,Eu não sei o que é isso. Eles não estão responde
 A1_M1602_WAI_5430,M1602.TXT,Tudo e todos.,Por tudo e todos.
 A1_M1602_WAI_7419,M1602.TXT,seus desgraçados... (mais barulhos horríveis e um grito terrível e transtornado dele ao morrer),Seus desgraçados...
 A1_M1602_RIC_1289,M1602.TXT,N-não.. Não,N-não... Não
-A1_M1602_RIP_9669,M1602.TXT,"Ricardo, preciso que faça isso. Você pode operar a estação e me manter informada?\n(pausa)\nRicardo?","Ricardo, preciso que faça isso. Você pode operar a estação e me manter informada?
-Ricardo?"
+A1_M1602_RIP_9669,M1602.TXT,"Ricardo, preciso que faça isso. Você pode operar a estação e me manter informada?\n(pausa)\nRicardo?","Ricardo, preciso que faça isso. Você pode operar a estação e me manter informada?\nRicardo?"
 A1_M2101_RIC_5838,M2101.TXT,"Vejo atividade nos terminais dos níveis superiores dos Sintéticos Seegson. (pausa) Rip, eu não sei se consigo fazer isso.","Vejo atividade nos terminais dos níveis superiores dos Sintéticos Seegson. Rip, eu não sei se eu consigo fazer isso."
 A1_M2101_RIP_3471,M2101.TXT,"Ricardo, preciso que se concentre. Você está no comando, agora.","Ricardo, preciso que se concentre. Você está no comando agora."
 AI_UI_PAR_0010,UI.TXT,"Ripley me pediu pra registrar um relatório sobre o que aconteceu com o cabo umbilical quando nós conectamos com a refinaria. Vou dizer o que aconteceu: eu e Brett,  estamos segurando este lugar com as próprias mãos. Você imaginaria que milhões de toneladas de minérios fossem o bastante para trazer alguém do convés superior, alguém que vai receber uma participação, aqui com a gente. Apenas para conferir o que precisamos. Você quer sair do sistema dentro do prazo da próxima vez? Coloque a Nostromo em doca seca por um mês, espere até que a gente termine o serviço e pague o que nos é devido. Parker desligando.","Ripley me pediu pra registrar um relatório sobre o que aconteceu com o cabo umbilical quando nós conectamos com a refinaria. Vou dizer o que aconteceu: eu e Brett estamos segurando este lugar com as próprias mãos. Você imaginaria que milhões de toneladas de minérios fossem o bastante para trazer alguém do convés superior, alguém que vai receber uma participação, aqui com a gente. Apenas para conferir o que precisamos. Você quer sair do sistema dentro do prazo da próxima vez? Coloque a Nostromo em doca seca por um mês, espere até que a gente termine o serviço e pague o que nos é devido. Parker desligando."
@@ -99,8 +841,7 @@ A1_M2102_SAM_0965,M2102.TXT,Eu preciso ter acesso ao APOLLO. Abra o transporte d
 A1_M2102_SAM_0975,M2102.TXT,Certo. Tenho que achar um jeito de conversar diretamente com o APOLLO.,Certo. Tenho que achar um jeito de conversar direto com o APOLLO.
 A1_M2102_SAM_5714,M2102.TXT,"O APOLLO está tentando impedir a minha interação! [pausa] Oh, não, Amanda! Você precisa desconectar os sistemas manualmente! Por favor!","O APOLLO está tentando impedir a minha interação! Oh, não, Amanda! Você precisa desconectar os sistemas manualmente! Por favor!"
 A1_M2102_RIP_2661,M2102.TXT,Jesus! Samuels! Eu vou tentar!,"Jesus, Samuels! Eu vou tentar!"
-A1_M2102_SAM_4902,M2102.TXT,"ESPERE! Você precisa fazer isso na ordem correta ou o efeito cascata será fatal para mim. Estou acessando os diagramas da Seegson. (pausa curta) Primeiro, remova o cabo vermelho.","ESPERE! Você precisa fazer isso na ordem correta ou o efeito cascata será fatal para mim. Estou acessando os diagramas da Seegson.
-Primeiro, remova o cabo vermelho."
+A1_M2102_SAM_4902,M2102.TXT,"ESPERE! Você precisa fazer isso na ordem correta ou o efeito cascata será fatal para mim. Estou acessando os diagramas da Seegson. (pausa curta) Primeiro, remova o cabo vermelho.","ESPERE! Você precisa fazer isso na ordem correta ou o efeito cascata será fatal para mim. Estou acessando os diagramas da Seegson.\nPrimeiro, remova o cabo vermelho."
 A1_M2102_SAM_8271,M2102.TXT,"Só falta o último agora, Ripley.","Agora, só falta o último, Ripley."
 A1_M2102_RIP_9486,M2102.TXT,Samuels.,Samuels...
 A1_M2102_SAM_2225,M2102.TXT,Eu queria que a Amanda Ripley tivesse as respostas...,Eu queria que Amanda Ripley tivesse as respostas...
@@ -145,16 +886,11 @@ A1_M3001_VER_7582,M3001.TXT,"Eu vi uma plataforma de reboque abaixo do terminal 
 A1_M3001_VER_4656,M3001.TXT,Você vai ter que estender as pinças da plataforma de reboque na estação.,Você terá que estender as pinças da plataforma de reboque na estação.
 A1_M3001_RIP_2707,M3001.TXT,Ricardo? Responda?,Ricardo? Responda.
 A1_M3201_VER_2719,M3201.TXT,"Torrens para Ripley. Ripley, estamos prestes a entrar em posição para a sequência de acoplagem do cabo umbilical. Vai ficar escuro nas Comunicações até atingirmos a órbita decadente da estação e entrarmos em posição. Estamos só esperando você para estender as pinças da plataforma de reboque. Não sei como você me convenceu a isso.",Torrens para Ripley. Estamos prestes a entrar em posição para a sequência de acoplagem do cabo umbilical. Vai ficar escuro nas Comunicações até atingirmos a órbita da estação e entrarmos em posição. Estamos esperando você para estender as pinças do reboque. Não sei como me convenceu a isso.
-A1_M3201_SGF_1094,M3201.TXT,Falha do Estabilizador Orbital. Abandonar estação. Abandonar estação.,*remover*
-A1_M3201_SGF_7334,M3201.TXT,Emergência. Vá para o seu ponto de retirada designado e aguarde pelo seu guarda de emergência sintético.,*remover*
-A1_M3201_SGF_8721,M3201.TXT,Evacuar estação. Isso não é um treino.,*remover*
-A1_M3201_SGF_1334,M3201.TXT,"Depois da retirada, NÃO volte para a estação até receber ordens nesse sentido pelo Diretor de Emergência Orbital.",*remover*
 AI_UI_SIN_0050,UI.TXT,"Testamento de um idiota qualquer com quem você não se importa. Não conseguimos mantê-los do lado de fora. Minha esposa morreu. Meus filhos foram levados. Tentei, mas não consegui impedi-los. Eles quebraram nossas defesas. Tem... tem tanto sangue em minhas mãos. Isto é para a equipe de resgate, para a Seegson ou... sei lá... quem quer que tenha que limpar esta bagunça. Nós resistimos aqui o máximo que pudemos. Vocês não chegaram a tempo. Vocês fracassaram. Apenas mandem os marines ou detonem este lugar. Mandem essas criaturas de volta para o inferno.","Testamento de um idiota qualquer com quem você não se importa. Não conseguimos mantê-los do lado de fora. Minha esposa morreu. Meus filhos foram levados. Tentei, mas não consegui impedi-los. Eles quebraram nossas defesas. Tem... tem tanto sangue nas minhas mãos. Isto é para a equipe de resgate, para a Seegson ou... sei lá... quem quer que tenha que limpar essa bagunça. Nós resistimos aqui o máximo que pudemos. Vocês não chegaram a tempo. Vocês fracassaram. Apenas mandem os marines ou detonem este lugar. Mandem essas criaturas de volta para o inferno."
 A1_M3301_RIP_0020,M3301.TXT,Verlaine! Tá me ouvindo? Você tá perto o bastante pra contato de rádio? Eu tó aqui!,Verlaine! Tá me ouvindo? Você tá perto o bastante pra contato de rádio? Eu tô aqui!
 A1_M3301_VER_0025,M3301.TXT,"Ripley, graças a Deus! Preciso que você prepare os sistemas hidráulicos e de orientação para a acoplagem!","Ripley, graças a Deus, eu te ouço! Preciso que você prepare os sistemas hidráulicos e de orientação para a acoplagem."
 A1_M3301_RIP_9693,M3301.TXT,"Merda! Verlaine, o cabo umbilical\nfoi removido. Já era.","Merda! Verlaine, o cabo umbilical foi removido. Já era."
 A1_M3301_VER_9232,M3301.TXT,"Cuidado, Ripley.","Tenha cuidado, Ripley!"
-A1_M3301_RIP_0305,M3301.TXT,(Ruído de esforço quando ela corre),*remover*
 A1_M3301_VER_7536,M3301.TXT,Existem dois mecanismos de preparação para destravar o desengate manual.,Existem dois mecanismos pra destravar o desengate manual.
 A1_M3301_RIP_1576,M3301.TXT,Estou vendo.,Tô vendo.
 A1_M3401_RIP_5995,M3401.TXT,Verlaine? Estou a caminho da ponte de comando.,Verlaine? Tô a caminho da ponte de comando.
