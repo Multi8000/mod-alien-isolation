@@ -22,7 +22,7 @@ class Convert():
         #self.output_path = ''
 
 
-    def convert_to_ogg(self, input_path):
+    def convert_to_ogg(self, input_path: str) -> None:
         # Get the folder name from input_path and create the output_path
         # Example: 'src/temp/extracted/UI' turns 'src/temp/converted/UI'
         output_path = f'src/temp/converted/{Path(input_path).stem}'
@@ -46,7 +46,7 @@ class Convert():
                 revorb_output = run(args = revorb_script, stderr = PIPE)
 
 
-    def convert_to_wav(self, input_path):
+    def convert_to_wav(self, input_path: str) -> None:
         output_path = f'src/temp/converted/{Path(input_path).stem}'
 
         files_list = [file for file in Path(input_path).glob('*.ogg') if file.is_file()]
