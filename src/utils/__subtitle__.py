@@ -3,37 +3,123 @@ This script will do all subtitle corrections
 
 """
 
-import pandas
+from typing import Union, List
 from pathlib import Path
 import re
 
-from __utils__ import replace_word
+
+def replace_word(replacements: dict[str, str]) -> None:
+    """
+    Input:
+    ------
+    dict = {
+        'old_word': 'new_word'
+    }
+
+    Example:
+    --------
+    dict = {
+        'cat': 'CAT'
+    }
+    """
+
+    for file in Path('src/content/legend').glob('*.TXT'):
+        # Read file
+        with open(f'{file}', 'r', encoding = 'utf-16') as f:
+            filedata = f.read()
+
+            # Replacements
+            for replacement in replacements.items():
+                regex_expression = re.compile(pattern = rf"\b{replacement[0]}\b")
+
+                filedata = re.sub(pattern = regex_expression,
+                                  repl = replacement[1],
+                                  string = filedata)
+
+                # Rewrites file with the changes
+                with open(f'{file}', 'w', encoding = 'utf-16') as f:
+                    f.write(filedata)
 
 
-def remove_legend(audio_name):
-    # Example: audio_name = [A1_M0401_RIP_8660]
-    string = '\[' + audio_name + '\]'
+def replace_sentence(audio_name: Union[List[str], str], new_sentence: str) -> None:
 
-    regex_expression = rf"(?<={string})[\n]+([^\n]+)"
+    if isinstance(audio_name, str):
+        audio_name_list = list()
+        audio_name_list.append(audio_name)
+
+    if isinstance(audio_name, list):
+        audio_name_list = list(audio_name)
+
+    for audio_name in audio_name_list:
+        audio_name_string = '\[' + audio_name + '\]'
+        regex_expression = rf"(?<={audio_name_string})[\n]+([^\n]+)"
+
+        for file in Path('src/content/legend').glob('*.TXT'):
+            # Read file
+            with open(f'{file}', 'r', encoding = 'utf-16') as f:
+                filedata = f.read()
+
+                # If the readed file have the `audio_name`
+                # then apply the regex replace and rewrite file
+                if audio_name in filedata:
+                    new_filedata = re.sub(pattern = regex_expression,
+                                          repl = f'\n{{{new_sentence}}}',
+                                          string = filedata)
+
+                    # Rewrites file with the changes
+                    with open(f'{file}', 'w', encoding = 'utf-16') as f:
+                        f.write(new_filedata)
+
+
+def remove_subtitle(audio_name: Union[List[str], str]) -> None:
+
+    if isinstance(audio_name, str):
+        audio_name_list = list()
+        audio_name_list.append(audio_name)
+
+    if isinstance(audio_name, list):
+        audio_name_list = list(audio_name)
+
+    for audio_name in audio_name_list:
+        audio_name_string = '\[' + audio_name + '\]'
+        regex_expression = rf"(?<={audio_name_string})[\n]+([^\n]+)"
+
+        for file in Path('src/content/legend').glob('*.TXT'):
+            # Read file
+            with open(f'{file}', 'r', encoding = 'utf-16') as f:
+                filedata = f.read()
+
+                # If the readed file have the `audio_name`
+                # then apply the regex replace and rewrite file
+                if audio_name in filedata:
+                    filedata = re.sub(pattern = regex_expression,
+                                      repl = '\n{}',
+                                      string = filedata)
+
+                    # Rewrites file with the changes
+                    with open(f'{file}', 'w', encoding = 'utf-16') as f:
+                        f.write(filedata)
+
+
+def punctuation_full_stop():
+    regex_expression = r"\{([^\{\}]*)\}"
 
     for file in Path('src/content/legend').glob('*.TXT'):
 
-        # Read file
-        with open(f'{file}', 'r') as f:
-            filedata = f.read()
+        if Path(file).stem != 'UI':
+            # Read file
+            with open(f'{file}', 'r', encoding = 'utf-16') as f:
+                filedata = f.read()
 
-            # If the readed file have the `audio_name`
-            # then apply the regex replace and rewrite file
-            if audio_name in filedata:
-                filedata = re.sub(pattern = regex_expression,
-                                  repl = '\n{}',
-                                  string = filedata)
+                matches = re.finditer(pattern = regex_expression, string = filedata)
 
-                with open(f'{file}', 'w') as f:
+                for match in matches:
+                    print(match)
+
+                    filedata = re.sub(pattern = regex_expression,
+                                      repl = f'{{{match.group(1)}.}}',
+                                      string = filedata)
+
+                # Rewrites file with the changes
+                with open(f'{file}', 'w', encoding = 'utf-16') as f:
                     f.write(filedata)
-
-#dataframe = pandas.read_csv('src/legend_changes.csv', sep = ',')
-#dataframe = dataframe.query("modified_text == '*remover*'")
-#audio_name_list = dataframe['audio_name'].tolist()
-#for audio_name in audio_name_list:
-#    remove_legend(legend_code = audio_name)

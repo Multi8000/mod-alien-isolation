@@ -22,7 +22,7 @@ class Extract():
         self.output_path = 'src/temp/extracted'
 
 
-    def generate_internal_file_name_list(self, input_path):
+    def generate_internal_file_name_list(self, input_path: str) -> None:
 
         files_list = [file for file in Path(input_path).glob('*') if file.is_file()]
 
@@ -38,7 +38,7 @@ class Extract():
                 script_output = run(args = script, stderr = PIPE, shell = True)
 
 
-    def extract_from_pck_bnk(self, input_path):
+    def extract_from_pck_bnk(self, input_path: str) -> None:
 
         files_list = [file for file in Path(input_path).glob('*') if file.is_file()]
 
