@@ -1,4 +1,6 @@
 """
+STEP 01
+
 This script will generate a folder with the internal .WEM and .DAT files
 and a .TXT list with the name of these files.
 
