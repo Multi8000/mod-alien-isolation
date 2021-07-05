@@ -57,6 +57,7 @@ class Convert():
             ffmpeg_script = f'ffmpeg -hide_banner -nostdin -i "{file}" -acodec pcm_s16le -ar 44100 -y {output_path}/{file_name}.wav'
             ffmpeg_output = run(args = ffmpeg_script, stderr = PIPE)
 
+            # Removes the .OGG file after conver to .WAV
             Path(file).unlink()
 
 
@@ -68,4 +69,5 @@ for folder in Path('src/temp/extracted').glob('*'):
 
 for folder in Path('src/temp/converted').glob('*'):
     tools.convert_to_wav(input_path = f'src/temp/converted/{folder.name}')
+
 '''
