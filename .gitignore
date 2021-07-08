@@ -10,6 +10,7 @@ src/temp
 
 # Random scripts
 src/utils/__csv__.py
+src/utils/__rebuild__.py
 
 # Environments
 .env
