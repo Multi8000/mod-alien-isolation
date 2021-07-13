@@ -27,10 +27,10 @@ class Extract():
         files_list = [file for file in Path(input_path).glob('*') if file.is_file()]
 
         for file in files_list:
-            if Path(file).suffix in ['.BNK', '.PCK']:
+            if Path(file).suffix.upper() in ['.BNK', '.PCK']:
 
                 file_name = Path(file).stem
-                output_path = Path(f'{self.output_path}/{file_name}/{file_name}.txt')
+                output_path = Path(f'{self.output_path}/{file_name}.txt')
 
                 make_directory(path = f'{self.output_path}/{file_name}')
 
@@ -43,7 +43,7 @@ class Extract():
         files_list = [file for file in Path(input_path).glob('*') if file.is_file()]
 
         for file in files_list:
-            if Path(file).suffix in ['.BNK', '.PCK']:
+            if Path(file).suffix.upper() in ['.BNK', '.PCK']:
 
                 file_name = Path(file).stem
                 output_path = Path(f'{self.output_path}/{file_name}')
